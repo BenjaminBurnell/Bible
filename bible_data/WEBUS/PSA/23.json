@@ -1,0 +1,31 @@
+{
+  "version": "WEBUS",
+  "book": "PSA",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Yahweh is my shepherd;"
+    },
+    {
+      "verse": "2",
+      "text": "He makes me lie down in green pastures."
+    },
+    {
+      "verse": "3",
+      "text": "He restores my soul."
+    },
+    {
+      "verse": "4",
+      "text": "Even though I walk through the valley of the shadow of death,"
+    },
+    {
+      "verse": "5",
+      "text": "You prepare a table before me"
+    },
+    {
+      "verse": "6",
+      "text": "Surely goodness and loving kindness shall follow me all the days of my life,"
+    }
+  ]
+}
