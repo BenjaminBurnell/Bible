@@ -81,7 +81,7 @@
     },
     {
       "verse": "20",
-      "text": " And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?"
+      "text": "And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?"
     },
     {
       "verse": "21",
@@ -103,5 +103,11 @@
       "verse": "25",
       "text": "And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

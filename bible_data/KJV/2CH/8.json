@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": " As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not of Israel,"
+      "text": "As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not of Israel,"
     },
     {
       "verse": "8",
@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they went with the servants of Solomon to Ophir, and took thence four hundred and fifty talents of gold, and brought them to king Solomon."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

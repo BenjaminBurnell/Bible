@@ -5,91 +5,97 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Man that is born of a woman"
+      "text": "Man that is born of a woman Is of few days, and full of trouble."
     },
     {
       "verse": "2",
-      "text": "He cometh forth like a flower, and is cut down:"
+      "text": "He cometh forth like a flower, and is cut down: He fleeth also as a shadow, and continueth not."
     },
     {
       "verse": "3",
-      "text": "And dost thou open thine eyes upon such an one,"
+      "text": "And dost thou open thine eyes upon such an one, And bringest me into judgment with thee?"
     },
     {
       "verse": "4",
-      "text": "Who can bring a clean thing out of an unclean?"
+      "text": "Who can bring a clean thing out of an unclean? Not one."
     },
     {
       "verse": "5",
-      "text": "Seeing his days are determined, the number of his months are with thee,"
+      "text": "Seeing his days are determined, the number of his months are with thee, Thou hast appointed his bounds that he cannot pass;"
     },
     {
       "verse": "6",
-      "text": "Turn from him, that he may rest,"
+      "text": "Turn from him, that he may rest, Till he shall accomplish, as an hireling, his day."
     },
     {
       "verse": "7",
-      "text": "For there is hope of a tree,"
+      "text": "For there is hope of a tree, If it be cut down, that it will sprout again, And that the tender branch thereof will not cease."
     },
     {
       "verse": "8",
-      "text": "Though the root thereof wax old in the earth,"
+      "text": "Though the root thereof wax old in the earth, And the stock thereof die in the ground;"
     },
     {
       "verse": "9",
-      "text": " Yet through the scent of water it will bud,"
+      "text": "Yet through the scent of water it will bud, And bring forth boughs like a plant."
     },
     {
       "verse": "10",
-      "text": "But man dieth, and wasteth away:"
+      "text": "But man dieth, and wasteth away: Yea, man giveth up the ghost, and where is he?"
     },
     {
       "verse": "11",
-      "text": " As the waters fail from the sea,"
+      "text": "As the waters fail from the sea, And the flood decayeth and drieth up:"
     },
     {
       "verse": "12",
-      "text": "So man lieth down, and riseth not:"
+      "text": "So man lieth down, and riseth not: Till the heavens be no more, they shall not awake, Nor be raised out of their sleep."
     },
     {
       "verse": "13",
-      "text": "O that thou wouldest hide me in the grave,"
+      "text": "O that thou wouldest hide me in the grave, That thou wouldest keep me secret, until thy wrath be past, That thou wouldest appoint me a set time, and remember me!"
     },
     {
       "verse": "14",
-      "text": "If a man die, shall he live again?"
+      "text": "If a man die, shall he live again? All the days of my appointed time will I wait, Till my change come."
     },
     {
       "verse": "15",
-      "text": "Thou shalt call, and I will answer thee:"
+      "text": "Thou shalt call, and I will answer thee: Thou wilt have a desire to the work of thine hands."
     },
     {
       "verse": "16",
-      "text": "For now thou numberest my steps:"
+      "text": "For now thou numberest my steps: Dost thou not watch over my sin?"
     },
     {
       "verse": "17",
-      "text": "My transgression is sealed up in a bag,"
+      "text": "My transgression is sealed up in a bag, And thou sewest up mine iniquity."
     },
     {
       "verse": "18",
-      "text": "And surely the mountain falling cometh to nought,"
+      "text": "And surely the mountain falling cometh to nought, And the rock is removed out of his place."
     },
     {
       "verse": "19",
-      "text": "The waters wear the stones:"
+      "text": "The waters wear the stones: Thou washest away the things which grow out of the dust of the earth; And thou destroyest the hope of man."
     },
     {
       "verse": "20",
-      "text": "Thou prevailest for ever against him, and he passeth:"
+      "text": "Thou prevailest for ever against him, and he passeth: Thou changest his countenance, and sendest him away."
     },
     {
       "verse": "21",
-      "text": "His sons come to honour, and he knoweth it not;"
+      "text": "His sons come to honour, and he knoweth it not; And they are brought low, but he perceiveth it not of them."
     },
     {
       "verse": "22",
-      "text": "But his flesh upon him shall have pain,"
+      "text": "But his flesh upon him shall have pain, And his soul within him shall mourn."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

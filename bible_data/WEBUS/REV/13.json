@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "Here is wisdom. He who has understanding, let him calculate the number of the beast, for it is the number of a man. His number is six hundred sixty-six."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -97,7 +97,7 @@
     },
     {
       "verse": "24",
-      "text": " Thus shalt thou also speak to Shemaiah the Nehelamite, saying,"
+      "text": "Thus shalt thou also speak to Shemaiah the Nehelamite, saying,"
     },
     {
       "verse": "25",
@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "therefore thus saith the LORD ; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD ; because he hath taught rebellion against the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

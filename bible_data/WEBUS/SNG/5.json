@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "His mouth is sweetness; yes, he is altogether lovely. This is my beloved, and this is my friend, daughters of Jerusalem."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

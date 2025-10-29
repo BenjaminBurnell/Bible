@@ -159,5 +159,11 @@
       "verse": "39",
       "text": "‘But it will happen in the latter days that I will reverse the captivity of Elam,’ says Yahweh.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

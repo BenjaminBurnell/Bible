@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "The sons of Ulam were mighty men of valor, archers, and had many sons, and grandsons, one hundred fifty. All these were of the sons of Benjamin."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

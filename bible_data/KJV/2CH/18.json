@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "And the battle increased that day: howbeit the king of Israel stayed himself up in his chariot against the Syrians until the even: and about the time of the sun going down he died."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -155,5 +155,11 @@
       "verse": "38",
       "text": "and the five pillars of it with their hooks: and he overlaid their chapiters and their fillets with gold: but their five sockets were of brass."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

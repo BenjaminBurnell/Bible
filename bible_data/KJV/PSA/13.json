@@ -5,27 +5,33 @@
   "verses": [
     {
       "verse": "1",
-      "text": "How long wilt thou forget me, O LORD ? for ever?"
+      "text": "How long wilt thou forget me, O LORD ? for ever? How long wilt thou hide thy face from me?"
     },
     {
       "verse": "2",
-      "text": "How long shall I take counsel in my soul, Having sorrow in my heart daily?"
+      "text": "How long shall I take counsel in my soul, Having sorrow in my heart daily? How long shall mine enemy be exalted over me?"
     },
     {
       "verse": "3",
-      "text": "Consider and hear me, O LORD my God:"
+      "text": "Consider and hear me, O LORD my God: Lighten mine eyes, lest I sleep the sleep of death;"
     },
     {
       "verse": "4",
-      "text": "Lest mine enemy say, I have prevailed against him;"
+      "text": "Lest mine enemy say, I have prevailed against him; And those that trouble me rejoice when I am moved."
     },
     {
       "verse": "5",
-      "text": "But I have trusted in thy mercy;"
+      "text": "But I have trusted in thy mercy; My heart shall rejoice in thy salvation."
     },
     {
       "verse": "6",
       "text": "I will sing unto the LORD , because he hath dealt bountifully with me."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

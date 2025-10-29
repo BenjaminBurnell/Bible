@@ -5,47 +5,53 @@
   "verses": [
     {
       "verse": "1",
-      "text": "By night on my bed I sought him whom my soul loveth:"
+      "text": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not."
     },
     {
       "verse": "2",
-      "text": "I will rise now, and go about the city"
+      "text": "I will rise now, and go about the city In the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not."
     },
     {
       "verse": "3",
-      "text": "The watchmen that go about the city found me:"
+      "text": "The watchmen that go about the city found me: To whom I said , Saw ye him whom my soul loveth?"
     },
     {
       "verse": "4",
-      "text": " It was but a little that I passed from them,"
+      "text": "It was but a little that I passed from them, But I found him whom my soul loveth: I held him, and would not let him go, Until I had brought him into my mother's house, And into the chamber of her that conceived me."
     },
     {
       "verse": "5",
-      "text": "I charge you, O ye daughters of Jerusalem,"
+      "text": "I charge you, O ye daughters of Jerusalem, By the roes, and by the hinds of the field, That ye stir not up, nor awake my love, Till he please."
     },
     {
       "verse": "6",
-      "text": "Who is this that cometh out of the wilderness"
+      "text": "Who is this that cometh out of the wilderness Like pillars of smoke, Perfumed with myrrh and frankincense, With all powders of the merchant?"
     },
     {
       "verse": "7",
-      "text": "Behold his bed, which is Solomon's;"
+      "text": "Behold his bed, which is Solomon's; Threescore valiant men are about it, Of the valiant of Israel."
     },
     {
       "verse": "8",
-      "text": "They all hold swords,"
+      "text": "They all hold swords, Being expert in war: Every man hath his sword upon his thigh Because of fear in the night."
     },
     {
       "verse": "9",
-      "text": "King Solomon made himself a chariot"
+      "text": "King Solomon made himself a chariot Of the wood of Lebanon."
     },
     {
       "verse": "10",
-      "text": "He made the pillars thereof of silver,"
+      "text": "He made the pillars thereof of silver, The bottom thereof of gold, the covering of it of purple, The midst thereof being paved with love, For the daughters of Jerusalem."
     },
     {
       "verse": "11",
-      "text": "Go forth, O ye daughters of Zion,"
+      "text": "Go forth, O ye daughters of Zion, And behold king Solomon With the crown wherewith his mother crowned him In the day of his espousals, And in the day of the gladness of his heart."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

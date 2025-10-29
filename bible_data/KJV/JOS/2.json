@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they were: "
+      "text": "And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they were:"
     },
     {
       "verse": "5",
@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "and they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

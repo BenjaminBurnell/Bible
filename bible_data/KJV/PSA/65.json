@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Praise waiteth for thee, O God, in Zion:"
+      "text": "Praise waiteth for thee, O God, in Zion: And unto thee shall the vow be performed."
     },
     {
       "verse": "2",
-      "text": "O thou that hearest prayer,"
+      "text": "O thou that hearest prayer, Unto thee shall all flesh come."
     },
     {
       "verse": "3",
-      "text": "Iniquities prevail against me:"
+      "text": "Iniquities prevail against me: As for our transgressions, thou shalt purge them away."
     },
     {
       "verse": "4",
-      "text": "Blessed is the man whom thou choosest, and causest to approach unto thee ,"
+      "text": "Blessed is the man whom thou choosest, and causest to approach unto thee , That he may dwell in thy courts: We shall be satisfied with the goodness of thy house, even of thy holy temple."
     },
     {
       "verse": "5",
-      "text": " By terrible things in righteousness wilt thou answer us, O God of our salvation;"
+      "text": "By terrible things in righteousness wilt thou answer us, O God of our salvation; Who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:"
     },
     {
       "verse": "6",
-      "text": "Which by his strength setteth fast the mountains;"
+      "text": "Which by his strength setteth fast the mountains; Being girded with power:"
     },
     {
       "verse": "7",
-      "text": "Which stilleth the noise of the seas,"
+      "text": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people."
     },
     {
       "verse": "8",
-      "text": "They also that dwell in the uttermost parts are afraid at thy tokens:"
+      "text": "They also that dwell in the uttermost parts are afraid at thy tokens: Thou makest the outgoings of the morning and evening to rejoice."
     },
     {
       "verse": "9",
-      "text": "Thou visitest the earth, and waterest it:"
+      "text": "Thou visitest the earth, and waterest it: Thou greatly enrichest it With the river of God, which is full of water: Thou preparest them corn, when thou hast so provided for it."
     },
     {
       "verse": "10",
-      "text": "Thou waterest the ridges thereof abundantly: Thou settlest the furrows thereof:"
+      "text": "Thou waterest the ridges thereof abundantly: Thou settlest the furrows thereof: Thou makest it soft with showers: Thou blessest the springing thereof."
     },
     {
       "verse": "11",
-      "text": "Thou crownest the year with thy goodness;"
+      "text": "Thou crownest the year with thy goodness; And thy paths drop fatness."
     },
     {
       "verse": "12",
-      "text": "They drop upon the pastures of the wilderness:"
+      "text": "They drop upon the pastures of the wilderness: And the little hills rejoice on every side."
     },
     {
       "verse": "13",
-      "text": "The pastures are clothed with flocks;"
+      "text": "The pastures are clothed with flocks; The valleys also are covered over with corn; They shout for joy, they also sing."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

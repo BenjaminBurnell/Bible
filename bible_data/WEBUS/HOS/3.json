@@ -23,5 +23,11 @@
       "verse": "5",
       "text": "Afterward the children of Israel shall return and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

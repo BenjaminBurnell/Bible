@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "King Joram returned to be healed in Jezreel from the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. Ahaziah the son of Jehoram, king of Judah, went down to see Joram the son of Ahab in Jezreel, because he was sick."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

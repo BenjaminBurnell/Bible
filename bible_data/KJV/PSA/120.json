@@ -5,11 +5,11 @@
   "verses": [
     {
       "verse": "1",
-      "text": "In my distress"
+      "text": "In my distress I cried unto the LORD , and he heard me."
     },
     {
       "verse": "2",
-      "text": "Deliver my soul, O LORD , from lying lips,"
+      "text": "Deliver my soul, O LORD , from lying lips, And from a deceitful tongue."
     },
     {
       "verse": "3",
@@ -21,15 +21,21 @@
     },
     {
       "verse": "5",
-      "text": "Woe is me, that I sojourn in Mesech,"
+      "text": "Woe is me, that I sojourn in Mesech, That I dwell in the tents of Kedar!"
     },
     {
       "verse": "6",
-      "text": "My soul hath long dwelt"
+      "text": "My soul hath long dwelt With him that hateth peace."
     },
     {
       "verse": "7",
-      "text": "I am for peace:"
+      "text": "I am for peace: But when I speak, they are for war."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord GOD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

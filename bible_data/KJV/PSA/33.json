@@ -5,51 +5,51 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Rejoice in the LORD , O ye righteous:"
+      "text": "Rejoice in the LORD , O ye righteous: For praise is comely for the upright."
     },
     {
       "verse": "2",
-      "text": "Praise the LORD with harp:"
+      "text": "Praise the LORD with harp: Sing unto him with the psaltery and an instrument of ten strings."
     },
     {
       "verse": "3",
-      "text": "Sing unto him a new song;"
+      "text": "Sing unto him a new song; Play skilfully with a loud noise."
     },
     {
       "verse": "4",
-      "text": "For the word of the LORD  is right;"
+      "text": "For the word of the LORD is right; And all his works are done in truth."
     },
     {
       "verse": "5",
-      "text": "He loveth righteousness and judgment:"
+      "text": "He loveth righteousness and judgment: The earth is full of the goodness of the LORD ."
     },
     {
       "verse": "6",
-      "text": "By the word of the LORD were the heavens made;"
+      "text": "By the word of the LORD were the heavens made; And all the host of them by the breath of his mouth."
     },
     {
       "verse": "7",
-      "text": "He gathereth the waters of the sea together as an heap:"
+      "text": "He gathereth the waters of the sea together as an heap: He layeth up the depth in storehouses."
     },
     {
       "verse": "8",
-      "text": "Let all the earth fear the LORD :"
+      "text": "Let all the earth fear the LORD : Let all the inhabitants of the world stand in awe of him."
     },
     {
       "verse": "9",
-      "text": "For he spake, and it was done ;"
+      "text": "For he spake, and it was done ; He commanded, and it stood fast."
     },
     {
       "verse": "10",
-      "text": "The LORD bringeth the counsel of the heathen to nought:"
+      "text": "The LORD bringeth the counsel of the heathen to nought: He maketh the devices of the people of none effect."
     },
     {
       "verse": "11",
-      "text": "The counsel of the LORD standeth for ever,"
+      "text": "The counsel of the LORD standeth for ever, The thoughts of his heart to all generations."
     },
     {
       "verse": "12",
-      "text": "Blessed is the nation whose God is the LORD ;"
+      "text": "Blessed is the nation whose God is the LORD ; And the people whom he hath chosen for his own inheritance."
     },
     {
       "verse": "13",
@@ -61,35 +61,41 @@
     },
     {
       "verse": "15",
-      "text": "He fashioneth their hearts alike;"
+      "text": "He fashioneth their hearts alike; He considereth all their works."
     },
     {
       "verse": "16",
-      "text": "There is no king saved by the multitude of an host:"
+      "text": "There is no king saved by the multitude of an host: A mighty man is not delivered by much strength."
     },
     {
       "verse": "17",
-      "text": "An horse is a vain thing for safety:"
+      "text": "An horse is a vain thing for safety: Neither shall he deliver any by his great strength."
     },
     {
       "verse": "18",
-      "text": "Behold, the eye of the LORD  is upon them that fear him,"
+      "text": "Behold, the eye of the LORD is upon them that fear him, Upon them that hope in his mercy;"
     },
     {
       "verse": "19",
-      "text": "To deliver their soul from death,"
+      "text": "To deliver their soul from death, And to keep them alive in famine."
     },
     {
       "verse": "20",
-      "text": "Our soul waiteth for the LORD :"
+      "text": "Our soul waiteth for the LORD : He is our help and our shield."
     },
     {
       "verse": "21",
-      "text": "For our heart shall rejoice in him,"
+      "text": "For our heart shall rejoice in him, Because we have trusted in his holy name."
     },
     {
       "verse": "22",
-      "text": "Let thy mercy, O LORD , be upon us,"
+      "text": "Let thy mercy, O LORD , be upon us, According as we hope in thee."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

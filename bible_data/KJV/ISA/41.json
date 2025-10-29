@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": " When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the LORD will hear them, I the God of Israel will not forsake them."
+      "text": "When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the LORD will hear them, I the God of Israel will not forsake them."
     },
     {
       "verse": "18",
@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "Behold, they are all vanity; their works are nothing: their molten images are wind and confusion."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

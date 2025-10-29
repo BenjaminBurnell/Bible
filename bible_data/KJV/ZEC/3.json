@@ -43,5 +43,11 @@
       "verse": "10",
       "text": "In that day, saith the LORD of hosts, shall ye call every man his neighbour under the vine and under the fig tree."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "“It shall be eighteen thousand reeds in circumference; and the name of the city from that day shall be, ‘Yahweh is there.’"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 123,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "I look up to you, the one who rules from heaven."
+    },
+    {
+      "verse": "2",
+      "text": "Just as servants look to their master, or a maid looks to her mistress, so we keep our eyes on you, Lord our God, waiting for you to be merciful to us."
+    },
+    {
+      "verse": "3",
+      "text": "Please have mercy on us, Lord, have mercy. We've had enough of people's contempt."
+    },
+    {
+      "verse": "4",
+      "text": "We've had more than enough of the scorn of the proud, and the contempt of the arrogant."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

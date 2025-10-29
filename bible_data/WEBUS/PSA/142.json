@@ -31,5 +31,11 @@
       "verse": "7",
       "text": "Bring my soul out of prison, that I may give thanks to your name. The righteous will surround me, for you will be good to me."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

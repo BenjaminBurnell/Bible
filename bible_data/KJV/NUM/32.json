@@ -171,5 +171,11 @@
       "verse": "42",
       "text": "And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? Art not thou he, O LORD our God? therefore we will wait upon thee: for thou hast made all these things ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

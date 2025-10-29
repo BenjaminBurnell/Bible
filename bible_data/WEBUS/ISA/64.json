@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "Will you hold yourself back for these things, Yahweh? Will you keep silent and punish us very severely?"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

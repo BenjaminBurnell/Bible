@@ -13,15 +13,21 @@
     },
     {
       "verse": "3",
-      "text": "Know ye that the LORD he is God:"
+      "text": "Know ye that the LORD he is God: It is he that hath made us, and not we ourselves; We are his people, and the sheep of his pasture."
     },
     {
       "verse": "4",
-      "text": "Enter into his gates with thanksgiving, And into his courts with praise:"
+      "text": "Enter into his gates with thanksgiving, And into his courts with praise: Be thankful unto him, and bless his name."
     },
     {
       "verse": "5",
-      "text": "For the LORD  is good; his mercy is everlasting;"
+      "text": "For the LORD is good; his mercy is everlasting; And his truth endureth to all generations."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

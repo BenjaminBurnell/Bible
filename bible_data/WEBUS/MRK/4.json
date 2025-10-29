@@ -167,5 +167,11 @@
       "verse": "41",
       "text": "They were greatly afraid and said to one another, “Who then is this, that even the wind and the sea obey him?”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

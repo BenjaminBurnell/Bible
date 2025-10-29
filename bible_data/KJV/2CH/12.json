@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "Whereupon the princes of Israel and the king humbled themselves; and they said, The LORD  is righteous."
+      "text": "Whereupon the princes of Israel and the king humbled themselves; and they said, The LORD is righteous."
     },
     {
       "verse": "7",
@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

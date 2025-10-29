@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "The mystery of the seven stars which you saw in my right hand, and the seven golden lamp stands is this: The seven stars are the angels of the seven assemblies. The seven lamp stands are seven assemblies."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

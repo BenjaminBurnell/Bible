@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

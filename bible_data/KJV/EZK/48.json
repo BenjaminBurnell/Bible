@@ -37,7 +37,7 @@
     },
     {
       "verse": "9",
-      "text": "The oblation that ye shall offer unto the LORD  shall be of five and twenty thousand in length, and of ten thousand in breadth."
+      "text": "The oblation that ye shall offer unto the LORD shall be of five and twenty thousand in length, and of ten thousand in breadth."
     },
     {
       "verse": "10",
@@ -141,7 +141,13 @@
     },
     {
       "verse": "35",
-      "text": "It was round about eighteen thousand measures: and the name of the city from that day shall be , The LORD  is there."
+      "text": "It was round about eighteen thousand measures: and the name of the city from that day shall be , The LORD is there."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

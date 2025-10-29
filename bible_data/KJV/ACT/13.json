@@ -165,7 +165,7 @@
     },
     {
       "verse": "41",
-      "text": "Behold, ye despisers, and wonder, and perish:"
+      "text": "Behold, ye despisers, and wonder, and perish: For I work a work in your days, A work which ye shall in no wise believe, though a man declare it unto you."
     },
     {
       "verse": "42",
@@ -189,7 +189,7 @@
     },
     {
       "verse": "47",
-      "text": "For so hath the Lord commanded us, saying ,"
+      "text": "For so hath the Lord commanded us, saying , I have set thee to be a light of the Gentiles, That thou shouldest be for salvation unto the ends of the earth."
     },
     {
       "verse": "48",
@@ -211,5 +211,11 @@
       "verse": "52",
       "text": "And the disciples were filled with joy, and with the Holy Ghost."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

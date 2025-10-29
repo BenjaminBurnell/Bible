@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "For his allowance, there was a continual allowance given him by the king of Babylon, every day a portion until the day of his death, all the days of his life."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

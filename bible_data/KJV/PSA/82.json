@@ -5,35 +5,41 @@
   "verses": [
     {
       "verse": "1",
-      "text": "God standeth in the congregation of the mighty;"
+      "text": "God standeth in the congregation of the mighty; He judgeth among the gods."
     },
     {
       "verse": "2",
-      "text": "How long will ye judge unjustly,"
+      "text": "How long will ye judge unjustly, And accept the persons of the wicked? Selah."
     },
     {
       "verse": "3",
-      "text": "Defend the poor and fatherless:"
+      "text": "Defend the poor and fatherless: Do justice to the afflicted and needy."
     },
     {
       "verse": "4",
-      "text": "Deliver the poor and needy:"
+      "text": "Deliver the poor and needy: Rid them out of the hand of the wicked."
     },
     {
       "verse": "5",
-      "text": "They know not, neither will they understand; They walk on in darkness:"
+      "text": "They know not, neither will they understand; They walk on in darkness: All the foundations of the earth are out of course."
     },
     {
       "verse": "6",
-      "text": "I have said, Ye are gods;"
+      "text": "I have said, Ye are gods; And all of you are children of the most High."
     },
     {
       "verse": "7",
-      "text": "But ye shall die like men,"
+      "text": "But ye shall die like men, And fall like one of the princes."
     },
     {
       "verse": "8",
-      "text": "Arise, O God, judge the earth:"
+      "text": "Arise, O God, judge the earth: For thou shalt inherit all nations."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

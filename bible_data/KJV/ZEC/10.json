@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": "And they shall be as mighty men , which tread down their enemies in the mire of the streets in the battle: and they shall fight, because the LORD  is with them, and the riders on horses shall be confounded."
+      "text": "And they shall be as mighty men , which tread down their enemies in the mire of the streets in the battle: and they shall fight, because the LORD is with them, and the riders on horses shall be confounded."
     },
     {
       "verse": "6",
@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "And I will strengthen them in the LORD ; and they shall walk up and down in his name, saith the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

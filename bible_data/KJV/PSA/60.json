@@ -5,51 +5,57 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O God, thou hast cast us off, thou has scattered us,"
+      "text": "O God, thou hast cast us off, thou has scattered us, Thou hast been displeased; O turn thyself to us again."
     },
     {
       "verse": "2",
-      "text": "Thou hast made the earth to tremble; thou hast broken it:"
+      "text": "Thou hast made the earth to tremble; thou hast broken it: Heal the breaches thereof; for it shaketh."
     },
     {
       "verse": "3",
-      "text": "Thou hast shewed thy people hard things:"
+      "text": "Thou hast shewed thy people hard things: Thou hast made us to drink the wine of astonishment."
     },
     {
       "verse": "4",
-      "text": "Thou hast given a banner to them that fear thee,"
+      "text": "Thou hast given a banner to them that fear thee, That it may be displayed because of the truth. Selah."
     },
     {
       "verse": "5",
-      "text": "That thy beloved may be delivered;"
+      "text": "That thy beloved may be delivered; Save with thy right hand, and hear me."
     },
     {
       "verse": "6",
-      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem,"
+      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, And mete out the valley of Succoth."
     },
     {
       "verse": "7",
-      "text": "Gilead is mine, and Manasseh is mine;"
+      "text": "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
     },
     {
       "verse": "8",
-      "text": "Moab is my washpot; Over Edom will I cast out my shoe:"
+      "text": "Moab is my washpot; Over Edom will I cast out my shoe: Philistia, triumph thou because of me."
     },
     {
       "verse": "9",
-      "text": "Who will bring me into the strong city?"
+      "text": "Who will bring me into the strong city? Who will lead me into Edom?"
     },
     {
       "verse": "10",
-      "text": " Wilt not thou, O God, which hadst cast us off?"
+      "text": "Wilt not thou, O God, which hadst cast us off? And thou , O God, which didst not go out with our armies?"
     },
     {
       "verse": "11",
-      "text": "Give us help from trouble:"
+      "text": "Give us help from trouble: For vain is the help of man."
     },
     {
       "verse": "12",
-      "text": "Through God we shall do valiantly:"
+      "text": "Through God we shall do valiantly: For he it is that shall tread down our enemies."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

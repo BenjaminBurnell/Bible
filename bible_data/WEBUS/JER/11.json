@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "There will be no remnant to them, for I will bring evil on the men of Anathoth, even the year of their visitation.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -187,5 +187,11 @@
       "verse": "46",
       "text": "Yahweh’s hand was on Elijah; and he tucked his cloak into his belt and ran before Ahab to the entrance of Jezreel."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

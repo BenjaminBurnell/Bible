@@ -49,7 +49,7 @@
     },
     {
       "verse": "12",
-      "text": " Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD , thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction."
+      "text": "Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD , thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction."
     },
     {
       "verse": "13",
@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "Shall they therefore empty their net, and not spare continually to slay the nations?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

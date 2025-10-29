@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

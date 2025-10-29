@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": "For unto which of the angels said he at any time,"
+      "text": "For unto which of the angels said he at any time, Thou art my Son, This day have I begotten thee? And again, I will be to him a Father, And he shall be to me a Son?"
     },
     {
       "verse": "6",
@@ -29,35 +29,41 @@
     },
     {
       "verse": "7",
-      "text": "And of the angels he saith,"
+      "text": "And of the angels he saith, Who maketh his angels spirits, And his ministers a flame of fire."
     },
     {
       "verse": "8",
-      "text": "But unto the Son he saith ,"
+      "text": "But unto the Son he saith , Thy throne, O God, is for ever and ever: A sceptre of righteousness is the sceptre of thy kingdom."
     },
     {
       "verse": "9",
-      "text": "Thou hast loved righteousness, and hated iniquity;"
+      "text": "Thou hast loved righteousness, and hated iniquity; Therefore God, even thy God, hath anointed thee With the oil of gladness above thy fellows."
     },
     {
       "verse": "10",
-      "text": "And,"
+      "text": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; And the heavens are the works of thine hands:"
     },
     {
       "verse": "11",
-      "text": "They shall perish; but thou remainest:"
+      "text": "They shall perish; but thou remainest: And they all shall wax old as doth a garment;"
     },
     {
       "verse": "12",
-      "text": "And as a vesture shalt thou fold them up,"
+      "text": "And as a vesture shalt thou fold them up, And they shall be changed: But thou art the same, And thy years shall not fail."
     },
     {
       "verse": "13",
-      "text": "But to which of the angels said he at any time,"
+      "text": "But to which of the angels said he at any time, Sit on my right hand, Until I make thine enemies thy footstool?"
     },
     {
       "verse": "14",
       "text": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

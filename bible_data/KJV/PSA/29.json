@@ -9,23 +9,23 @@
     },
     {
       "verse": "2",
-      "text": "Give unto the LORD the glory due unto his name;"
+      "text": "Give unto the LORD the glory due unto his name; Worship the LORD in the beauty of holiness."
     },
     {
       "verse": "3",
-      "text": "The voice of the LORD  is upon the waters:"
+      "text": "The voice of the LORD is upon the waters: The God of glory thundereth: The LORD is upon many waters."
     },
     {
       "verse": "4",
-      "text": "The voice of the LORD  is powerful;"
+      "text": "The voice of the LORD is powerful; The voice of the LORD is full of majesty."
     },
     {
       "verse": "5",
-      "text": "The voice of the LORD breaketh the cedars;"
+      "text": "The voice of the LORD breaketh the cedars; Yea, the LORD breaketh the cedars of Lebanon."
     },
     {
       "verse": "6",
-      "text": "He maketh them also to skip like a calf;"
+      "text": "He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn."
     },
     {
       "verse": "7",
@@ -37,15 +37,21 @@
     },
     {
       "verse": "9",
-      "text": "The voice of the LORD maketh the hinds to calve, and discovereth the forests:"
+      "text": "The voice of the LORD maketh the hinds to calve, and discovereth the forests: And in his temple doth every one speak of his glory."
     },
     {
       "verse": "10",
-      "text": "The LORD sitteth upon the flood;"
+      "text": "The LORD sitteth upon the flood; Yea, the LORD sitteth King for ever."
     },
     {
       "verse": "11",
-      "text": "The LORD will give strength unto his people;"
+      "text": "The LORD will give strength unto his people; The LORD will bless his people with peace."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

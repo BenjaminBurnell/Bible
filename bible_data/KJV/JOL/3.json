@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "Multitudes, multitudes in the valley of decision: for the day of the LORD  is near in the valley of decision."
+      "text": "Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision."
     },
     {
       "verse": "15",
@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD  will be the hope of his people, and the strength of the children of Israel."
+      "text": "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel."
     },
     {
       "verse": "17",
@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

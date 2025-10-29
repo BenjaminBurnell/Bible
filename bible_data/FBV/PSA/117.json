@@ -1,0 +1,21 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 117,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Praise the Lord, all nations; everyone everywhere, praise how wonderful he is!"
+    },
+    {
+      "verse": "2",
+      "text": "For his trustworthy love for us is above all; his faithfulness is eternal. Praise the Lord!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

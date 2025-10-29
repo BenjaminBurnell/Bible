@@ -97,11 +97,11 @@
     },
     {
       "verse": "24",
-      "text": "and when he had given thanks, he brake it , and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. "
+      "text": "and when he had given thanks, he brake it , and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me."
     },
     {
       "verse": "25",
-      "text": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it , in remembrance of me. "
+      "text": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it , in remembrance of me."
     },
     {
       "verse": "26",
@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

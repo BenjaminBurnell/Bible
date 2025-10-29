@@ -19,5 +19,11 @@
       "verse": "4",
       "text": "Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

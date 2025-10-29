@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O Sing unto the LORD a new song:"
+      "text": "O Sing unto the LORD a new song: Sing unto the LORD , all the earth."
     },
     {
       "verse": "2",
-      "text": "Sing unto the LORD , bless his name;"
+      "text": "Sing unto the LORD , bless his name; Shew forth his salvation from day to day."
     },
     {
       "verse": "3",
-      "text": "Declare his glory among the heathen,"
+      "text": "Declare his glory among the heathen, His wonders among all people."
     },
     {
       "verse": "4",
-      "text": "For the LORD  is great, and greatly to be praised:"
+      "text": "For the LORD is great, and greatly to be praised: He is to be feared above all gods."
     },
     {
       "verse": "5",
-      "text": "For all the gods of the nations are idols:"
+      "text": "For all the gods of the nations are idols: But the LORD made the heavens."
     },
     {
       "verse": "6",
-      "text": "Honour and majesty are before him:"
+      "text": "Honour and majesty are before him: Strength and beauty are in his sanctuary."
     },
     {
       "verse": "7",
-      "text": "Give unto the LORD , O ye kindreds of the people,"
+      "text": "Give unto the LORD , O ye kindreds of the people, Give unto the LORD glory and strength."
     },
     {
       "verse": "8",
-      "text": "Give unto the LORD the glory due unto his name:"
+      "text": "Give unto the LORD the glory due unto his name: Bring an offering, and come into his courts."
     },
     {
       "verse": "9",
-      "text": "O worship the LORD in the beauty of holiness:"
+      "text": "O worship the LORD in the beauty of holiness: Fear before him, all the earth."
     },
     {
       "verse": "10",
-      "text": "Say among the heathen that the LORD reigneth:"
+      "text": "Say among the heathen that the LORD reigneth: The world also shall be established that it shall not be moved: He shall judge the people righteously."
     },
     {
       "verse": "11",
-      "text": "Let the heavens rejoice, and let the earth be glad;"
+      "text": "Let the heavens rejoice, and let the earth be glad; Let the sea roar, and the fulness thereof."
     },
     {
       "verse": "12",
-      "text": "Let the field be joyful, and all that is therein:"
+      "text": "Let the field be joyful, and all that is therein: Then shall all the trees of the wood rejoice"
     },
     {
       "verse": "13",
-      "text": "Before the LORD : for he cometh, for he cometh to judge the earth:"
+      "text": "Before the LORD : for he cometh, for he cometh to judge the earth: He shall judge the world with righteousness, and the people with his truth."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

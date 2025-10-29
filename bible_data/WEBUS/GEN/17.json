@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "All the men of his house, those born in the house, and those bought with money from a foreigner, were circumcised with him."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says Yahweh your God."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, Yahweh, have helped me, and comforted me."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

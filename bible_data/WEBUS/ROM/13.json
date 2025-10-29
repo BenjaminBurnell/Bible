@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

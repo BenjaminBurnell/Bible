@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

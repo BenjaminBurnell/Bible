@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "They shall come and shall declare his righteousness to a people that shall be born, for he has done it."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

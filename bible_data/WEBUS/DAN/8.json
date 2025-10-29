@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "I, Daniel, fainted, and was sick for some days. Then I rose up and did the king’s business. I wondered at the vision, but no one understood it."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

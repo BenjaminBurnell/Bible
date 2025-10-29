@@ -103,5 +103,11 @@
       "verse": "25",
       "text": "Then Saul said to David, “You are blessed, my son David. You will both do mightily, and will surely prevail.” So David went his way, and Saul returned to his place."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

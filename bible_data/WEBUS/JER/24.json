@@ -43,5 +43,11 @@
       "verse": "10",
       "text": "I will send the sword, the famine, and the pestilence among them, until they are consumed from off the land that I gave to them and to their fathers.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

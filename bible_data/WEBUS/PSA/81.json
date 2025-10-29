@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

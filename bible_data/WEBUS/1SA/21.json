@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Do I lack madmen, that you have brought this fellow to play the madman in my presence? Should this fellow come into my house?”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

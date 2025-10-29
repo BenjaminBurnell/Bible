@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "In that day your mouth will be opened to him who has escaped, and you will speak and be no more mute. So you will be a sign to them. Then they will know that I am Yahweh.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

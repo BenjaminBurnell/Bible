@@ -5,15 +5,21 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Behold, how good and how pleasant it is"
+      "text": "Behold, how good and how pleasant it is For brethren to dwell together in unity!"
     },
     {
       "verse": "2",
-      "text": " It is like the precious ointment upon the head, that ran down upon the beard,"
+      "text": "It is like the precious ointment upon the head, that ran down upon the beard, Even Aaron's beard: That went down to the skirts of his garments;"
     },
     {
       "verse": "3",
-      "text": "As the dew of Hermon,"
+      "text": "As the dew of Hermon, And as the dew that descended upon the mountains of Zion: For there the LORD commanded the blessing, Even life for evermore."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

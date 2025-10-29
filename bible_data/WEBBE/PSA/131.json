@@ -1,0 +1,25 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 131,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "LORD , my heart isn’t arrogant, nor my eyes lofty ; nor do I concern myself with great matters , or things too wonderful for me ."
+    },
+    {
+      "verse": "2",
+      "text": "Surely I have stilled and quieted my soul , like a weaned child with his mother, like a weaned child is my soul within me ."
+    },
+    {
+      "verse": "3",
+      "text": "Israel , hope in the LORD , from this time forward and forever more ."
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

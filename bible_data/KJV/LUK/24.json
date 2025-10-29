@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": "And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad? "
+      "text": "And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?"
     },
     {
       "verse": "18",
@@ -101,11 +101,11 @@
     },
     {
       "verse": "25",
-      "text": "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken: "
+      "text": "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:"
     },
     {
       "verse": "26",
-      "text": "ought not Christ to have suffered these things, and to enter into his glory? "
+      "text": "ought not Christ to have suffered these things, and to enter into his glory?"
     },
     {
       "verse": "27",
@@ -145,7 +145,7 @@
     },
     {
       "verse": "36",
-      "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you. "
+      "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you."
     },
     {
       "verse": "37",
@@ -153,11 +153,11 @@
     },
     {
       "verse": "38",
-      "text": "And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts? "
+      "text": "And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?"
     },
     {
       "verse": "39",
-      "text": "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have. "
+      "text": "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
     },
     {
       "verse": "40",
@@ -165,7 +165,7 @@
     },
     {
       "verse": "41",
-      "text": "And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat? "
+      "text": "And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?"
     },
     {
       "verse": "42",
@@ -177,7 +177,7 @@
     },
     {
       "verse": "44",
-      "text": "And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me. "
+      "text": "And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."
     },
     {
       "verse": "45",
@@ -185,15 +185,15 @@
     },
     {
       "verse": "46",
-      "text": "and said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day: "
+      "text": "and said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:"
     },
     {
       "verse": "47",
-      "text": "and that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem. "
+      "text": "and that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
     },
     {
       "verse": "48",
-      "text": "And ye are witnesses of these things. "
+      "text": "And ye are witnesses of these things."
     },
     {
       "verse": "49",
@@ -215,5 +215,11 @@
       "verse": "53",
       "text": "and were continually in the temple, praising and blessing God. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

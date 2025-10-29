@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": "and the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD ; and by their word shall every controversy and every stroke be tried: "
+      "text": "and the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD ; and by their word shall every controversy and every stroke be tried:"
     },
     {
       "verse": "6",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "his body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

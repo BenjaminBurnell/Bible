@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

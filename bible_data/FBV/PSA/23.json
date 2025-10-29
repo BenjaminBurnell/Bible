@@ -1,0 +1,37 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Since the Lord is my shepherd, I have everything I need."
+    },
+    {
+      "verse": "2",
+      "text": "He gives me rest in green fields. He leads me towards quietly flowing streams."
+    },
+    {
+      "verse": "3",
+      "text": "He revives me. He guides me along the right paths because that's the kind of person he is."
+    },
+    {
+      "verse": "4",
+      "text": "Even when I walk through the valley dark as death, I'm not afraid of any evil, because you are right there with me; your rod and your staff protect me."
+    },
+    {
+      "verse": "5",
+      "text": "You prepare a banquet for me before my enemies. You honor me by anointing my head with olive oil. My cup is so full it overflows!"
+    },
+    {
+      "verse": "6",
+      "text": "I'm absolutely certain that your goodness and trustworthy love will be with me all through my life, and I will live in the house of the Lord forever."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

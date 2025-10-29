@@ -93,7 +93,7 @@
     },
     {
       "verse": "23",
-      "text": " Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:"
+      "text": "Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:"
     },
     {
       "verse": "24",
@@ -105,7 +105,7 @@
     },
     {
       "verse": "26",
-      "text": " Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites."
+      "text": "Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites."
     },
     {
       "verse": "27",
@@ -177,7 +177,7 @@
     },
     {
       "verse": "44",
-      "text": " Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites."
+      "text": "Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites."
     },
     {
       "verse": "45",
@@ -193,7 +193,7 @@
     },
     {
       "verse": "48",
-      "text": " Of the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:"
+      "text": "Of the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:"
     },
     {
       "verse": "49",
@@ -263,5 +263,11 @@
       "verse": "65",
       "text": "For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

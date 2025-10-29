@@ -27,5 +27,11 @@
       "verse": "6",
       "text": "Cry aloud and shout, you inhabitant of Zion, for the Holy One of Israel is great among you!”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

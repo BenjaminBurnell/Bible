@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "When Jesus heard that , he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby. "
+      "text": "When Jesus heard that , he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby."
     },
     {
       "verse": "5",
@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "Then after that saith he to his disciples, Let us go into Judæa again. "
+      "text": "Then after that saith he to his disciples, Let us go into Judæa again."
     },
     {
       "verse": "8",
@@ -37,11 +37,11 @@
     },
     {
       "verse": "9",
-      "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world. "
+      "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world."
     },
     {
       "verse": "10",
-      "text": "But if a man walk in the night, he stumbleth, because there is no light in him. "
+      "text": "But if a man walk in the night, he stumbleth, because there is no light in him."
     },
     {
       "verse": "11",
@@ -57,11 +57,11 @@
     },
     {
       "verse": "14",
-      "text": "Then said Jesus unto them plainly, Lazarus is dead. "
+      "text": "Then said Jesus unto them plainly, Lazarus is dead."
     },
     {
       "verse": "15",
-      "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him. "
+      "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him."
     },
     {
       "verse": "16",
@@ -93,7 +93,7 @@
     },
     {
       "verse": "23",
-      "text": "Jesus saith unto her, Thy brother shall rise again. "
+      "text": "Jesus saith unto her, Thy brother shall rise again."
     },
     {
       "verse": "24",
@@ -101,11 +101,11 @@
     },
     {
       "verse": "25",
-      "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: "
+      "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:"
     },
     {
       "verse": "26",
-      "text": "and whosoever liveth and believeth in me shall never die. Believest thou this? "
+      "text": "and whosoever liveth and believeth in me shall never die. Believest thou this?"
     },
     {
       "verse": "27",
@@ -161,23 +161,23 @@
     },
     {
       "verse": "40",
-      "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God? "
+      "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?"
     },
     {
       "verse": "41",
-      "text": "Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me. "
+      "text": "Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me."
     },
     {
       "verse": "42",
-      "text": "And I knew that thou hearest me always: but because of the people which stand by I said it , that they may believe that thou hast sent me. "
+      "text": "And I knew that thou hearest me always: but because of the people which stand by I said it , that they may believe that thou hast sent me."
     },
     {
       "verse": "43",
-      "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth. "
+      "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth."
     },
     {
       "verse": "44",
-      "text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go. "
+      "text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go."
     },
     {
       "verse": "45",
@@ -231,5 +231,11 @@
       "verse": "57",
       "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it , that they might take him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

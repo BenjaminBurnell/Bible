@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "For it is written,"
+      "text": "For it is written, As I live, saith the Lord, every knee shall bow to me, And every tongue shall confess to God."
     },
     {
       "verse": "12",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

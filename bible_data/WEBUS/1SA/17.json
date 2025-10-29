@@ -235,5 +235,11 @@
       "verse": "58",
       "text": "Saul said to him, “Whose son are you, you young man?” David answered, “I am the son of your servant Jesse the Bethlehemite.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

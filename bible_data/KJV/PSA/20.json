@@ -5,39 +5,45 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The LORD hear thee in the day of trouble;"
+      "text": "The LORD hear thee in the day of trouble; The name of the God of Jacob defend thee;"
     },
     {
       "verse": "2",
-      "text": "Send thee help from the sanctuary,"
+      "text": "Send thee help from the sanctuary, And strengthen thee out of Zion;"
     },
     {
       "verse": "3",
-      "text": "Remember all thy offerings,"
+      "text": "Remember all thy offerings, And accept thy burnt sacrifice; Selah."
     },
     {
       "verse": "4",
-      "text": "Grant thee according to thine own heart,"
+      "text": "Grant thee according to thine own heart, And fulfil all thy counsel."
     },
     {
       "verse": "5",
-      "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners:"
+      "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: The LORD fulfil all thy petitions."
     },
     {
       "verse": "6",
-      "text": "Now know I that the LORD saveth his anointed; He will hear him from his holy heaven"
+      "text": "Now know I that the LORD saveth his anointed; He will hear him from his holy heaven With the saving strength of his right hand."
     },
     {
       "verse": "7",
-      "text": "Some trust in chariots, and some in horses:"
+      "text": "Some trust in chariots, and some in horses: But we will remember the name of the LORD our God."
     },
     {
       "verse": "8",
-      "text": "They are brought down and fallen:"
+      "text": "They are brought down and fallen: But we are risen, and stand upright."
     },
     {
       "verse": "9",
-      "text": "Save, LORD :"
+      "text": "Save, LORD : Let the king hear us when we call."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

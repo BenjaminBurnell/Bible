@@ -179,5 +179,11 @@
       "verse": "44",
       "text": "and the rest should follow, some on planks and some on other things from the ship. So they all escaped safely to the land."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

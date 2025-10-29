@@ -183,5 +183,11 @@
       "verse": "45",
       "text": "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

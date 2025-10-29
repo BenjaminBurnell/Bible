@@ -5,71 +5,77 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I am the rose of Sharon,"
+      "text": "I am the rose of Sharon, And the lily of the valleys."
     },
     {
       "verse": "2",
-      "text": "As the lily among thorns,"
+      "text": "As the lily among thorns, So is my love among the daughters."
     },
     {
       "verse": "3",
-      "text": "As the apple tree among the trees of the wood,"
+      "text": "As the apple tree among the trees of the wood, So is my beloved among the sons. I sat down under his shadow with great delight, And his fruit was sweet to my taste."
     },
     {
       "verse": "4",
-      "text": "He brought me to the banqueting house,"
+      "text": "He brought me to the banqueting house, And his banner over me was love."
     },
     {
       "verse": "5",
-      "text": "Stay me with flagons,"
+      "text": "Stay me with flagons, Comfort me with apples: For I am sick of love."
     },
     {
       "verse": "6",
-      "text": "His left hand is under my head,"
+      "text": "His left hand is under my head, And his right hand doth embrace me."
     },
     {
       "verse": "7",
-      "text": "I charge you, O ye daughters of Jerusalem,"
+      "text": "I charge you, O ye daughters of Jerusalem, By the roes, and by the hinds of the field, That ye stir not up, nor awake my love, Till he please."
     },
     {
       "verse": "8",
-      "text": "The voice of my beloved!"
+      "text": "The voice of my beloved! Behold, he cometh Leaping upon the mountains, Skipping upon the hills."
     },
     {
       "verse": "9",
-      "text": "My beloved is like a roe"
+      "text": "My beloved is like a roe Or a young hart: Behold, he standeth Behind our wall, He looketh forth at the windows, Shewing himself through the lattice."
     },
     {
       "verse": "10",
-      "text": "My beloved spake, and said unto me,"
+      "text": "My beloved spake, and said unto me, Rise up, my love, my fair one, And come away."
     },
     {
       "verse": "11",
-      "text": "For, lo, the winter is past,"
+      "text": "For, lo, the winter is past, The rain is over and gone;"
     },
     {
       "verse": "12",
-      "text": "The flowers appear on the earth;"
+      "text": "The flowers appear on the earth; The time of the singing of birds is come, And the voice of the turtle Is heard in our land;"
     },
     {
       "verse": "13",
-      "text": "The fig tree putteth forth her green figs,"
+      "text": "The fig tree putteth forth her green figs, And the vines with the tender grape Give a good smell. Arise, my love, my fair one, and come away."
     },
     {
       "verse": "14",
-      "text": "O my dove, that art in the clefts of the rock,"
+      "text": "O my dove, that art in the clefts of the rock, In the secret places of the stairs, Let me see thy countenance, Let me hear thy voice; For sweet is thy voice, And thy countenance is comely."
     },
     {
       "verse": "15",
-      "text": "Take us the foxes,"
+      "text": "Take us the foxes, The little foxes, That spoil the vines: For our vines have tender grapes."
     },
     {
       "verse": "16",
-      "text": "My beloved is mine, and I am his:"
+      "text": "My beloved is mine, and I am his: He feedeth among the lilies."
     },
     {
       "verse": "17",
-      "text": "Until the day break,"
+      "text": "Until the day break, And the shadows flee away, Turn, my beloved, and be thou like a roe or a young hart Upon the mountains of Bether."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

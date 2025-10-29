@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "The rest of the acts of Abijah, his ways, and his sayings are written in the commentary of the prophet Iddo."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

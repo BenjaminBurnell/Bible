@@ -183,5 +183,11 @@
       "verse": "45",
       "text": "Then the Amalekites came down, and the Canaanites who lived in that mountain, and struck them and beat them down even to Hormah."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

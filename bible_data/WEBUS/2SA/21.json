@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "These four were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

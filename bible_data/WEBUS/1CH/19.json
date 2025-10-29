@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "When the servants of Hadadezer saw that they were defeated by Israel, they made peace with David and served him. The Syrians would not help the children of Ammon any more."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

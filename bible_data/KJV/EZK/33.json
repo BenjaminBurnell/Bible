@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

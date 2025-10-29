@@ -5,59 +5,65 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O that thou wert as my brother,"
+      "text": "O that thou wert as my brother, That sucked the breasts of my mother! When I should find thee without, I would kiss thee; Yea, I should not be despised."
     },
     {
       "verse": "2",
-      "text": "I would lead thee,"
+      "text": "I would lead thee, And bring thee into my mother's house, Who would instruct me: I would cause thee to drink of spiced wine Of the juice of my pomegranate."
     },
     {
       "verse": "3",
-      "text": "His left hand should be under my head,"
+      "text": "His left hand should be under my head, And his right hand should embrace me."
     },
     {
       "verse": "4",
-      "text": "I charge you, O daughters of Jerusalem,"
+      "text": "I charge you, O daughters of Jerusalem, That ye stir not up, nor awake my love, Until he please."
     },
     {
       "verse": "5",
-      "text": "Who is this that cometh up from the wilderness,"
+      "text": "Who is this that cometh up from the wilderness, Leaning upon her beloved? I raised thee up under the apple tree: There thy mother brought thee forth: There she brought thee forth that bare thee."
     },
     {
       "verse": "6",
-      "text": "Set me as a seal upon thine heart,"
+      "text": "Set me as a seal upon thine heart, As a seal upon thine arm: For love is strong as death; Jealousy is cruel as the grave: The coals thereof are coals of fire, Which hath a most vehement flame."
     },
     {
       "verse": "7",
-      "text": "Many waters cannot quench love,"
+      "text": "Many waters cannot quench love, Neither can the floods drown it: If a man would give all the substance of his house for love, It would utterly be contemned."
     },
     {
       "verse": "8",
-      "text": "We have a little sister,"
+      "text": "We have a little sister, And she hath no breasts: What shall we do for our sister In the day when she shall be spoken for?"
     },
     {
       "verse": "9",
-      "text": "If she be a wall,"
+      "text": "If she be a wall, We will build upon her a palace of silver: And if she be a door, We will inclose her with boards of cedar."
     },
     {
       "verse": "10",
-      "text": "I am a wall,"
+      "text": "I am a wall, And my breasts like towers: Then was I in his eyes As one that found favour."
     },
     {
       "verse": "11",
-      "text": "Solomon had a vineyard at Baalhamon;"
+      "text": "Solomon had a vineyard at Baalhamon; He let out the vineyard unto keepers; Every one for the fruit thereof was to bring a thousand pieces of silver."
     },
     {
       "verse": "12",
-      "text": "My vineyard, which is mine, is before me:"
+      "text": "My vineyard, which is mine, is before me: Thou, O Solomon, must have a thousand, And those that keep the fruit thereof two hundred."
     },
     {
       "verse": "13",
-      "text": "Thou that dwellest in the gardens,"
+      "text": "Thou that dwellest in the gardens, The companions hearken to thy voice: Cause me to hear it ."
     },
     {
       "verse": "14",
-      "text": "Make haste, my beloved,"
+      "text": "Make haste, my beloved, And be thou like to a roe Or to a young hart Upon the mountains of spices."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -5,39 +5,39 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I love the LORD ,"
+      "text": "I love the LORD , Because he hath heard my voice and my supplications."
     },
     {
       "verse": "2",
-      "text": "Because he hath inclined his ear unto me,"
+      "text": "Because he hath inclined his ear unto me, Therefore will I call upon him as long as I live."
     },
     {
       "verse": "3",
-      "text": "The sorrows of death compassed me,"
+      "text": "The sorrows of death compassed me, And the pains of hell gat hold upon me: I found trouble and sorrow."
     },
     {
       "verse": "4",
-      "text": "Then called I upon the name of the LORD ;"
+      "text": "Then called I upon the name of the LORD ; O LORD , I beseech thee, deliver my soul."
     },
     {
       "verse": "5",
-      "text": "Gracious is the LORD , and righteous;"
+      "text": "Gracious is the LORD , and righteous; Yea, our God is merciful."
     },
     {
       "verse": "6",
-      "text": "The LORD preserveth the simple:"
+      "text": "The LORD preserveth the simple: I was brought low, and he helped me."
     },
     {
       "verse": "7",
-      "text": "Return unto thy rest, O my soul;"
+      "text": "Return unto thy rest, O my soul; For the LORD hath dealt bountifully with thee."
     },
     {
       "verse": "8",
-      "text": "For thou hast delivered my soul from death,"
+      "text": "For thou hast delivered my soul from death, Mine eyes from tears, and my feet from falling."
     },
     {
       "verse": "9",
-      "text": "I will walk before"
+      "text": "I will walk before The LORD in the land of the living."
     },
     {
       "verse": "10",
@@ -49,11 +49,11 @@
     },
     {
       "verse": "12",
-      "text": "What shall I render unto the LORD"
+      "text": "What shall I render unto the LORD For all his benefits toward me?"
     },
     {
       "verse": "13",
-      "text": "I will take the cup of salvation,"
+      "text": "I will take the cup of salvation, And call upon the name of the LORD ."
     },
     {
       "verse": "14",
@@ -61,15 +61,15 @@
     },
     {
       "verse": "15",
-      "text": "Precious in the sight of the LORD  is the death of his saints."
+      "text": "Precious in the sight of the LORD is the death of his saints."
     },
     {
       "verse": "16",
-      "text": "O LORD , truly I am thy servant;"
+      "text": "O LORD , truly I am thy servant; I am thy servant, and the son of thine handmaid: Thou hast loosed my bonds."
     },
     {
       "verse": "17",
-      "text": "I will offer to thee the sacrifice of thanksgiving,"
+      "text": "I will offer to thee the sacrifice of thanksgiving, And will call upon the name of the LORD ."
     },
     {
       "verse": "18",
@@ -77,7 +77,13 @@
     },
     {
       "verse": "19",
-      "text": "In the courts of the LORD 's house, in the midst of thee, O Jerusalem."
+      "text": "In the courts of the LORD 's house, in the midst of thee, O Jerusalem. Praise ye the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

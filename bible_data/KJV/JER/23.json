@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE Lord OUR RIGHTEOUSNESS."
+      "text": "In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THELordOUR RIGHTEOUSNESS."
     },
     {
       "verse": "7",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "For who hath stood in the counsel of the LORD , and hath perceived and heard his word? who hath marked his word, and heard it? "
+      "text": "For who hath stood in the counsel of the LORD , and hath perceived and heard his word? who hath marked his word, and heard it?"
     },
     {
       "verse": "19",
@@ -93,7 +93,7 @@
     },
     {
       "verse": "23",
-      "text": " Am I a God at hand, saith the LORD , and not a God afar off?"
+      "text": "Am I a God at hand, saith the LORD , and not a God afar off?"
     },
     {
       "verse": "24",
@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "and I will bring an everlasting reproach upon you, and a perpetual shame, which shall not be forgotten."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

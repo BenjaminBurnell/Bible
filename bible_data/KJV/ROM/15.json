@@ -37,19 +37,19 @@
     },
     {
       "verse": "9",
-      "text": "and that the Gentiles might glorify God for his mercy; as it is written,"
+      "text": "and that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, And sing unto thy name."
     },
     {
       "verse": "10",
-      "text": "And again he saith,"
+      "text": "And again he saith, Rejoice, ye Gentiles, with his people."
     },
     {
       "verse": "11",
-      "text": "And again,"
+      "text": "And again, Praise the Lord, all ye Gentiles; And laud him, all ye people."
     },
     {
       "verse": "12",
-      "text": "And again, Esaias saith,"
+      "text": "And again, Esaias saith, There shall be a root of Jesse, And he that shall rise to reign over the Gentiles; In him shall the Gentiles trust."
     },
     {
       "verse": "13",
@@ -85,7 +85,7 @@
     },
     {
       "verse": "21",
-      "text": "But as it is written,"
+      "text": "But as it is written, To whom he was not spoken of, they shall see: And they that have not heard shall understand."
     },
     {
       "verse": "22",
@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "Now the God of peace be with you all. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

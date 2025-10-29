@@ -5,47 +5,53 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O come, let us sing unto the LORD :"
+      "text": "O come, let us sing unto the LORD : Let us make a joyful noise to the rock of our salvation."
     },
     {
       "verse": "2",
-      "text": "Let us come before his presence with thanksgiving,"
+      "text": "Let us come before his presence with thanksgiving, And make a joyful noise unto him with psalms."
     },
     {
       "verse": "3",
-      "text": "For the LORD  is a great God,"
+      "text": "For the LORD is a great God, And a great King above all gods."
     },
     {
       "verse": "4",
-      "text": "In his hand are the deep places of the earth:"
+      "text": "In his hand are the deep places of the earth: The strength of the hills is his also."
     },
     {
       "verse": "5",
-      "text": "The sea is his, and he made it:"
+      "text": "The sea is his, and he made it: And his hands formed the dry land ."
     },
     {
       "verse": "6",
-      "text": "O come, let us worship and bow down:"
+      "text": "O come, let us worship and bow down: Let us kneel before the LORD our maker."
     },
     {
       "verse": "7",
-      "text": "For he is our God;"
+      "text": "For he is our God; And we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,"
     },
     {
       "verse": "8",
-      "text": "Harden not your heart,"
+      "text": "Harden not your heart, As in the provocation, and as in the day of temptation in the wilderness:"
     },
     {
       "verse": "9",
-      "text": "When your fathers tempted me,"
+      "text": "When your fathers tempted me, Proved me, and saw my work."
     },
     {
       "verse": "10",
-      "text": "Forty years long was I grieved with this generation,"
+      "text": "Forty years long was I grieved with this generation, And said, It is a people that do err in their heart, and they have not known my ways:"
     },
     {
       "verse": "11",
-      "text": "Unto whom I sware in my wrath"
+      "text": "Unto whom I sware in my wrath That they should not enter into my rest."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

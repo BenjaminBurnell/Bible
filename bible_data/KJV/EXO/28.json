@@ -145,7 +145,7 @@
     },
     {
       "verse": "36",
-      "text": "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLINESS TO THE Lord."
+      "text": "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLINESS TO THELord."
     },
     {
       "verse": "37",
@@ -175,5 +175,11 @@
       "verse": "43",
       "text": "and they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place ; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

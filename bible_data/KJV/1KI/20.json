@@ -113,7 +113,7 @@
     },
     {
       "verse": "28",
-      "text": "And there came a man of God, and spake unto the king of Israel, and said, Thus saith the LORD , Because the Syrians have said, The LORD  is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the LORD ."
+      "text": "And there came a man of God, and spake unto the king of Israel, and said, Thus saith the LORD , Because the Syrians have said, The LORD is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the LORD ."
     },
     {
       "verse": "29",
@@ -175,5 +175,11 @@
       "verse": "43",
       "text": "And the king of Israel went to his house heavy and displeased, and came to Samaria."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

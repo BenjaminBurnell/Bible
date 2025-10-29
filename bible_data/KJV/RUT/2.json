@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "And, behold, Boaz came from Beth-lehem, and said unto the reapers, The LORD  be with you. And they answered him, The LORD bless thee."
+      "text": "And, behold, Boaz came from Beth-lehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee."
     },
     {
       "verse": "5",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -5,15 +5,21 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Behold, bless ye the LORD ,"
+      "text": "Behold, bless ye the LORD , All ye servants of the LORD , Which by night stand in the house of the LORD ."
     },
     {
       "verse": "2",
-      "text": "Lift up your hands in the sanctuary,"
+      "text": "Lift up your hands in the sanctuary, And bless the LORD ."
     },
     {
       "verse": "3",
-      "text": "The LORD that made heaven and earth"
+      "text": "The LORD that made heaven and earth Bless thee out of Zion."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

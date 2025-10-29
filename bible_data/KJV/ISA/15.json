@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence;"
+      "text": "The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; Because in the night Kir of Moab is laid waste, and brought to silence;"
     },
     {
       "verse": "2",
@@ -39,5 +39,11 @@
       "verse": "9",
       "text": "For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

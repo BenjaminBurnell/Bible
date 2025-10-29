@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "And I heard a voice saying unto me, Arise, Peter; slay and eat. "
+      "text": "And I heard a voice saying unto me, Arise, Peter; slay and eat."
     },
     {
       "verse": "8",
@@ -37,7 +37,7 @@
     },
     {
       "verse": "9",
-      "text": "But the voice answered me again from heaven, What God hath cleansed, that call not thou common. "
+      "text": "But the voice answered me again from heaven, What God hath cleansed, that call not thou common."
     },
     {
       "verse": "10",
@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost. "
+      "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
     },
     {
       "verse": "17",
@@ -123,5 +123,11 @@
       "verse": "30",
       "text": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

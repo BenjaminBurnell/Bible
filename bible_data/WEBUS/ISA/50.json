@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "Behold, all you who kindle a fire, who adorn yourselves with torches around yourselves, walk in the flame of your fire, and among the torches that you have kindled. You will have this from my hand: you will lie down in sorrow."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

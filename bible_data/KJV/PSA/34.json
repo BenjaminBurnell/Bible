@@ -5,91 +5,97 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I will bless the LORD at all times:"
+      "text": "I will bless the LORD at all times: His praise shall continually be in my mouth."
     },
     {
       "verse": "2",
-      "text": "My soul shall make her boast in the LORD :"
+      "text": "My soul shall make her boast in the LORD : The humble shall hear thereof , and be glad."
     },
     {
       "verse": "3",
-      "text": "O magnify the LORD with me,"
+      "text": "O magnify the LORD with me, And let us exalt his name together."
     },
     {
       "verse": "4",
-      "text": "I sought the LORD , and he heard me,"
+      "text": "I sought the LORD , and he heard me, And delivered me from all my fears."
     },
     {
       "verse": "5",
-      "text": "They looked unto him, and were lightened:"
+      "text": "They looked unto him, and were lightened: And their faces were not ashamed."
     },
     {
       "verse": "6",
-      "text": "This poor man cried, and the LORD heard him ,"
+      "text": "This poor man cried, and the LORD heard him , And saved him out of all his troubles."
     },
     {
       "verse": "7",
-      "text": "The angel of the LORD encampeth round about them that fear him,"
+      "text": "The angel of the LORD encampeth round about them that fear him, And delivereth them."
     },
     {
       "verse": "8",
-      "text": "O taste and see that the LORD  is good:"
+      "text": "O taste and see that the LORD is good: Blessed is the man that trusteth in him."
     },
     {
       "verse": "9",
-      "text": "O fear the LORD , ye his saints:"
+      "text": "O fear the LORD , ye his saints: For there is no want to them that fear him."
     },
     {
       "verse": "10",
-      "text": "The young lions do lack, and suffer hunger:"
+      "text": "The young lions do lack, and suffer hunger: But they that seek the LORD shall not want any good thing ."
     },
     {
       "verse": "11",
-      "text": "Come, ye children, hearken unto me:"
+      "text": "Come, ye children, hearken unto me: I will teach you the fear of the LORD ."
     },
     {
       "verse": "12",
-      "text": "What man is he that desireth life,"
+      "text": "What man is he that desireth life, And loveth many days, that he may see good?"
     },
     {
       "verse": "13",
-      "text": "Keep thy tongue from evil,"
+      "text": "Keep thy tongue from evil, And thy lips from speaking guile."
     },
     {
       "verse": "14",
-      "text": "Depart from evil, and do good;"
+      "text": "Depart from evil, and do good; Seek peace, and pursue it."
     },
     {
       "verse": "15",
-      "text": "The eyes of the LORD  are upon the righteous,"
+      "text": "The eyes of the LORD are upon the righteous, And his ears are open unto their cry."
     },
     {
       "verse": "16",
-      "text": "The face of the LORD  is against them that do evil,"
+      "text": "The face of the LORD is against them that do evil, To cut off the remembrance of them from the earth."
     },
     {
       "verse": "17",
-      "text": " The righteous cry, and the LORD heareth,"
+      "text": "The righteous cry, and the LORD heareth, And delivereth them out of all their troubles."
     },
     {
       "verse": "18",
-      "text": "The LORD  is nigh unto them that are of a broken heart;"
+      "text": "The LORD is nigh unto them that are of a broken heart; And saveth such as be of a contrite spirit."
     },
     {
       "verse": "19",
-      "text": "Many are the afflictions of the righteous:"
+      "text": "Many are the afflictions of the righteous: But the LORD delivereth him out of them all."
     },
     {
       "verse": "20",
-      "text": "He keepeth all his bones:"
+      "text": "He keepeth all his bones: Not one of them is broken."
     },
     {
       "verse": "21",
-      "text": "Evil shall slay the wicked:"
+      "text": "Evil shall slay the wicked: And they that hate the righteous shall be desolate."
     },
     {
       "verse": "22",
-      "text": "The LORD redeemeth the soul of his servants:"
+      "text": "The LORD redeemeth the soul of his servants: And none of them that trust in him shall be desolate."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

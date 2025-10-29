@@ -137,7 +137,7 @@
     },
     {
       "verse": "34",
-      "text": "And the LORD said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight: "
+      "text": "And the LORD said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:"
     },
     {
       "verse": "35",
@@ -155,5 +155,11 @@
       "verse": "38",
       "text": "Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

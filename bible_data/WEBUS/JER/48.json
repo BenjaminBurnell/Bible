@@ -191,5 +191,11 @@
       "verse": "47",
       "text": "“Yet I will reverse the captivity of Moab in the latter days,” says Yahweh. Thus far is the judgment of Moab."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

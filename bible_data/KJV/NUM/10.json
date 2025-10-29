@@ -137,7 +137,7 @@
     },
     {
       "verse": "34",
-      "text": "And the cloud of the LORD  was upon them by day, when they went out of the camp."
+      "text": "And the cloud of the LORD was upon them by day, when they went out of the camp."
     },
     {
       "verse": "35",
@@ -147,5 +147,11 @@
       "verse": "36",
       "text": "And when it rested, he said, Return, O LORD , unto the many thousands of Israel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

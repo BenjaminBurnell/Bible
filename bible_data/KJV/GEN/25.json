@@ -93,7 +93,7 @@
     },
     {
       "verse": "23",
-      "text": "And the LORD said unto her,"
+      "text": "And the LORD said unto her, Two nations are in thy womb, And two manner of people shall be separated from thy bowels; And the one people shall be stronger than the other people; And the elder shall serve the younger."
     },
     {
       "verse": "24",
@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

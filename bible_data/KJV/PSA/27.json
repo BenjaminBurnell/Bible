@@ -5,59 +5,65 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The LORD  is my light and my salvation; whom shall I fear?"
+      "text": "The LORD is my light and my salvation; whom shall I fear? The LORD is the strength of my life; of whom shall I be afraid?"
     },
     {
       "verse": "2",
-      "text": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh,"
+      "text": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, They stumbled and fell."
     },
     {
       "verse": "3",
-      "text": "Though an host should encamp against me, my heart shall not fear:"
+      "text": "Though an host should encamp against me, my heart shall not fear: Though war should rise against me, in this will I be confident."
     },
     {
       "verse": "4",
-      "text": "One thing have I desired of the LORD , that will I seek after;"
+      "text": "One thing have I desired of the LORD , that will I seek after; That I may dwell in the house of the LORD all the days of my life, To behold the beauty of the LORD , and to enquire in his temple."
     },
     {
       "verse": "5",
-      "text": "For in the time of trouble he shall hide me in his pavilion:"
+      "text": "For in the time of trouble he shall hide me in his pavilion: In the secret of his tabernacle shall he hide me; he shall set me up upon a rock."
     },
     {
       "verse": "6",
-      "text": "And now shall mine head be lifted up,"
+      "text": "And now shall mine head be lifted up, Above mine enemies round about me: Therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD ."
     },
     {
       "verse": "7",
-      "text": "Hear, O LORD , when I cry with my voice:"
+      "text": "Hear, O LORD , when I cry with my voice: Have mercy also upon me, and answer me."
     },
     {
       "verse": "8",
-      "text": " When thou saidst , Seek ye my face; my heart said unto thee,"
+      "text": "When thou saidst , Seek ye my face; my heart said unto thee, Thy face, LORD , will I seek."
     },
     {
       "verse": "9",
-      "text": "Hide not thy face far from me;"
+      "text": "Hide not thy face far from me; Put not thy servant away in anger: Thou hast been my help; Leave me not, neither forsake me, O God of my salvation."
     },
     {
       "verse": "10",
-      "text": "When my father and my mother forsake me,"
+      "text": "When my father and my mother forsake me, Then the LORD will take me up."
     },
     {
       "verse": "11",
-      "text": "Teach me thy way, O LORD ,"
+      "text": "Teach me thy way, O LORD , And lead me in a plain path, because of mine enemies."
     },
     {
       "verse": "12",
-      "text": "Deliver me not over unto the will of mine enemies:"
+      "text": "Deliver me not over unto the will of mine enemies: For false witnesses are risen up against me, and such as breathe out cruelty."
     },
     {
       "verse": "13",
-      "text": " I had fainted ,"
+      "text": "I had fainted , Unless I had believed to see the goodness of the LORD in the land of the living."
     },
     {
       "verse": "14",
-      "text": "Wait on the LORD :"
+      "text": "Wait on the LORD : Be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

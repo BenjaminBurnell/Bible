@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "When the mourning was past, David sent and took her home to his house, and she became his wife and bore him a son. But the thing that David had done displeased Yahweh."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

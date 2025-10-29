@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "He will make you high above all nations that he has made, in praise, in name, and in honor, and that you may be a holy people to Yahweh your God, as he has spoken."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

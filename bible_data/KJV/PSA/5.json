@@ -5,51 +5,57 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Give ear to my words, O LORD ,"
+      "text": "Give ear to my words, O LORD , Consider my meditation."
     },
     {
       "verse": "2",
-      "text": "Hearken unto the voice of my cry, my King, and my God:"
+      "text": "Hearken unto the voice of my cry, my King, and my God: For unto thee will I pray."
     },
     {
       "verse": "3",
-      "text": "My voice shalt thou hear in the morning, O LORD ;"
+      "text": "My voice shalt thou hear in the morning, O LORD ; In the morning will I direct my prayer unto thee, and will look up."
     },
     {
       "verse": "4",
-      "text": "For thou art not a God that hath pleasure in wickedness:"
+      "text": "For thou art not a God that hath pleasure in wickedness: Neither shall evil dwell with thee."
     },
     {
       "verse": "5",
-      "text": "The foolish shall not stand in thy sight:"
+      "text": "The foolish shall not stand in thy sight: Thou hatest all workers of iniquity."
     },
     {
       "verse": "6",
-      "text": "Thou shalt destroy them that speak leasing:"
+      "text": "Thou shalt destroy them that speak leasing: The LORD will abhor the bloody and deceitful man."
     },
     {
       "verse": "7",
-      "text": "But as for me, I will come into thy house in the multitude of thy mercy:"
+      "text": "But as for me, I will come into thy house in the multitude of thy mercy: And in thy fear will I worship toward thy holy temple."
     },
     {
       "verse": "8",
-      "text": "Lead me, O LORD , in thy righteousness because of mine enemies;"
+      "text": "Lead me, O LORD , in thy righteousness because of mine enemies; Make thy way straight before my face."
     },
     {
       "verse": "9",
-      "text": "For there is no faithfulness in their mouth;"
+      "text": "For there is no faithfulness in their mouth; Their inward part is very wickedness; Their throat is an open sepulchre; They flatter with their tongue."
     },
     {
       "verse": "10",
-      "text": "Destroy thou them, O God; let them fall by their own counsels;"
+      "text": "Destroy thou them, O God; let them fall by their own counsels; Cast them out in the multitude of their transgressions; for they have rebelled against thee."
     },
     {
       "verse": "11",
-      "text": "But let all those that put their trust in thee rejoice:"
+      "text": "But let all those that put their trust in thee rejoice: Let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee."
     },
     {
       "verse": "12",
-      "text": "For thou, LORD , wilt bless the righteous;"
+      "text": "For thou, LORD , wilt bless the righteous; With favour wilt thou compass him as with a shield."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

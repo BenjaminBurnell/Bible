@@ -55,5 +55,11 @@
       "verse": "13",
       "text": "He who breaks open the way goes up before them. They break through the gate, and go out. Their king passes on before them, with Yahweh at their head."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

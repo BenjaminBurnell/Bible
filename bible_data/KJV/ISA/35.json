@@ -37,11 +37,17 @@
     },
     {
       "verse": "9",
-      "text": "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there: "
+      "text": "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:"
     },
     {
       "verse": "10",
       "text": "and the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -57,7 +57,13 @@
     },
     {
       "verse": "14",
-      "text": "Greet ye one another with a kiss of charity."
+      "text": "Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

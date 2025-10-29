@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "So Yahweh left those nations, without driving them out hastily. He didn’t deliver them into Joshua’s hand."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

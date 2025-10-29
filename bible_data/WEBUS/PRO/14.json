@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "The king’s favor is toward a servant who deals wisely, but his wrath is toward one who causes shame."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

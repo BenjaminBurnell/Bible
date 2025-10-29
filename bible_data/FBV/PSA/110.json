@@ -1,0 +1,41 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 110,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "The Lord said to my Lord, “Sit at my right hand, until I make your enemies a footstool for you. ”"
+    },
+    {
+      "verse": "2",
+      "text": "The Lord will expand your royal power from Zion; you will rule over your enemies."
+    },
+    {
+      "verse": "3",
+      "text": "Your people willingly follow you on the day when your power is revealed on the holy mountains, renewed in strength every morning like dew at dawn."
+    },
+    {
+      "verse": "4",
+      "text": "The Lord has made a vow he will not break: “You are a priest forever, following the order of Melchizedek.”"
+    },
+    {
+      "verse": "5",
+      "text": "The Lord stands right beside you to support you; he will strike down kings in his anger."
+    },
+    {
+      "verse": "6",
+      "text": "He will execute judgment on the nations, filling their lands with corpses. He will strike down those who rule all over the earth."
+    },
+    {
+      "verse": "7",
+      "text": "He will drink from streams beside the path. Therefore he will be victorious."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

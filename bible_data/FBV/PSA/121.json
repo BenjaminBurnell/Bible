@@ -1,0 +1,45 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 121,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "I look to the hills —but is that where my help comes from?"
+    },
+    {
+      "verse": "2",
+      "text": "My help comes from the Lord, who made heaven and earth."
+    },
+    {
+      "verse": "3",
+      "text": "He will not let you fall; he who watches over you won't fall asleep."
+    },
+    {
+      "verse": "4",
+      "text": "In fact he who watches over you doesn't take naps or fall asleep."
+    },
+    {
+      "verse": "5",
+      "text": "The Lord keeps watch over you; the Lord protects you; he stands right beside you."
+    },
+    {
+      "verse": "6",
+      "text": "The sun won't hurt you during the day, nor the moon at night."
+    },
+    {
+      "verse": "7",
+      "text": "The Lord will protect you from all kinds of evil; he will keep you safe and sound."
+    },
+    {
+      "verse": "8",
+      "text": "The Lord will look after you when you leave, and when you return, now and forever."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

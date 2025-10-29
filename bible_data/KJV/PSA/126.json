@@ -5,27 +5,33 @@
   "verses": [
     {
       "verse": "1",
-      "text": "When the LORD turned again the captivity of Zion,"
+      "text": "When the LORD turned again the captivity of Zion, We were like them that dream."
     },
     {
       "verse": "2",
-      "text": "Then was our mouth filled with laughter,"
+      "text": "Then was our mouth filled with laughter, And our tongue with singing: Then said they among the heathen, The LORD hath done great things for them."
     },
     {
       "verse": "3",
-      "text": "The LORD hath done great things for us;"
+      "text": "The LORD hath done great things for us; Whereof we are glad."
     },
     {
       "verse": "4",
-      "text": "Turn again our captivity, O LORD ,"
+      "text": "Turn again our captivity, O LORD , As the streams in the south."
     },
     {
       "verse": "5",
-      "text": "They that sow in tears"
+      "text": "They that sow in tears Shall reap in joy."
     },
     {
       "verse": "6",
-      "text": "He that goeth forth and weepeth, bearing precious seed,"
+      "text": "He that goeth forth and weepeth, bearing precious seed, Shall doubtless come again with rejoicing, bringing his sheaves with him ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

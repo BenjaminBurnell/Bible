@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "that the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

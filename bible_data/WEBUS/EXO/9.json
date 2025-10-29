@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "The heart of Pharaoh was hardened, and he didn’t let the children of Israel go, just as Yahweh had spoken through Moses."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

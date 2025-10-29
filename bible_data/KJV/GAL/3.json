@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

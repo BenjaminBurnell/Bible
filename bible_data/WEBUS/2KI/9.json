@@ -151,5 +151,11 @@
       "verse": "37",
       "text": "and the body of Jezebel will be as dung on the surface of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

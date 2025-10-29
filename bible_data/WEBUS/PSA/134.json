@@ -15,5 +15,11 @@
       "verse": "3",
       "text": "May Yahweh bless you from Zion, even he who made heaven and earth."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "“Come,” they say, “I will get wine, and we will fill ourselves with strong drink; and tomorrow will be as today, great beyond measure.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

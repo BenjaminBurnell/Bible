@@ -1,0 +1,33 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 93,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "The Lord reigns, clothed in majesty! He wears his royal robes, with his power worn like a belt. The world is held together firmly—it cannot be broken apart."
+    },
+    {
+      "verse": "2",
+      "text": "Your throne has existed from ages past; you are from eternity."
+    },
+    {
+      "verse": "3",
+      "text": "The floods have raised up, Lord; the floods have raised their voices; the floods have raised up their crashing waves."
+    },
+    {
+      "verse": "4",
+      "text": "But greater than the most violent ocean, greater than the largest waves of the sea, the greatest is the Lord above."
+    },
+    {
+      "verse": "5",
+      "text": "Your laws are totally trustworthy. Your house, Lord, is holy forever."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

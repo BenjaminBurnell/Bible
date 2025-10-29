@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Beth-lehemite, that is cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the LORD  is with him."
+      "text": "Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Beth-lehemite, that is cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the LORD is with him."
     },
     {
       "verse": "19",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

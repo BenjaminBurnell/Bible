@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "He shall remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest shall burn them on the altar, on the offerings of Yahweh made by fire. The priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

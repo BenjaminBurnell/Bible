@@ -13,99 +13,105 @@
     },
     {
       "verse": "3",
-      "text": "Let the day perish wherein I was born,"
+      "text": "Let the day perish wherein I was born, And the night in which it was said, There is a man child conceived."
     },
     {
       "verse": "4",
-      "text": "Let that day be darkness;"
+      "text": "Let that day be darkness; Let not God regard it from above, Neither let the light shine upon it."
     },
     {
       "verse": "5",
-      "text": "Let darkness and the shadow of death stain it;"
+      "text": "Let darkness and the shadow of death stain it; Let a cloud dwell upon it; Let the blackness of the day terrify it."
     },
     {
       "verse": "6",
-      "text": " As for that night, let darkness seize upon it;"
+      "text": "As for that night, let darkness seize upon it; Let it not be joined unto the days of the year, Let it not come into the number of the months."
     },
     {
       "verse": "7",
-      "text": "Lo, let that night be solitary,"
+      "text": "Lo, let that night be solitary, Let no joyful voice come therein."
     },
     {
       "verse": "8",
-      "text": "Let them curse it that curse the day,"
+      "text": "Let them curse it that curse the day, Who are ready to raise up their mourning."
     },
     {
       "verse": "9",
-      "text": "Let the stars of the twilight thereof be dark;"
+      "text": "Let the stars of the twilight thereof be dark; Let it look for light, but have none; Neither let it see the dawning of the day:"
     },
     {
       "verse": "10",
-      "text": "Because it shut not up the doors of my mother's womb,"
+      "text": "Because it shut not up the doors of my mother's womb, Nor hid sorrow from mine eyes."
     },
     {
       "verse": "11",
-      "text": "Why died I not from the womb?"
+      "text": "Why died I not from the womb? Why did I not give up the ghost When I came out of the belly?"
     },
     {
       "verse": "12",
-      "text": "Why did the knees prevent me?"
+      "text": "Why did the knees prevent me? Or why the breasts that I should suck?"
     },
     {
       "verse": "13",
-      "text": "For now should I have lain still and been quiet,"
+      "text": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,"
     },
     {
       "verse": "14",
-      "text": "With kings and counsellors of the earth,"
+      "text": "With kings and counsellors of the earth, Which built desolate places for themselves;"
     },
     {
       "verse": "15",
-      "text": "Or with princes that had gold,"
+      "text": "Or with princes that had gold, Who filled their houses with silver:"
     },
     {
       "verse": "16",
-      "text": "Or as an hidden untimely birth I had not been;"
+      "text": "Or as an hidden untimely birth I had not been; As infants which never saw light."
     },
     {
       "verse": "17",
-      "text": "There the wicked cease from troubling;"
+      "text": "There the wicked cease from troubling; And there the weary be at rest."
     },
     {
       "verse": "18",
-      "text": " There the prisoners rest together;"
+      "text": "There the prisoners rest together; They hear not the voice of the oppressor."
     },
     {
       "verse": "19",
-      "text": "The small and great are there;"
+      "text": "The small and great are there; And the servant is free from his master."
     },
     {
       "verse": "20",
-      "text": "Wherefore is light given to him that is in misery,"
+      "text": "Wherefore is light given to him that is in misery, And life unto the bitter in soul;"
     },
     {
       "verse": "21",
-      "text": "Which long for death, but it cometh not;"
+      "text": "Which long for death, but it cometh not; And dig for it more than for hid treasures;"
     },
     {
       "verse": "22",
-      "text": "Which rejoice exceedingly,"
+      "text": "Which rejoice exceedingly, And are glad, when they can find the grave?"
     },
     {
       "verse": "23",
-      "text": " Why is light given to a man whose way is hid,"
+      "text": "Why is light given to a man whose way is hid, And whom God hath hedged in?"
     },
     {
       "verse": "24",
-      "text": "For my sighing cometh before I eat,"
+      "text": "For my sighing cometh before I eat, And my roarings are poured out like the waters."
     },
     {
       "verse": "25",
-      "text": "For the thing which I greatly feared is come upon me,"
+      "text": "For the thing which I greatly feared is come upon me, And that which I was afraid of is come unto me."
     },
     {
       "verse": "26",
-      "text": "I was not in safety, neither had I rest, neither was I quiet;"
+      "text": "I was not in safety, neither had I rest, neither was I quiet; Yet trouble came."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

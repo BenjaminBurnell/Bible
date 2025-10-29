@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "The wind has wrapped her up in its wings; and they shall be disappointed because of their sacrifices."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

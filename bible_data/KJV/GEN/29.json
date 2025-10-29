@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "And she conceived again, and bare a son: and she said, Now will I praise the LORD : therefore she called his name Judah; and left bearing."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

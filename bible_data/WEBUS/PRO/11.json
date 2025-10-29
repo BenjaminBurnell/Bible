@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "Behold, the righteous shall be repaid in the earth, how much more the wicked and the sinner!"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

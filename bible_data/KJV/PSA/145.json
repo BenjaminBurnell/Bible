@@ -5,87 +5,93 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I will extol thee, my God, O King;"
+      "text": "I will extol thee, my God, O King; And I will bless thy name for ever and ever."
     },
     {
       "verse": "2",
-      "text": "Every day will I bless thee;"
+      "text": "Every day will I bless thee; And I will praise thy name for ever and ever."
     },
     {
       "verse": "3",
-      "text": "Great is the LORD , and greatly to be praised;"
+      "text": "Great is the LORD , and greatly to be praised; And his greatness is unsearchable."
     },
     {
       "verse": "4",
-      "text": "One generation shall praise thy works to another,"
+      "text": "One generation shall praise thy works to another, And shall declare thy mighty acts."
     },
     {
       "verse": "5",
-      "text": "I will speak of the glorious honour of thy majesty,"
+      "text": "I will speak of the glorious honour of thy majesty, And of thy wondrous works."
     },
     {
       "verse": "6",
-      "text": "And men shall speak of the might of thy terrible acts:"
+      "text": "And men shall speak of the might of thy terrible acts: And I will declare thy greatness."
     },
     {
       "verse": "7",
-      "text": "They shall abundantly utter the memory of thy great goodness,"
+      "text": "They shall abundantly utter the memory of thy great goodness, And shall sing of thy righteousness."
     },
     {
       "verse": "8",
-      "text": "The LORD  is gracious, and full of compassion;"
+      "text": "The LORD is gracious, and full of compassion; Slow to anger, and of great mercy."
     },
     {
       "verse": "9",
-      "text": "The LORD  is good to all:"
+      "text": "The LORD is good to all: And his tender mercies are over all his works."
     },
     {
       "verse": "10",
-      "text": "All thy works shall praise thee, O LORD ;"
+      "text": "All thy works shall praise thee, O LORD ; And thy saints shall bless thee."
     },
     {
       "verse": "11",
-      "text": "They shall speak of the glory of thy kingdom,"
+      "text": "They shall speak of the glory of thy kingdom, And talk of thy power;"
     },
     {
       "verse": "12",
-      "text": "To make known to the sons of men his mighty acts,"
+      "text": "To make known to the sons of men his mighty acts, And the glorious majesty of his kingdom."
     },
     {
       "verse": "13",
-      "text": "Thy kingdom is an everlasting kingdom,"
+      "text": "Thy kingdom is an everlasting kingdom, And thy dominion endureth throughout all generations."
     },
     {
       "verse": "14",
-      "text": "The LORD upholdeth all that fall,"
+      "text": "The LORD upholdeth all that fall, And raiseth up all those that be bowed down."
     },
     {
       "verse": "15",
-      "text": "The eyes of all wait upon thee;"
+      "text": "The eyes of all wait upon thee; And thou givest them their meat in due season."
     },
     {
       "verse": "16",
-      "text": "Thou openest thine hand,"
+      "text": "Thou openest thine hand, And satisfiest the desire of every living thing."
     },
     {
       "verse": "17",
-      "text": "The LORD  is righteous in all his ways,"
+      "text": "The LORD is righteous in all his ways, And holy in all his works."
     },
     {
       "verse": "18",
-      "text": "The LORD  is nigh unto all them that call upon him,"
+      "text": "The LORD is nigh unto all them that call upon him, To all that call upon him in truth."
     },
     {
       "verse": "19",
-      "text": "He will fulfil the desire of them that fear him:"
+      "text": "He will fulfil the desire of them that fear him: He also will hear their cry, and will save them."
     },
     {
       "verse": "20",
-      "text": "The LORD preserveth all them that love him:"
+      "text": "The LORD preserveth all them that love him: But all the wicked will he destroy."
     },
     {
       "verse": "21",
-      "text": "My mouth shall speak the praise of the LORD :"
+      "text": "My mouth shall speak the praise of the LORD : And let all flesh bless his holy name for ever and ever."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "Fire has gone out of its branches. It has devoured its fruit, so that there is in it no strong branch to be a scepter to rule.’ This is a lamentation, and shall be for a lamentation.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "Besides the continual burnt offering and its meal offering, you shall offer them and their drink offerings. See that they are without defect."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

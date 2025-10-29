@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "Then said Jesus, Let her alone: against the day of my burying hath she kept this. "
+      "text": "Then said Jesus, Let her alone: against the day of my burying hath she kept this."
     },
     {
       "verse": "8",
@@ -93,23 +93,23 @@
     },
     {
       "verse": "23",
-      "text": "And Jesus answered them, saying, The hour is come, that the Son of man should be glorified. "
+      "text": "And Jesus answered them, saying, The hour is come, that the Son of man should be glorified."
     },
     {
       "verse": "24",
-      "text": "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit. "
+      "text": "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
     },
     {
       "verse": "25",
-      "text": "He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal. "
+      "text": "He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal."
     },
     {
       "verse": "26",
-      "text": "If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour. "
+      "text": "If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour."
     },
     {
       "verse": "27",
-      "text": "Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour. "
+      "text": "Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour."
     },
     {
       "verse": "28",
@@ -121,15 +121,15 @@
     },
     {
       "verse": "30",
-      "text": "Jesus answered and said, This voice came not because of me, but for your sakes. "
+      "text": "Jesus answered and said, This voice came not because of me, but for your sakes."
     },
     {
       "verse": "31",
-      "text": "Now is the judgment of this world: now shall the prince of this world be cast out. "
+      "text": "Now is the judgment of this world: now shall the prince of this world be cast out."
     },
     {
       "verse": "32",
-      "text": "And I, if I be lifted up from the earth, will draw all men unto me. "
+      "text": "And I, if I be lifted up from the earth, will draw all men unto me."
     },
     {
       "verse": "33",
@@ -141,7 +141,7 @@
     },
     {
       "verse": "35",
-      "text": "Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth. "
+      "text": "Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth."
     },
     {
       "verse": "36",
@@ -153,7 +153,7 @@
     },
     {
       "verse": "38",
-      "text": "That the saying of Esaias the prophet might be fulfilled, which he spake,"
+      "text": "That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? And to whom hath the arm of the Lord been revealed?"
     },
     {
       "verse": "39",
@@ -161,7 +161,7 @@
     },
     {
       "verse": "40",
-      "text": "He hath blinded their eyes, and hardened their heart;"
+      "text": "He hath blinded their eyes, and hardened their heart; That they should not see with their eyes, nor understand with their heart, And be converted, And I should heal them."
     },
     {
       "verse": "41",
@@ -177,31 +177,37 @@
     },
     {
       "verse": "44",
-      "text": "Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me. "
+      "text": "Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me."
     },
     {
       "verse": "45",
-      "text": "And he that seeth me seeth him that sent me. "
+      "text": "And he that seeth me seeth him that sent me."
     },
     {
       "verse": "46",
-      "text": "I am come a light into the world, that whosoever believeth on me should not abide in darkness. "
+      "text": "I am come a light into the world, that whosoever believeth on me should not abide in darkness."
     },
     {
       "verse": "47",
-      "text": "And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world. "
+      "text": "And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world."
     },
     {
       "verse": "48",
-      "text": "He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day. "
+      "text": "He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day."
     },
     {
       "verse": "49",
-      "text": "For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak. "
+      "text": "For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak."
     },
     {
       "verse": "50",
       "text": "And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

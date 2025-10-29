@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "I will execute vengeance in anger and wrath on the nations that didn’t listen.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

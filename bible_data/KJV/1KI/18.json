@@ -85,7 +85,7 @@
     },
     {
       "verse": "21",
-      "text": "And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD  be God, follow him: but if Baal, then follow him. And the people answered him not a word."
+      "text": "And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word."
     },
     {
       "verse": "22",
@@ -93,7 +93,7 @@
     },
     {
       "verse": "23",
-      "text": "Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay it on wood, and put no fire under: and I will dress the other bullock, and lay it on wood, and put no fire under: "
+      "text": "Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay it on wood, and put no fire under: and I will dress the other bullock, and lay it on wood, and put no fire under:"
     },
     {
       "verse": "24",
@@ -121,7 +121,7 @@
     },
     {
       "verse": "30",
-      "text": "And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the LORD  that was broken down."
+      "text": "And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the LORD that was broken down."
     },
     {
       "verse": "31",
@@ -187,5 +187,11 @@
       "verse": "46",
       "text": "And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -37,7 +37,7 @@
     },
     {
       "verse": "9",
-      "text": "(As it is written,"
+      "text": "(As it is written, He hath dispersed abroad; he hath given to the poor: His righteousness remaineth for ever."
     },
     {
       "verse": "10",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Thanks be unto God for his unspeakable gift."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

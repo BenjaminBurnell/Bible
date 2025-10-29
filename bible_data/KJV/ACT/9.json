@@ -17,15 +17,15 @@
     },
     {
       "verse": "4",
-      "text": "and he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? "
+      "text": "and he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?"
     },
     {
       "verse": "5",
-      "text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks. "
+      "text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
     },
     {
       "verse": "6",
-      "text": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do. "
+      "text": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do."
     },
     {
       "verse": "7",
@@ -45,11 +45,11 @@
     },
     {
       "verse": "11",
-      "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth, "
+      "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
     },
     {
       "verse": "12",
-      "text": "and hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight. "
+      "text": "and hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight."
     },
     {
       "verse": "13",
@@ -61,11 +61,11 @@
     },
     {
       "verse": "15",
-      "text": "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel: "
+      "text": "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
     },
     {
       "verse": "16",
-      "text": "for I will shew him how great things he must suffer for my name's sake. "
+      "text": "for I will shew him how great things he must suffer for my name's sake."
     },
     {
       "verse": "17",
@@ -77,7 +77,7 @@
     },
     {
       "verse": "19",
-      "text": "And when he had received meat, he was strengthened."
+      "text": "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus."
     },
     {
       "verse": "20",
@@ -175,5 +175,11 @@
       "verse": "43",
       "text": "And it came to pass, that he tarried many days in Joppa with one Simon a tanner."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

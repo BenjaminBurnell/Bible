@@ -1,0 +1,49 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 137,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "When we sat down by the rivers of Babylon we wept as we remembered Zion."
+    },
+    {
+      "verse": "2",
+      "text": "We hung up our harps on the willow trees."
+    },
+    {
+      "verse": "3",
+      "text": "For those who had taken us captive asked us for a song—our tormentors wanted us to sing a happy song from Jerusalem."
+    },
+    {
+      "verse": "4",
+      "text": "But how could we sing a song dedicated to the Lord in a pagan land?"
+    },
+    {
+      "verse": "5",
+      "text": "If I forget Jerusalem, may my right hand forget how to play;"
+    },
+    {
+      "verse": "6",
+      "text": "May my tongue stick to the roof of my mouth if I don't remember you—if I don't consider Jerusalem my greatest joy."
+    },
+    {
+      "verse": "7",
+      "text": "Lord, please remember what the people of Edom did on the day Jerusalem fell, the ones who said “Tear it down! Destroy it down to its foundations!”"
+    },
+    {
+      "verse": "8",
+      "text": "Daughter of Babylon, you will be destroyed! Happy is the one who pays you back, who does to you what you did to us!"
+    },
+    {
+      "verse": "9",
+      "text": "Happy is the one who grabs your children and smashes them against the rocks!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": " Of all clean birds ye shall eat."
+      "text": "Of all clean birds ye shall eat."
     },
     {
       "verse": "12",
@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "and the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

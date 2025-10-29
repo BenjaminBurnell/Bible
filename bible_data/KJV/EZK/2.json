@@ -43,5 +43,11 @@
       "verse": "10",
       "text": "and he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

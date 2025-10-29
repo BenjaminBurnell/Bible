@@ -241,7 +241,7 @@
     },
     {
       "verse": "60",
-      "text": "that all the people of the earth may know that the LORD  is God, and that there is none else."
+      "text": "that all the people of the earth may know that the LORD is God, and that there is none else."
     },
     {
       "verse": "61",
@@ -257,7 +257,7 @@
     },
     {
       "verse": "64",
-      "text": "The same day did the king hallow the middle of the court that was before the house of the LORD : for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that was before the LORD  was too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings."
+      "text": "The same day did the king hallow the middle of the court that was before the house of the LORD : for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that was before the LORD was too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings."
     },
     {
       "verse": "65",
@@ -267,5 +267,11 @@
       "verse": "66",
       "text": "On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

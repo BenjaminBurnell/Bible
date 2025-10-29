@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "For as the earth produces its bud, and as the garden causes the things that are sown in it to spring up, so the Lord Yahweh will cause righteousness and praise to spring up before all the nations."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

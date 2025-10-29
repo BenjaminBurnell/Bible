@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

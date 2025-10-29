@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "And if his offering for a sacrifice of peace offering unto the LORD  be of the flock; male or female, he shall offer it without blemish."
+      "text": "And if his offering for a sacrifice of peace offering unto the LORD be of the flock; male or female, he shall offer it without blemish."
     },
     {
       "verse": "7",
@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

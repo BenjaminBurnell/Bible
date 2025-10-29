@@ -187,5 +187,11 @@
       "verse": "46",
       "text": "The earth trembles at the noise of the taking of Babylon. The cry is heard among the nations."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -55,5 +55,11 @@
       "verse": "13",
       "text": "Then Micah said, “Now I know that Yahweh will do good to me, since I have a Levite as my priest.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

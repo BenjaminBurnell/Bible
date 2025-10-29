@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men: "
+      "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:"
     },
     {
       "verse": "2",
@@ -13,7 +13,7 @@
     },
     {
       "verse": "3",
-      "text": "and they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD  is among them: wherefore then lift ye up yourselves above the congregation of the LORD ?"
+      "text": "and they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD ?"
     },
     {
       "verse": "4",
@@ -203,5 +203,11 @@
       "verse": "50",
       "text": "And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

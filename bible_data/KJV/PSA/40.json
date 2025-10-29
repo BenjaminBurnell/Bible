@@ -5,71 +5,77 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I waited patiently for the LORD ;"
+      "text": "I waited patiently for the LORD ; And he inclined unto me, and heard my cry."
     },
     {
       "verse": "2",
-      "text": "He brought me up also out of an horrible pit, out of the miry clay,"
+      "text": "He brought me up also out of an horrible pit, out of the miry clay, And set my feet upon a rock, and established my goings."
     },
     {
       "verse": "3",
-      "text": "And he hath put a new song in my mouth, even"
+      "text": "And he hath put a new song in my mouth, even praise unto our God: Many shall see it , and fear, And shall trust in the LORD ."
     },
     {
       "verse": "4",
-      "text": "Blessed is that man that maketh the LORD his trust,"
+      "text": "Blessed is that man that maketh the LORD his trust, And respecteth not the proud, nor such as turn aside to lies."
     },
     {
       "verse": "5",
-      "text": "Many, O LORD my God,"
+      "text": "Many, O LORD my God, Are thy wonderful works which thou hast done, And thy thoughts which are to us-ward: They cannot be reckoned up in order unto thee: If I would declare and speak of them , They are more than can be numbered."
     },
     {
       "verse": "6",
-      "text": "Sacrifice and offering thou didst not desire;"
+      "text": "Sacrifice and offering thou didst not desire; Mine ears hast thou opened: Burnt offering and sin offering hast thou not required."
     },
     {
       "verse": "7",
-      "text": "Then said I, Lo, I come:"
+      "text": "Then said I, Lo, I come: In the volume of the book it is written of me,"
     },
     {
       "verse": "8",
-      "text": "I delight to do thy will, O my God:"
+      "text": "I delight to do thy will, O my God: Yea, thy law is within my heart."
     },
     {
       "verse": "9",
-      "text": "I have preached righteousness in the great congregation:"
+      "text": "I have preached righteousness in the great congregation: Lo, I have not refrained my lips, O LORD , thou knowest."
     },
     {
       "verse": "10",
-      "text": "I have not hid thy righteousness within my heart;"
+      "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness, And thy truth from the great congregation."
     },
     {
       "verse": "11",
-      "text": "Withhold not thou thy tender mercies from me, O LORD :"
+      "text": "Withhold not thou thy tender mercies from me, O LORD : Let thy lovingkindness and thy truth continually preserve me."
     },
     {
       "verse": "12",
-      "text": "For innumerable evils have compassed me about:"
+      "text": "For innumerable evils have compassed me about: Mine iniquities have taken hold upon me, so that I am not able to look up; They are more than the hairs of mine head: Therefore my heart faileth me."
     },
     {
       "verse": "13",
-      "text": "Be pleased, O LORD , to deliver me:"
+      "text": "Be pleased, O LORD , to deliver me: O LORD , make haste to help me."
     },
     {
       "verse": "14",
-      "text": "Let them be ashamed and confounded together"
+      "text": "Let them be ashamed and confounded together That seek after my soul to destroy it; Let them be driven backward and put to shame that wish me evil."
     },
     {
       "verse": "15",
-      "text": "Let them be desolate for a reward of their shame"
+      "text": "Let them be desolate for a reward of their shame That say unto me, Aha, aha."
     },
     {
       "verse": "16",
-      "text": "Let all those that seek thee rejoice and be glad in thee:"
+      "text": "Let all those that seek thee rejoice and be glad in thee: Let such as love thy salvation say continually, the LORD be magnified."
     },
     {
       "verse": "17",
-      "text": "But I am poor and needy; Yet the Lord thinketh upon me:"
+      "text": "But I am poor and needy; Yet the Lord thinketh upon me: Thou art my help and my deliverer; Make no tarrying, O my God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

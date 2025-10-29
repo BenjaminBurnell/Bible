@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest. "
+      "text": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."
     },
     {
       "verse": "12",
@@ -267,5 +267,11 @@
       "verse": "66",
       "text": "So they went, and made the sepulchre sure, sealing the stone, and setting a watch."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

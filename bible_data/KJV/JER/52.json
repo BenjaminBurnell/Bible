@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

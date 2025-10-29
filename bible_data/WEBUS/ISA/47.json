@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "The things that you labored in will be like this: those who have trafficked with you from your youth will each wander in his own way. There will be no one to save you."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

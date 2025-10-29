@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "Therefore the leprosy of Naaman will cling to you and to your offspring forever.” He went out from his presence a leper, as white as snow."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -37,11 +37,11 @@
     },
     {
       "verse": "9",
-      "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace: "
+      "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
     },
     {
       "verse": "10",
-      "text": "for I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city. "
+      "text": "for I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city."
     },
     {
       "verse": "11",
@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "for he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

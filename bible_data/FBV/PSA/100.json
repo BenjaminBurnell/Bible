@@ -1,0 +1,33 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 100,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Everyone on earth shout for joy to the Lord!"
+    },
+    {
+      "verse": "2",
+      "text": "Worship the Lord with gladness; come into his presence with joyful songs!"
+    },
+    {
+      "verse": "3",
+      "text": "Know that the Lord is God! He made us, so we belong to him. We are his people, the flock he cares for."
+    },
+    {
+      "verse": "4",
+      "text": "Go in through his gate with thanks; enter his courts with praise. Thank him; praise him for who he is."
+    },
+    {
+      "verse": "5",
+      "text": "For the Lord is good. His trustworthy love lasts forever; his faithfulness continues for all generations."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

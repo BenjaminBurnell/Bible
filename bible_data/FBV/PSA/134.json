@@ -1,0 +1,25 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 134,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Praise the Lord, all you servants of the Lord who worship at night in the house of the Lord."
+    },
+    {
+      "verse": "2",
+      "text": "Lift up your hands towards the holy place and praise the Lord."
+    },
+    {
+      "verse": "3",
+      "text": "May the Lord bless you from Zion, he who made the heavens and the earth."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

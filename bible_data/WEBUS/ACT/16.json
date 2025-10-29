@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "They went out of the prison and entered into Lydia’s house. When they had seen the brothers, they encouraged them, then departed."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

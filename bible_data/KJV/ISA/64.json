@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "Wilt thou refrain thyself for these things , O LORD ? wilt thou hold thy peace, and afflict us very sore?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

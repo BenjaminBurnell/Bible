@@ -33,7 +33,7 @@
     },
     {
       "verse": "8",
-      "text": "seek him that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD  is his name:"
+      "text": "seek him that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD is his name:"
     },
     {
       "verse": "9",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "Woe unto you that desire the day of the LORD ! to what end is it for you? the day of the LORD  is darkness, and not light."
+      "text": "Woe unto you that desire the day of the LORD ! to what end is it for you? the day of the LORD is darkness, and not light."
     },
     {
       "verse": "19",
@@ -81,7 +81,7 @@
     },
     {
       "verse": "20",
-      "text": "Shall not the day of the LORD  be darkness, and not light? even very dark, and no brightness in it?"
+      "text": "Shall not the day of the LORD be darkness, and not light? even very dark, and no brightness in it?"
     },
     {
       "verse": "21",
@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "Therefore will I cause you to go into captivity beyond Damascus, saith the LORD , whose name is The God of hosts."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

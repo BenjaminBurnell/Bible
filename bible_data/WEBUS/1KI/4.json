@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth who had heard of his wisdom."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

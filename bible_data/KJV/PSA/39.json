@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I said, I will take heed to my ways,"
+      "text": "I said, I will take heed to my ways, That I sin not with my tongue: I will keep my mouth with a bridle, While the wicked is before me."
     },
     {
       "verse": "2",
-      "text": "I was dumb with silence, I held my peace, even from good;"
+      "text": "I was dumb with silence, I held my peace, even from good; And my sorrow was stirred."
     },
     {
       "verse": "3",
-      "text": "My heart was hot within me, while I was musing the fire burned:"
+      "text": "My heart was hot within me, while I was musing the fire burned: Then spake I with my tongue."
     },
     {
       "verse": "4",
-      "text": " LORD , make me to know mine end, and the measure of my days, what it is ;"
+      "text": "LORD , make me to know mine end, and the measure of my days, what it is ; That I may know how frail I am ."
     },
     {
       "verse": "5",
-      "text": "Behold, thou hast made my days as an handbreadth;"
+      "text": "Behold, thou hast made my days as an handbreadth; And mine age is as nothing before thee: Verily every man at his best state is altogether vanity. Selah."
     },
     {
       "verse": "6",
-      "text": "Surely every man walketh in a vain shew: Surely they are disquieted in vain:"
+      "text": "Surely every man walketh in a vain shew: Surely they are disquieted in vain: He heapeth up riches , and knoweth not who shall gather them."
     },
     {
       "verse": "7",
-      "text": "And now, Lord, what wait I for?"
+      "text": "And now, Lord, what wait I for? My hope is in thee."
     },
     {
       "verse": "8",
-      "text": "Deliver me from all my transgressions:"
+      "text": "Deliver me from all my transgressions: Make me not the reproach of the foolish."
     },
     {
       "verse": "9",
-      "text": "I was dumb, I opened not my mouth;"
+      "text": "I was dumb, I opened not my mouth; Because thou didst it ."
     },
     {
       "verse": "10",
-      "text": "Remove thy stroke away from me:"
+      "text": "Remove thy stroke away from me: I am consumed by the blow of thine hand."
     },
     {
       "verse": "11",
-      "text": "When thou with rebukes dost correct man for iniquity,"
+      "text": "When thou with rebukes dost correct man for iniquity, Thou makest his beauty to consume away like a moth: Surely every man is vanity. Selah."
     },
     {
       "verse": "12",
-      "text": "Hear my prayer, O LORD , and give ear unto my cry;"
+      "text": "Hear my prayer, O LORD , and give ear unto my cry; Hold not thy peace at my tears: For I am a stranger with thee, And a sojourner, as all my fathers were ."
     },
     {
       "verse": "13",
-      "text": "O spare me, that I may recover strength,"
+      "text": "O spare me, that I may recover strength, Before I go hence, and be no more."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

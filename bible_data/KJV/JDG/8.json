@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "neither shewed they kindness to the house of Jerubbaal, namely , Gideon, according to all the goodness which he had shewed unto Israel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

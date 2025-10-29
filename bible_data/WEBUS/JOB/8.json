@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "Those who hate you will be clothed with shame. The tent of the wicked will be no more.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

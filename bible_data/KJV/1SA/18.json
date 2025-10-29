@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "And the women answered one another as they played, and said,"
+      "text": "And the women answered one another as they played, and said, Saul hath slain his thousands, And David his ten thousands."
     },
     {
       "verse": "8",
@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "And David behaved himself wisely in all his ways; and the LORD  was with him."
+      "text": "And David behaved himself wisely in all his ways; and the LORD was with him."
     },
     {
       "verse": "15",
@@ -113,7 +113,7 @@
     },
     {
       "verse": "28",
-      "text": "And Saul saw and knew that the LORD  was with David, and that Michal Saul's daughter loved him."
+      "text": "And Saul saw and knew that the LORD was with David, and that Michal Saul's daughter loved him."
     },
     {
       "verse": "29",
@@ -123,5 +123,11 @@
       "verse": "30",
       "text": "Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

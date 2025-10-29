@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "Most certainly I tell you, there are some standing here who will in no way taste of death until they see the Son of Man coming in his Kingdom.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

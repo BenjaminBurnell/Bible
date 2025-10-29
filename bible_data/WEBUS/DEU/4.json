@@ -199,5 +199,11 @@
       "verse": "49",
       "text": "and all the Arabah beyond the Jordan eastward, even to the sea of the Arabah, under the slopes of Pisgah."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

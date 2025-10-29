@@ -167,5 +167,11 @@
       "verse": "41",
       "text": "Jesus said to them, “If you were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

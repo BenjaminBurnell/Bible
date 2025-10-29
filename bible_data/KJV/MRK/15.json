@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it . "
+      "text": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it ."
     },
     {
       "verse": "3",
@@ -191,5 +191,11 @@
       "verse": "47",
       "text": "And Mary Magdalene and Mary the mother of Joses beheld where he was laid."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

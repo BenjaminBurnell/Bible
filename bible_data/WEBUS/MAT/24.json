@@ -207,5 +207,11 @@
       "verse": "51",
       "text": "and will cut him in pieces and appoint his portion with the hypocrites. That is where the weeping and grinding of teeth will be."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

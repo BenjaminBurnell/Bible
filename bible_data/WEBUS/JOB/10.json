@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "the land dark as midnight, of the shadow of death, without any order, where the light is as midnight.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

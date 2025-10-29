@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "Howl ye; for the day of the LORD  is at hand; it shall come as a destruction from the Almighty."
+      "text": "Howl ye; for the day of the LORD is at hand; it shall come as a destruction from the Almighty."
     },
     {
       "verse": "7",
@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

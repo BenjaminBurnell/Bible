@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

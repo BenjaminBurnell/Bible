@@ -5,23 +5,23 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I will extol thee, O LORD ; for thou hast lifted me up,"
+      "text": "I will extol thee, O LORD ; for thou hast lifted me up, And hast not made my foes to rejoice over me."
     },
     {
       "verse": "2",
-      "text": "O LORD my God,"
+      "text": "O LORD my God, I cried unto thee, and thou hast healed me."
     },
     {
       "verse": "3",
-      "text": "O LORD , thou hast brought up my soul from the grave:"
+      "text": "O LORD , thou hast brought up my soul from the grave: Thou hast kept me alive, that I should not go down to the pit."
     },
     {
       "verse": "4",
-      "text": "Sing unto the LORD , O ye saints of his,"
+      "text": "Sing unto the LORD , O ye saints of his, And give thanks at the remembrance of his holiness."
     },
     {
       "verse": "5",
-      "text": "For his anger endureth but a moment; in his favour is life:"
+      "text": "For his anger endureth but a moment; in his favour is life: Weeping may endure for a night, but joy cometh in the morning."
     },
     {
       "verse": "6",
@@ -29,27 +29,33 @@
     },
     {
       "verse": "7",
-      "text": " LORD , by thy favour thou hast made my mountain to stand strong:"
+      "text": "LORD , by thy favour thou hast made my mountain to stand strong: Thou didst hide thy face, and I was troubled."
     },
     {
       "verse": "8",
-      "text": "I cried to thee, O LORD ;"
+      "text": "I cried to thee, O LORD ; And unto the LORD I made supplication."
     },
     {
       "verse": "9",
-      "text": "What profit is there in my blood,"
+      "text": "What profit is there in my blood, When I go down to the pit? Shall the dust praise thee? Shall it declare thy truth?"
     },
     {
       "verse": "10",
-      "text": "Hear, O LORD , and have mercy upon me:"
+      "text": "Hear, O LORD , and have mercy upon me: LORD , be thou my helper."
     },
     {
       "verse": "11",
-      "text": "Thou hast turned for me my mourning into dancing:"
+      "text": "Thou hast turned for me my mourning into dancing: Thou hast put off my sackcloth, and girded me with gladness;"
     },
     {
       "verse": "12",
-      "text": "To the end that my glory may sing praise to thee, and not be silent."
+      "text": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

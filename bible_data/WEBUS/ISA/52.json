@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "so he will cleanse many nations. Kings will shut their mouths at him; for they will see that which had not been told them, and they will understand that which they had not heard."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

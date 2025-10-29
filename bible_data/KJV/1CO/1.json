@@ -77,7 +77,7 @@
     },
     {
       "verse": "19",
-      "text": "For it is written,"
+      "text": "For it is written, I will destroy the wisdom of the wise, And will bring to nothing the understanding of the prudent."
     },
     {
       "verse": "20",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "that, according as it is written, He that glorieth, let him glory in the Lord."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

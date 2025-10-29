@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

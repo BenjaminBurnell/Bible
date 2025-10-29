@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "Samuel came no more to see Saul until the day of his death, but Samuel mourned for Saul. Yahweh grieved that he had made Saul king over Israel."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

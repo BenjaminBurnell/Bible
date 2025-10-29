@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

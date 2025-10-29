@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "and Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

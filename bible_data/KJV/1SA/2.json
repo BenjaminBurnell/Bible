@@ -5,43 +5,43 @@
   "verses": [
     {
       "verse": "1",
-      "text": "And Hannah prayed, and said,"
+      "text": "And Hannah prayed, and said, My heart rejoiceth in the LORD , Mine horn is exalted in the LORD : My mouth is enlarged over mine enemies; Because I rejoice in thy salvation."
     },
     {
       "verse": "2",
-      "text": " There is none holy as the LORD :"
+      "text": "There is none holy as the LORD : For there is none beside thee: Neither is there any rock like our God."
     },
     {
       "verse": "3",
-      "text": "Talk no more so exceeding proudly;"
+      "text": "Talk no more so exceeding proudly; Let not arrogancy come out of your mouth: For the LORD is a God of knowledge, And by him actions are weighed."
     },
     {
       "verse": "4",
-      "text": "The bows of the mighty men are broken,"
+      "text": "The bows of the mighty men are broken, And they that stumbled are girded with strength."
     },
     {
       "verse": "5",
-      "text": " They that were full have hired out themselves for bread;"
+      "text": "They that were full have hired out themselves for bread; And they that were hungry ceased: So that the barren hath born seven; And she that hath many children is waxed feeble."
     },
     {
       "verse": "6",
-      "text": "The LORD killeth, and maketh alive:"
+      "text": "The LORD killeth, and maketh alive: He bringeth down to the grave, and bringeth up."
     },
     {
       "verse": "7",
-      "text": "The LORD maketh poor, and maketh rich:"
+      "text": "The LORD maketh poor, and maketh rich: He bringeth low, and lifteth up."
     },
     {
       "verse": "8",
-      "text": "He raiseth up the poor out of the dust,"
+      "text": "He raiseth up the poor out of the dust, And lifteth up the beggar from the dunghill, To set them among princes, And to make them inherit the throne of glory: For the pillars of the earth are the LORD 's, And he hath set the world upon them."
     },
     {
       "verse": "9",
-      "text": "He will keep the feet of his saints,"
+      "text": "He will keep the feet of his saints, And the wicked shall be silent in darkness; For by strength shall no man prevail."
     },
     {
       "verse": "10",
-      "text": "The adversaries of the LORD shall be broken to pieces;"
+      "text": "The adversaries of the LORD shall be broken to pieces; Out of heaven shall he thunder upon them: The LORD shall judge the ends of the earth; And he shall give strength unto his king, And exalt the horn of his anointed."
     },
     {
       "verse": "11",
@@ -147,5 +147,11 @@
       "verse": "36",
       "text": "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing. You shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

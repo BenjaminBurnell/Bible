@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

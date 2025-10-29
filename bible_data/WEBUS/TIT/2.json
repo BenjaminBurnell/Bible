@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Say these things and exhort and reprove with all authority. Let no one despise you."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

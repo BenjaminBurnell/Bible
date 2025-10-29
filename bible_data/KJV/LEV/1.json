@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "And if the burnt sacrifice for his offering to the LORD  be of fowls, then he shall bring his offering of turtledoves, or of young pigeons."
+      "text": "And if the burnt sacrifice for his offering to the LORD be of fowls, then he shall bring his offering of turtledoves, or of young pigeons."
     },
     {
       "verse": "15",
@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "and he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

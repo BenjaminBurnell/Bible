@@ -97,11 +97,17 @@
     },
     {
       "verse": "24",
-      "text": "For"
+      "text": "For All flesh is as grass, And all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:"
     },
     {
       "verse": "25",
-      "text": "But the word of the Lord endureth for ever."
+      "text": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

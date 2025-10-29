@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "This thing became sin to the house of Jeroboam, even to cut it off and to destroy it from off the surface of the earth."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

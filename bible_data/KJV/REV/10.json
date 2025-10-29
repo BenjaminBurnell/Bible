@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

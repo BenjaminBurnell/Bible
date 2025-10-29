@@ -5,67 +5,73 @@
   "verses": [
     {
       "verse": "1",
-      "text": "He that dwelleth in the secret place of the Most High"
+      "text": "He that dwelleth in the secret place of the Most High Shall abide under the shadow of the Almighty."
     },
     {
       "verse": "2",
-      "text": "I will say of the LORD , He is my refuge and my fortress:"
+      "text": "I will say of the LORD , He is my refuge and my fortress: My God; in him will I trust."
     },
     {
       "verse": "3",
-      "text": "Surely he shall deliver thee from the snare of the fowler,"
+      "text": "Surely he shall deliver thee from the snare of the fowler, And from the noisome pestilence."
     },
     {
       "verse": "4",
-      "text": "He shall cover thee with his feathers, and under his wings shalt thou trust:"
+      "text": "He shall cover thee with his feathers, and under his wings shalt thou trust: His truth shall be thy shield and buckler."
     },
     {
       "verse": "5",
-      "text": "Thou shalt not be afraid for the terror by night;"
+      "text": "Thou shalt not be afraid for the terror by night; Nor for the arrow that flieth by day;"
     },
     {
       "verse": "6",
-      "text": " Nor for the pestilence that walketh in darkness;"
+      "text": "Nor for the pestilence that walketh in darkness; Nor for the destruction that wasteth at noonday."
     },
     {
       "verse": "7",
-      "text": "A thousand shall fall at thy side, and ten thousand at thy right hand;"
+      "text": "A thousand shall fall at thy side, and ten thousand at thy right hand; But it shall not come nigh thee."
     },
     {
       "verse": "8",
-      "text": "Only with thine eyes shalt thou behold"
+      "text": "Only with thine eyes shalt thou behold And see the reward of the wicked."
     },
     {
       "verse": "9",
-      "text": "Because thou hast made the LORD , which is my refuge,"
+      "text": "Because thou hast made the LORD , which is my refuge, Even the most High, thy habitation;"
     },
     {
       "verse": "10",
-      "text": "There shall no evil befall thee,"
+      "text": "There shall no evil befall thee, Neither shall any plague come nigh thy dwelling."
     },
     {
       "verse": "11",
-      "text": "For he shall give his angels charge over thee,"
+      "text": "For he shall give his angels charge over thee, To keep thee in all thy ways."
     },
     {
       "verse": "12",
-      "text": "They shall bear thee up in their hands,"
+      "text": "They shall bear thee up in their hands, Lest thou dash thy foot against a stone."
     },
     {
       "verse": "13",
-      "text": "Thou shalt tread upon the lion and adder:"
+      "text": "Thou shalt tread upon the lion and adder: The young lion and the dragon shalt thou trample under feet."
     },
     {
       "verse": "14",
-      "text": "Because he hath set his love upon me, therefore will I deliver him:"
+      "text": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name."
     },
     {
       "verse": "15",
-      "text": "He shall call upon me, and I will answer him:"
+      "text": "He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him."
     },
     {
       "verse": "16",
-      "text": "With long life will I satisfy him,"
+      "text": "With long life will I satisfy him, And shew him my salvation."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

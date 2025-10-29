@@ -243,5 +243,11 @@
       "verse": "60",
       "text": "He kneeled down and cried with a loud voice, “Lord, don’t hold this sin against them!” When he had said this, he fell asleep."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

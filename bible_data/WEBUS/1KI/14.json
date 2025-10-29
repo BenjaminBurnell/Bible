@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "Rehoboam slept with his fathers, and was buried with his fathers in David’s city. His mother’s name was Naamah the Ammonitess. Abijam his son reigned in his place."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

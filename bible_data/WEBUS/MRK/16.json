@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "They went out and preached everywhere, the Lord working with them and confirming the word by the signs that followed. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

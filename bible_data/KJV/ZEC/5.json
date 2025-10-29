@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

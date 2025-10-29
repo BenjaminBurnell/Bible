@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": " Is Israel a servant? is he a homeborn slave? why is he spoiled?"
+      "text": "Is Israel a servant? is he a homeborn slave? why is he spoiled?"
     },
     {
       "verse": "15",
@@ -151,5 +151,11 @@
       "verse": "37",
       "text": "Yea, thou shalt go forth from him, and thine hands upon thine head: for the LORD hath rejected thy confidences, and thou shalt not prosper in them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

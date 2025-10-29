@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "“You have called, as in the day of a solemn assembly, my terrors on every side. There was no one that escaped or remained in the day of Yahweh’s anger. My enemy has consumed those whom I have cared for and brought up."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

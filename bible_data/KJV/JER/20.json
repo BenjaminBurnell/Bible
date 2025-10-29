@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "But the LORD  is with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: their everlasting confusion shall never be forgotten."
+      "text": "But the LORD is with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: their everlasting confusion shall never be forgotten."
     },
     {
       "verse": "12",
@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

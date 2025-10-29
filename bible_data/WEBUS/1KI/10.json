@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "A chariot was imported from Egypt for six hundred shekels of silver, and a horse for one hundred fifty shekels; and so they exported them to all the kings of the Hittites and to the kings of Syria."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

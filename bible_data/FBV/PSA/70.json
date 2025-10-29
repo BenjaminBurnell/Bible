@@ -1,0 +1,33 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 70,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "God, save me! Hurry, Lord, help me!"
+    },
+    {
+      "verse": "2",
+      "text": "Please defeat and humiliate the people who are trying to kill me; turn back in disgrace those who want to hurt me."
+    },
+    {
+      "verse": "3",
+      "text": "May they be shocked at their defeat, those who taunted me."
+    },
+    {
+      "verse": "4",
+      "text": "But may everyone who comes to you be happy and glad; may those who love your salvation always say, “God is great!”"
+    },
+    {
+      "verse": "5",
+      "text": "As for me, I am poor and needy. Hurry, God, help me! Save me! Lord, don't wait!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

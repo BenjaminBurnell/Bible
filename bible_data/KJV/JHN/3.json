@@ -21,15 +21,15 @@
     },
     {
       "verse": "5",
-      "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. "
+      "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
     },
     {
       "verse": "6",
-      "text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. "
+      "text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit."
     },
     {
       "verse": "7",
-      "text": "Marvel not that I said unto thee, Ye must be born again. "
+      "text": "Marvel not that I said unto thee, Ye must be born again."
     },
     {
       "verse": "8",
@@ -41,47 +41,47 @@
     },
     {
       "verse": "10",
-      "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things? "
+      "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?"
     },
     {
       "verse": "11",
-      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness. "
+      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
     },
     {
       "verse": "12",
-      "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things? "
+      "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?"
     },
     {
       "verse": "13",
-      "text": "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven. "
+      "text": "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."
     },
     {
       "verse": "14",
-      "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: "
+      "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:"
     },
     {
       "verse": "15",
-      "text": "that whosoever believeth in him should not perish, but have eternal life. "
+      "text": "that whosoever believeth in him should not perish, but have eternal life."
     },
     {
       "verse": "16",
-      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. "
+      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
     },
     {
       "verse": "17",
-      "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved. "
+      "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
     },
     {
       "verse": "18",
-      "text": "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. "
+      "text": "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
     },
     {
       "verse": "19",
-      "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. "
+      "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil."
     },
     {
       "verse": "20",
-      "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. "
+      "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved."
     },
     {
       "verse": "21",
@@ -147,5 +147,11 @@
       "verse": "36",
       "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

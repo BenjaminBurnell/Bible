@@ -271,5 +271,11 @@
       "verse": "67",
       "text": "Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife. He loved her. So Isaac was comforted after his mother’s death."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

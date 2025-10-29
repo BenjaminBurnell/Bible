@@ -1,0 +1,33 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 100,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Shout for joy to the LORD , all you lands!"
+    },
+    {
+      "verse": "2",
+      "text": "Serve the LORD with gladness . Come before his presence with singing ."
+    },
+    {
+      "verse": "3",
+      "text": "Know that the LORD , he is God . It is he who has made us , and we are his . We are his people , and the sheep of his pasture ."
+    },
+    {
+      "verse": "4",
+      "text": "Enter into his gates with thanksgiving , and into his courts with praise . Give thanks to him , and bless his name ."
+    },
+    {
+      "verse": "5",
+      "text": "For the LORD is good . His loving kindness endures forever , his faithfulness to all generations ."
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

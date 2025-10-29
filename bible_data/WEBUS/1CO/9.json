@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be disqualified."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

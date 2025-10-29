@@ -151,5 +151,11 @@
       "verse": "37",
       "text": "For he adds rebellion to his sin. He claps his hands among us, and multiplies his words against God.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -89,7 +89,7 @@
     },
     {
       "verse": "22",
-      "text": "Then Paul stood in the midst of Mars' hill, and said,"
+      "text": "Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious."
     },
     {
       "verse": "23",
@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "Howbeit certain men clave unto him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -13,7 +13,7 @@
     },
     {
       "verse": "3",
-      "text": "For we which have believed do enter into rest, as he said,"
+      "text": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, If they shall enter into my rest: although the works were finished from the foundation of the world."
     },
     {
       "verse": "4",
@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": "And in this place again,"
+      "text": "And in this place again, If they shall enter into my rest."
     },
     {
       "verse": "6",
@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said,"
+      "text": "again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, Harden not your hearts."
     },
     {
       "verse": "8",
@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

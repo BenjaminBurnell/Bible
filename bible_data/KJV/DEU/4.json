@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "For what nation is there so great, who hath God so nigh unto them, as the LORD our God is in all things that we call upon him for? "
+      "text": "For what nation is there so great, who hath God so nigh unto them, as the LORD our God is in all things that we call upon him for?"
     },
     {
       "verse": "8",
@@ -199,5 +199,11 @@
       "verse": "49",
       "text": "and all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

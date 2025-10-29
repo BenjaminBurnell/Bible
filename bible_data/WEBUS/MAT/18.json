@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

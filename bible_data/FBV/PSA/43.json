@@ -1,0 +1,33 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 43,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "God, please vindicate me! Plead my case against an unfaithful nation; save me from these wicked and dishonest people."
+    },
+    {
+      "verse": "2",
+      "text": "For you, God, are my protection—so why have you turned your back on me? Why must I go around weeping because of the attacks of my enemies?"
+    },
+    {
+      "verse": "3",
+      "text": "Send your light and your truth so they can guide me; let them lead me to your holy mountain, to the place where you live."
+    },
+    {
+      "verse": "4",
+      "text": "I will go to God's altar, to God who makes me truly happy. I will praise you on the harp, God, my God."
+    },
+    {
+      "verse": "5",
+      "text": "Why am I so discouraged? Why do I feel so sad? I will hope in God; I will praise him because he is the one who saves me—my God!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

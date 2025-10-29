@@ -55,5 +55,11 @@
       "verse": "13",
       "text": "He shall break also the images of Beth-shemesh, that is in the land of Egypt; and the houses of the gods of the Egyptians shall he burn with fire."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

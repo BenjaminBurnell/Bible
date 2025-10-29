@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

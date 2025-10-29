@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

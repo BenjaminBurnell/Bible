@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "They told me, “You must prophesy again over many peoples, nations, languages, and kings.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

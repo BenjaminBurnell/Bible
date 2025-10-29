@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

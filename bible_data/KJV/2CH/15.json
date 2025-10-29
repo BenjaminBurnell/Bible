@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "and he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD  is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you."
+      "text": "and he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you."
     },
     {
       "verse": "3",
@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "And there was no more war unto the five and thirtieth year of the reign of Asa."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

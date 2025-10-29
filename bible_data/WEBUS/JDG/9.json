@@ -231,5 +231,11 @@
       "verse": "57",
       "text": "and God repaid all the wickedness of the men of Shechem on their heads; and the curse of Jotham the son of Jerubbaal came on them."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "For the indignation of the LORD  is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter."
+      "text": "For the indignation of the LORD is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter."
     },
     {
       "verse": "3",
@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

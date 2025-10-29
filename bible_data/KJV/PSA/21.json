@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The king shall joy in thy strength, O LORD ;"
+      "text": "The king shall joy in thy strength, O LORD ; And in thy salvation how greatly shall he rejoice!"
     },
     {
       "verse": "2",
-      "text": "Thou hast given him his heart's desire,"
+      "text": "Thou hast given him his heart's desire, And hast not withholden the request of his lips. Selah."
     },
     {
       "verse": "3",
-      "text": "For thou preventest him with the blessings of goodness:"
+      "text": "For thou preventest him with the blessings of goodness: Thou settest a crown of pure gold on his head."
     },
     {
       "verse": "4",
-      "text": "He asked life of thee, and thou gavest it him,"
+      "text": "He asked life of thee, and thou gavest it him, Even length of days for ever and ever."
     },
     {
       "verse": "5",
-      "text": "His glory is great in thy salvation:"
+      "text": "His glory is great in thy salvation: Honour and majesty hast thou laid upon him."
     },
     {
       "verse": "6",
-      "text": "For thou hast made him most blessed for ever:"
+      "text": "For thou hast made him most blessed for ever: Thou hast made him exceeding glad with thy countenance."
     },
     {
       "verse": "7",
-      "text": "For the king trusteth in the LORD ,"
+      "text": "For the king trusteth in the LORD , And through the mercy of the Most High he shall not be moved."
     },
     {
       "verse": "8",
-      "text": "Thine hand shall find out all thine enemies:"
+      "text": "Thine hand shall find out all thine enemies: Thy right hand shall find out those that hate thee."
     },
     {
       "verse": "9",
-      "text": "Thou shalt make them as a fiery oven in the time of thine anger:"
+      "text": "Thou shalt make them as a fiery oven in the time of thine anger: The LORD shall swallow them up in his wrath, and the fire shall devour them."
     },
     {
       "verse": "10",
-      "text": "Their fruit shalt thou destroy from the earth,"
+      "text": "Their fruit shalt thou destroy from the earth, And their seed from among the children of men."
     },
     {
       "verse": "11",
-      "text": "For they intended evil against thee:"
+      "text": "For they intended evil against thee: They imagined a mischievous device, which they are not able to perform ."
     },
     {
       "verse": "12",
-      "text": "Therefore shalt thou make them turn their back,"
+      "text": "Therefore shalt thou make them turn their back, When thou shalt make ready thine arrows upon thy strings against the face of them."
     },
     {
       "verse": "13",
-      "text": "Be thou exalted, LORD , in thine own strength:"
+      "text": "Be thou exalted, LORD , in thine own strength: So will we sing and praise thy power."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

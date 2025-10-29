@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "The couriers went out in haste by the king’s commandment, and the decree was given out in the citadel of Susa. The king and Haman sat down to drink; but the city of Susa was perplexed."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

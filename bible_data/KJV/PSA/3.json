@@ -5,35 +5,41 @@
   "verses": [
     {
       "verse": "1",
-      "text": " LORD , how are they increased that trouble me!"
+      "text": "LORD , how are they increased that trouble me! Many are they that rise up against me."
     },
     {
       "verse": "2",
-      "text": "Many there be which say of my soul,"
+      "text": "Many there be which say of my soul, There is no help for him in God. Selah."
     },
     {
       "verse": "3",
-      "text": "But thou, O LORD , art a shield for me;"
+      "text": "But thou, O LORD , art a shield for me; My glory, and the lifter up of mine head."
     },
     {
       "verse": "4",
-      "text": "I cried unto the LORD with my voice,"
+      "text": "I cried unto the LORD with my voice, And he heard me out of his holy hill. Selah."
     },
     {
       "verse": "5",
-      "text": "I laid me down and slept;"
+      "text": "I laid me down and slept; I awaked; for the LORD sustained me."
     },
     {
       "verse": "6",
-      "text": "I will not be afraid of ten thousands of people,"
+      "text": "I will not be afraid of ten thousands of people, That have set themselves against me round about."
     },
     {
       "verse": "7",
-      "text": "Arise, O LORD ; save me, O my God:"
+      "text": "Arise, O LORD ; save me, O my God: For thou hast smitten all mine enemies upon the cheek bone; Thou hast broken the teeth of the ungodly."
     },
     {
       "verse": "8",
-      "text": "Salvation belongeth unto the LORD :"
+      "text": "Salvation belongeth unto the LORD : Thy blessing is upon thy people. Selah."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

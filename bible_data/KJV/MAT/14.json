@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": "But Jesus said unto them, They need not depart; give ye them to eat. "
+      "text": "But Jesus said unto them, They need not depart; give ye them to eat."
     },
     {
       "verse": "17",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "He said, Bring them hither to me. "
+      "text": "He said, Bring them hither to me."
     },
     {
       "verse": "19",
@@ -109,7 +109,7 @@
     },
     {
       "verse": "27",
-      "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid. "
+      "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid."
     },
     {
       "verse": "28",
@@ -125,7 +125,7 @@
     },
     {
       "verse": "31",
-      "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt? "
+      "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
     },
     {
       "verse": "32",
@@ -147,5 +147,11 @@
       "verse": "36",
       "text": "and besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

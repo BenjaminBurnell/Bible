@@ -1,0 +1,41 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 142,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "I call out to the Lord for help; pleading with the Lord for mercy."
+    },
+    {
+      "verse": "2",
+      "text": "I pour out my complaints before him; I tell him what's troubling me."
+    },
+    {
+      "verse": "3",
+      "text": "When I'm totally discouraged, you know the direction I should take. But whichever way I go, people set traps for me."
+    },
+    {
+      "verse": "4",
+      "text": "I look to my right for someone to support me—but no one pays me any attention. There's no safe place for me—no one cares about me at all."
+    },
+    {
+      "verse": "5",
+      "text": "I cry out to you, Lord, for help, saying, “You are the one who keeps me safe; you are all I need in life."
+    },
+    {
+      "verse": "6",
+      "text": "Please listen to my sad cry, for I'm feeling very low. Please save me from those who are after me, for they're too strong for me."
+    },
+    {
+      "verse": "7",
+      "text": "Release me from my prison so I can praise you for the person you are! Those who live right will gather round me because you have treated me so well.”"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

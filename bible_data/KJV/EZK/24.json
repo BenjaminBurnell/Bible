@@ -77,7 +77,7 @@
     },
     {
       "verse": "19",
-      "text": "And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so? "
+      "text": "And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?"
     },
     {
       "verse": "20",
@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

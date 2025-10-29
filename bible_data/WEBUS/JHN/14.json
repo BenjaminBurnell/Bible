@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "But that the world may know that I love the Father, and as the Father commanded me, even so I do. Arise, let’s go from here."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

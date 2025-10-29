@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "but she will be saved through her childbearing, if they continue in faith, love, and holiness with sobriety."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

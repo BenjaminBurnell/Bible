@@ -159,5 +159,11 @@
       "verse": "39",
       "text": "I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May Yahweh reward the evildoer according to his wickedness.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

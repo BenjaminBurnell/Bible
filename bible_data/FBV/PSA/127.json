@@ -1,0 +1,33 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 127,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "If the Lord doesn't build the house, the work of the builders is futile. If the Lord doesn't guard the city, the work of the guards is pointless."
+    },
+    {
+      "verse": "2",
+      "text": "It's useless to get up early in the morning and go to work, and stay late into the evening, worrying about earning enough to eat, when the Lord gives rest to those he loves."
+    },
+    {
+      "verse": "3",
+      "text": "Children certainly are a gift from the Lord, for a family is a blessing."
+    },
+    {
+      "verse": "4",
+      "text": "Like arrows in the hand of a warrior are the children of a young man."
+    },
+    {
+      "verse": "5",
+      "text": "Happy is the father who fills his quiver with them! Such fathers will not be embarrassed when they confront their enemies at the city gate."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

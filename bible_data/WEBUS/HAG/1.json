@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

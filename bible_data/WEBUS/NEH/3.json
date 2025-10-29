@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "Between the ascent of the corner and the sheep gate, the goldsmiths and the merchants made repairs."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -13,7 +13,7 @@
     },
     {
       "verse": "3",
-      "text": "And he saith unto the man which had the withered hand, Stand forth. "
+      "text": "And he saith unto the man which had the withered hand, Stand forth."
     },
     {
       "verse": "4",
@@ -93,31 +93,31 @@
     },
     {
       "verse": "23",
-      "text": "And he called them unto him , and said unto them in parables, How can Satan cast out Satan? "
+      "text": "And he called them unto him , and said unto them in parables, How can Satan cast out Satan?"
     },
     {
       "verse": "24",
-      "text": "And if a kingdom be divided against itself, that kingdom cannot stand. "
+      "text": "And if a kingdom be divided against itself, that kingdom cannot stand."
     },
     {
       "verse": "25",
-      "text": "And if a house be divided against itself, that house cannot stand. "
+      "text": "And if a house be divided against itself, that house cannot stand."
     },
     {
       "verse": "26",
-      "text": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end. "
+      "text": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end."
     },
     {
       "verse": "27",
-      "text": "No man can enter into a strong man's house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house. "
+      "text": "No man can enter into a strong man's house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house."
     },
     {
       "verse": "28",
-      "text": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme: "
+      "text": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
     },
     {
       "verse": "29",
-      "text": "but he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation: "
+      "text": "but he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:"
     },
     {
       "verse": "30",
@@ -133,15 +133,21 @@
     },
     {
       "verse": "33",
-      "text": "And he answered them, saying, Who is my mother, or my brethren? "
+      "text": "And he answered them, saying, Who is my mother, or my brethren?"
     },
     {
       "verse": "34",
-      "text": "And he looked round about on them which sat about him, and said, Behold my mother and my brethren! "
+      "text": "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!"
     },
     {
       "verse": "35",
       "text": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -5,39 +5,45 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O clap your hands, all ye people;"
+      "text": "O clap your hands, all ye people; Shout unto God with the voice of triumph."
     },
     {
       "verse": "2",
-      "text": "For the LORD most high is terrible;"
+      "text": "For the LORD most high is terrible; He is a great King over all the earth."
     },
     {
       "verse": "3",
-      "text": "He shall subdue the people under us,"
+      "text": "He shall subdue the people under us, And the nations under our feet."
     },
     {
       "verse": "4",
-      "text": "He shall choose our inheritance for us,"
+      "text": "He shall choose our inheritance for us, The excellency of Jacob whom he loved. Selah."
     },
     {
       "verse": "5",
-      "text": "God is gone up with a shout,"
+      "text": "God is gone up with a shout, The LORD with the sound of a trumpet."
     },
     {
       "verse": "6",
-      "text": "Sing praises to God, sing praises:"
+      "text": "Sing praises to God, sing praises: Sing praises unto our King, sing praises."
     },
     {
       "verse": "7",
-      "text": "For God is the King of all the earth:"
+      "text": "For God is the King of all the earth: Sing ye praises with understanding."
     },
     {
       "verse": "8",
-      "text": "God reigneth over the heathen:"
+      "text": "God reigneth over the heathen: God sitteth upon the throne of his holiness."
     },
     {
       "verse": "9",
-      "text": "The princes of the people are gathered together, even the people of the God of Abraham:"
+      "text": "The princes of the people are gathered together, even the people of the God of Abraham: For the shields of the earth belong unto God: He is greatly exalted."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -155,5 +155,11 @@
       "verse": "38",
       "text": "He has left his covert, as the lion; for their land has become an astonishment because of the fierceness of the oppression, and because of his fierce anger."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

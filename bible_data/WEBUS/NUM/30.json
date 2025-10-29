@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "These are the statutes which Yahweh commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

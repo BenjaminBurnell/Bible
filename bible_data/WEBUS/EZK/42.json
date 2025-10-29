@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "He measured it on the four sides. It had a wall around it, the length five hundred cubits, and the width five hundred cubits, to make a separation between that which was holy and that which was common."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

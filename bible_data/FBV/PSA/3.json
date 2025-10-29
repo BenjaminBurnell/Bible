@@ -1,0 +1,45 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Lord, my enemies have become so many; so many are rebelling against me."
+    },
+    {
+      "verse": "2",
+      "text": "So many are telling me, “God can't save you!” Selah."
+    },
+    {
+      "verse": "3",
+      "text": "But you, Lord, are a shield protecting me. You give me victory; you hold my head high."
+    },
+    {
+      "verse": "4",
+      "text": "I cry out to the Lord for help, and he answers me from his holy mountain. Selah."
+    },
+    {
+      "verse": "5",
+      "text": "I lie down to sleep, and in the morning I wake up because the Lord takes care of me."
+    },
+    {
+      "verse": "6",
+      "text": "I'm not afraid of tens of thousands who surround me, people who are against me."
+    },
+    {
+      "verse": "7",
+      "text": "Stand up for me, Lord! Save me, my God! Hit all my enemies on the cheek; break the teeth of the wicked!"
+    },
+    {
+      "verse": "8",
+      "text": "Salvation belongs to you, Lord; may you be a blessing to your people. Selah."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

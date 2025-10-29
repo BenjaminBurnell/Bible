@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": "But Amasa took no heed to the sword that was in Joab's hand: so he smote him therewith in the fifth rib , and shed out his bowels to the ground, and struck him not again; and he died."
+      "text": "But Amasa took no heed to the sword that was in Joab's hand: so he smote him therewith in the fifth rib , and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri."
     },
     {
       "verse": "11",
@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "and Ira also the Jairite was a chief ruler about David."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

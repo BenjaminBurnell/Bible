@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "All the people went to Gilgal; and there they made Saul king before Yahweh in Gilgal. There they offered sacrifices of peace offerings before Yahweh; and there Saul and all the men of Israel rejoiced greatly."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

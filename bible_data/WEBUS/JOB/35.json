@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "therefore Job opens his mouth with empty talk, and he multiplies words without knowledge.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

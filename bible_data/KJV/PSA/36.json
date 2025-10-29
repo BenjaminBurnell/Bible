@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The transgression of the wicked saith within my heart,"
+      "text": "The transgression of the wicked saith within my heart, That there is no fear of God before his eyes."
     },
     {
       "verse": "2",
@@ -13,43 +13,49 @@
     },
     {
       "verse": "3",
-      "text": "The words of his mouth are iniquity and deceit:"
+      "text": "The words of his mouth are iniquity and deceit: He hath left off to be wise, and to do good."
     },
     {
       "verse": "4",
-      "text": "He deviseth mischief upon his bed;"
+      "text": "He deviseth mischief upon his bed; He setteth himself in a way that is not good; He abhorreth not evil."
     },
     {
       "verse": "5",
-      "text": "Thy mercy, O LORD , is in the heavens;"
+      "text": "Thy mercy, O LORD , is in the heavens; And thy faithfulness reacheth unto the clouds."
     },
     {
       "verse": "6",
-      "text": "Thy righteousness is like the great mountains;"
+      "text": "Thy righteousness is like the great mountains; Thy judgments are a great deep: O LORD , thou preservest man and beast."
     },
     {
       "verse": "7",
-      "text": "How excellent is thy lovingkindness, O God!"
+      "text": "How excellent is thy lovingkindness, O God! Therefore the children of men put their trust under the shadow of thy wings."
     },
     {
       "verse": "8",
-      "text": "They shall be abundantly satisfied with the fatness of thy house;"
+      "text": "They shall be abundantly satisfied with the fatness of thy house; And thou shalt make them drink of the river of thy pleasures."
     },
     {
       "verse": "9",
-      "text": "For with thee is the fountain of life:"
+      "text": "For with thee is the fountain of life: In thy light shall we see light."
     },
     {
       "verse": "10",
-      "text": "O continue thy lovingkindness unto them that know thee;"
+      "text": "O continue thy lovingkindness unto them that know thee; And thy righteousness to the upright in heart."
     },
     {
       "verse": "11",
-      "text": "Let not the foot of pride come against me,"
+      "text": "Let not the foot of pride come against me, And let not the hand of the wicked remove me."
     },
     {
       "verse": "12",
-      "text": "There are the workers of iniquity fallen:"
+      "text": "There are the workers of iniquity fallen: They are cast down, and shall not be able to rise."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

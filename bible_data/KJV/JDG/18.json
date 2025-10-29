@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "And the priest said unto them, Go in peace: before the LORD  is your way wherein ye go."
+      "text": "And the priest said unto them, Go in peace: before the LORD is your way wherein ye go."
     },
     {
       "verse": "7",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "And they set them up Micah's graven image, which he made, all the time that the house of God was in Shiloh."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

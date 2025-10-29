@@ -147,5 +147,11 @@
       "verse": "36",
       "text": "For of him and through him and to him are all things. To him be the glory for ever! Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

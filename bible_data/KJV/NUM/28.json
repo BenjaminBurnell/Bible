@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the LORD  for a drink offering."
+      "text": "And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the LORD for a drink offering."
     },
     {
       "verse": "8",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "In the first day shall be an holy convocation; ye shall do no manner of servile work therein: "
+      "text": "In the first day shall be an holy convocation; ye shall do no manner of servile work therein:"
     },
     {
       "verse": "19",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -5,39 +5,45 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The LORD reigneth; let the people tremble:"
+      "text": "The LORD reigneth; let the people tremble: He sitteth between the cherubims; let the earth be moved."
     },
     {
       "verse": "2",
-      "text": "The LORD  is great in Zion;"
+      "text": "The LORD is great in Zion; And he is high above all the people."
     },
     {
       "verse": "3",
-      "text": "Let them praise thy great and terrible name;"
+      "text": "Let them praise thy great and terrible name; For it is holy."
     },
     {
       "verse": "4",
-      "text": "The king's strength also loveth judgment; Thou dost establish equity,"
+      "text": "The king's strength also loveth judgment; Thou dost establish equity, Thou executest judgment and righteousness in Jacob."
     },
     {
       "verse": "5",
-      "text": "Exalt ye the LORD our God,"
+      "text": "Exalt ye the LORD our God, And worship at his footstool; For he is holy."
     },
     {
       "verse": "6",
-      "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name;"
+      "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; They called upon the LORD , and he answered them."
     },
     {
       "verse": "7",
-      "text": "He spake unto them in the cloudy pillar:"
+      "text": "He spake unto them in the cloudy pillar: They kept his testimonies, and the ordinance that he gave them."
     },
     {
       "verse": "8",
-      "text": "Thou answeredst them, O LORD our God:"
+      "text": "Thou answeredst them, O LORD our God: Thou wast a God that forgavest them, though thou tookest vengeance of their inventions."
     },
     {
       "verse": "9",
-      "text": "Exalt the LORD our God, and worship at his holy hill;"
+      "text": "Exalt the LORD our God, and worship at his holy hill; For the LORD our God is holy."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

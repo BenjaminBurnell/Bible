@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -25,15 +25,15 @@
     },
     {
       "verse": "6",
-      "text": "It is he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD  is his name."
+      "text": "It is he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD is his name."
     },
     {
       "verse": "7",
-      "text": " Are ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD . Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?"
+      "text": "Are ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD . Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?"
     },
     {
       "verse": "8",
-      "text": "Behold, the eyes of the Lord GOD  are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD ."
+      "text": "Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD ."
     },
     {
       "verse": "9",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

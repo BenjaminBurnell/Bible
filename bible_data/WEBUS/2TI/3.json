@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "that each person who belongs to God may be complete, thoroughly equipped for every good work."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

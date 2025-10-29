@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "But Philip was found at Azotus. Passing through, he preached the Good News to all the cities until he came to Caesarea."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

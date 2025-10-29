@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "For since I came to Pharaoh to speak in your name, he has brought trouble on this people. You have not rescued your people at all!”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

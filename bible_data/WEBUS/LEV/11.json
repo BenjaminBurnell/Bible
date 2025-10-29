@@ -191,5 +191,11 @@
       "verse": "47",
       "text": "to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

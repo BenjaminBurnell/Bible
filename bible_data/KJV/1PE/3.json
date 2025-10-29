@@ -41,15 +41,15 @@
     },
     {
       "verse": "10",
-      "text": "For"
+      "text": "For He that will love life, And see good days, Let him refrain his tongue from evil, And his lips that they speak no guile:"
     },
     {
       "verse": "11",
-      "text": "Let him eschew evil, and do good;"
+      "text": "Let him eschew evil, and do good; Let him seek peace, and ensue it."
     },
     {
       "verse": "12",
-      "text": "For the eyes of the Lord are over the righteous,"
+      "text": "For the eyes of the Lord are over the righteous, And his ears are open unto their prayers: But the face of the Lord is against them that do evil."
     },
     {
       "verse": "13",
@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -35,5 +35,11 @@
       "verse": "8",
       "text": "In peace I will both lay myself down and sleep, for you alone, Yahweh, make me live in safety."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

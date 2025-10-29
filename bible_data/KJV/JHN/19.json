@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin. "
+      "text": "Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin."
     },
     {
       "verse": "12",
@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": "Then delivered he him therefore unto them to be crucified."
+      "text": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away."
     },
     {
       "verse": "17",
@@ -105,7 +105,7 @@
     },
     {
       "verse": "26",
-      "text": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son! "
+      "text": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!"
     },
     {
       "verse": "27",
@@ -113,7 +113,7 @@
     },
     {
       "verse": "28",
-      "text": "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst. "
+      "text": "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst."
     },
     {
       "verse": "29",
@@ -171,5 +171,11 @@
       "verse": "42",
       "text": "There laid they Jesus therefore because of the Jews' preparation day ; for the sepulchre was nigh at hand."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

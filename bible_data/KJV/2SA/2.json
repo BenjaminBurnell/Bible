@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "And the men of Judah came, and there they anointed David king over the house of Judah."
+      "text": "And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, That the men of Jabesh-gilead were they that buried Saul."
     },
     {
       "verse": "5",
@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "And they took up Asahel, and buried him in the sepulchre of his father, which was in Beth-lehem. And Joab and his men went all night, and they came to Hebron at break of day."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

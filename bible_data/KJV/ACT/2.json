@@ -69,19 +69,19 @@
     },
     {
       "verse": "17",
-      "text": "And it shall come to pass in the last days, saith God,"
+      "text": "And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: And your sons and your daughters shall prophesy, And your young men shall see visions, And your old men shall dream dreams:"
     },
     {
       "verse": "18",
-      "text": "And on my servants and on my handmaidens"
+      "text": "And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:"
     },
     {
       "verse": "19",
-      "text": "And I will shew wonders in heaven above,"
+      "text": "And I will shew wonders in heaven above, And signs in the earth beneath; Blood, and fire, and vapour of smoke:"
     },
     {
       "verse": "20",
-      "text": "The sun shall be turned into darkness,"
+      "text": "The sun shall be turned into darkness, And the moon into blood, Before that great and notable Day of the Lord come:"
     },
     {
       "verse": "21",
@@ -101,19 +101,19 @@
     },
     {
       "verse": "25",
-      "text": "For David speaketh concerning him,"
+      "text": "For David speaketh concerning him, I foresaw the Lord always before my face, For he is on my right hand, that I should not be moved:"
     },
     {
       "verse": "26",
-      "text": "Therefore did my heart rejoice, and my tongue was glad;"
+      "text": "Therefore did my heart rejoice, and my tongue was glad; Moreover also my flesh shall rest in hope:"
     },
     {
       "verse": "27",
-      "text": "Because thou wilt not leave my soul in hell,"
+      "text": "Because thou wilt not leave my soul in hell, Neither wilt thou suffer thine Holy One to see corruption."
     },
     {
       "verse": "28",
-      "text": "Thou hast made known to me the ways of life;"
+      "text": "Thou hast made known to me the ways of life; Thou shalt make me full of joy with thy countenance."
     },
     {
       "verse": "29",
@@ -137,7 +137,7 @@
     },
     {
       "verse": "34",
-      "text": "For David is not ascended into the heavens: but he saith himself,"
+      "text": "For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand,"
     },
     {
       "verse": "35",
@@ -191,5 +191,11 @@
       "verse": "47",
       "text": "praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

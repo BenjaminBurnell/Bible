@@ -5,47 +5,53 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Preserve me, O God:"
+      "text": "Preserve me, O God: For in thee do I put my trust."
     },
     {
       "verse": "2",
-      "text": " O my soul , thou hast said unto the LORD ,"
+      "text": "O my soul , thou hast said unto the LORD , Thou art my Lord: My goodness extendeth not to thee;"
     },
     {
       "verse": "3",
-      "text": " But to the saints that are in the earth,"
+      "text": "But to the saints that are in the earth, And to the excellent, in whom is all my delight."
     },
     {
       "verse": "4",
-      "text": "Their sorrows shall be multiplied that hasten after another god:"
+      "text": "Their sorrows shall be multiplied that hasten after another god: Their drink offerings of blood will I not offer, Nor take up their names into my lips."
     },
     {
       "verse": "5",
-      "text": "The LORD  is the portion of mine inheritance and of my cup:"
+      "text": "The LORD is the portion of mine inheritance and of my cup: Thou maintainest my lot."
     },
     {
       "verse": "6",
-      "text": "The lines are fallen unto me in pleasant places ;"
+      "text": "The lines are fallen unto me in pleasant places ; Yea, I have a goodly heritage."
     },
     {
       "verse": "7",
-      "text": "I will bless the LORD , who hath given me counsel:"
+      "text": "I will bless the LORD , who hath given me counsel: My reins also instruct me in the night seasons."
     },
     {
       "verse": "8",
-      "text": "I have set the LORD always before me:"
+      "text": "I have set the LORD always before me: Because he is at my right hand, I shall not be moved."
     },
     {
       "verse": "9",
-      "text": "Therefore my heart is glad, and my glory rejoiceth:"
+      "text": "Therefore my heart is glad, and my glory rejoiceth: My flesh also shall rest in hope."
     },
     {
       "verse": "10",
-      "text": "For thou wilt not leave my soul in hell;"
+      "text": "For thou wilt not leave my soul in hell; Neither wilt thou suffer thine Holy One to see corruption."
     },
     {
       "verse": "11",
-      "text": "Thou wilt shew me the path of life: In thy presence is fulness of joy;"
+      "text": "Thou wilt shew me the path of life: In thy presence is fulness of joy; At thy right hand there are pleasures for evermore."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

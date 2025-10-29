@@ -153,7 +153,13 @@
     },
     {
       "verse": "38",
-      "text": "For the cloud of the LORD  was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys."
+      "text": "For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

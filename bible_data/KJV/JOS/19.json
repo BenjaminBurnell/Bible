@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": " And the fourth lot came out to Issachar, for the children of Issachar according to their families."
+      "text": "And the fourth lot came out to Issachar, for the children of Issachar according to their families."
     },
     {
       "verse": "18",
@@ -161,7 +161,7 @@
     },
     {
       "verse": "40",
-      "text": " And the seventh lot came out for the tribe of the children of Dan according to their families."
+      "text": "And the seventh lot came out for the tribe of the children of Dan according to their families."
     },
     {
       "verse": "41",
@@ -207,5 +207,11 @@
       "verse": "51",
       "text": "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD , at the door of the tabernacle of the congregation. So they made an end of dividing the country."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

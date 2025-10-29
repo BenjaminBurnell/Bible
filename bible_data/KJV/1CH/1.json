@@ -205,7 +205,7 @@
     },
     {
       "verse": "51",
-      "text": "Hadad died also."
+      "text": "Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,"
     },
     {
       "verse": "52",
@@ -219,5 +219,11 @@
       "verse": "54",
       "text": "duke Magdiel, duke Iram. These are the dukes of Edom."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

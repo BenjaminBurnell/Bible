@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": "For he testifieth,"
+      "text": "For he testifieth, Thou art a priest for ever After the order of Melchisedec."
     },
     {
       "verse": "18",
@@ -85,7 +85,7 @@
     },
     {
       "verse": "21",
-      "text": "(for those priests were made without an oath; but this with an oath by him that said unto him,"
+      "text": "(for those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest for ever After the order of Melchisedec:)"
     },
     {
       "verse": "22",
@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

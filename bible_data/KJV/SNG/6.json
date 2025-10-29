@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Whither is thy beloved gone,"
+      "text": "Whither is thy beloved gone, O thou fairest among women? Whither is thy beloved turned aside? That we may seek him with thee."
     },
     {
       "verse": "2",
-      "text": "My beloved is gone down into his garden,"
+      "text": "My beloved is gone down into his garden, To the beds of spices, To feed in the gardens, And to gather lilies."
     },
     {
       "verse": "3",
-      "text": "I am my beloved's, and my beloved is mine:"
+      "text": "I am my beloved's, and my beloved is mine: He feedeth among the lilies."
     },
     {
       "verse": "4",
-      "text": "Thou art beautiful, O my love, as Tirzah,"
+      "text": "Thou art beautiful, O my love, as Tirzah, Comely as Jerusalem, Terrible as an army with banners."
     },
     {
       "verse": "5",
-      "text": "Turn away thine eyes from me,"
+      "text": "Turn away thine eyes from me, For they have overcome me: Thy hair is as a flock of goats That appear from Gilead."
     },
     {
       "verse": "6",
-      "text": "Thy teeth are as a flock of sheep"
+      "text": "Thy teeth are as a flock of sheep Which go up from the washing, Whereof every one beareth twins, And there is not one barren among them."
     },
     {
       "verse": "7",
-      "text": "As a piece of a pomegranate are thy temples"
+      "text": "As a piece of a pomegranate are thy temples Within thy locks."
     },
     {
       "verse": "8",
-      "text": "There are threescore queens, and fourscore concubines,"
+      "text": "There are threescore queens, and fourscore concubines, And virgins without number."
     },
     {
       "verse": "9",
-      "text": "My dove, my undefiled is but one;"
+      "text": "My dove, my undefiled is but one; She is the only one of her mother, She is the choice one of her that bare her. The daughters saw her, and blessed her; Yea , the queens and the concubines, and they praised her."
     },
     {
       "verse": "10",
-      "text": "Who is she that looketh forth as the morning,"
+      "text": "Who is she that looketh forth as the morning, Fair as the moon, clear as the sun, And terrible as an army with banners?"
     },
     {
       "verse": "11",
-      "text": "I went down into the garden of nuts"
+      "text": "I went down into the garden of nuts To see the fruits of the valley, And to see whether the vine flourished, And the pomegranates budded."
     },
     {
       "verse": "12",
-      "text": "Or ever I was aware,"
+      "text": "Or ever I was aware, My soul made me like the chariots of Amminadib."
     },
     {
       "verse": "13",
-      "text": "Return, return, O Shulamite;"
+      "text": "Return, return, O Shulamite; Return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

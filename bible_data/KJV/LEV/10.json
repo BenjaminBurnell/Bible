@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD  is upon you. And they did according to the word of Moses."
+      "text": "And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD is upon you. And they did according to the word of Moses."
     },
     {
       "verse": "8",
@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "And when Moses heard that , he was content."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

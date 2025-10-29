@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "Yet, Yahweh, you know all their counsel against me to kill me. Don’t forgive their iniquity. Don’t blot out their sin from your sight, Let them be overthrown before you. Deal with them in the time of your anger."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

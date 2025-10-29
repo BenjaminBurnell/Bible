@@ -5,31 +5,37 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The fool hath said in his heart, there is no God."
+      "text": "The fool hath said in his heart, there is no God. They are corrupt, they have done abominable works, There is none that doeth good."
     },
     {
       "verse": "2",
-      "text": "The LORD looked down from heaven upon the children of men,"
+      "text": "The LORD looked down from heaven upon the children of men, To see if there were any that did understand, And seek God."
     },
     {
       "verse": "3",
-      "text": "They are all gone aside, they are all together become filthy:"
+      "text": "They are all gone aside, they are all together become filthy: There is none that doeth good, no, not one."
     },
     {
       "verse": "4",
-      "text": "Have all the workers of iniquity no knowledge?"
+      "text": "Have all the workers of iniquity no knowledge? Who eat up my people as they eat bread, and call not upon the LORD ."
     },
     {
       "verse": "5",
-      "text": "There were they in great fear:"
+      "text": "There were they in great fear: For God is in the generation of the righteous."
     },
     {
       "verse": "6",
-      "text": "Ye have shamed the counsel of the poor,"
+      "text": "Ye have shamed the counsel of the poor, Because the LORD is his refuge."
     },
     {
       "verse": "7",
-      "text": "Oh that the salvation of Israel were come out of Zion!"
+      "text": "Oh that the salvation of Israel were come out of Zion! When the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

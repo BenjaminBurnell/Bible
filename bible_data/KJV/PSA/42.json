@@ -5,47 +5,53 @@
   "verses": [
     {
       "verse": "1",
-      "text": "As the hart panteth after the water brooks,"
+      "text": "As the hart panteth after the water brooks, So panteth my soul after thee, O God."
     },
     {
       "verse": "2",
-      "text": "My soul thirsteth for God, for the living God:"
+      "text": "My soul thirsteth for God, for the living God: When shall I come and appear before God?"
     },
     {
       "verse": "3",
-      "text": "My tears have been my meat day and night,"
+      "text": "My tears have been my meat day and night, While they continually say unto me, Where is thy God?"
     },
     {
       "verse": "4",
-      "text": "When I remember these things , I pour out my soul in me:"
+      "text": "When I remember these things , I pour out my soul in me: For I had gone with the multitude, I went with them to the house of God, With the voice of joy and praise, With a multitude that kept holyday."
     },
     {
       "verse": "5",
-      "text": "Why art thou cast down, O my soul?"
+      "text": "Why art thou cast down, O my soul? And why art thou disquieted in me? Hope thou in God: For I shall yet praise him For the help of his countenance."
     },
     {
       "verse": "6",
-      "text": "O my God, my soul is cast down within me:"
+      "text": "O my God, my soul is cast down within me: Therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar."
     },
     {
       "verse": "7",
-      "text": "Deep calleth unto deep at the noise of thy waterspouts:"
+      "text": "Deep calleth unto deep at the noise of thy waterspouts: All thy waves and thy billows are gone over me."
     },
     {
       "verse": "8",
-      "text": " Yet the LORD will command his lovingkindness in the daytime,"
+      "text": "Yet the LORD will command his lovingkindness in the daytime, And in the night his song shall be with me, and my prayer unto the God of my life."
     },
     {
       "verse": "9",
-      "text": "I will say unto God my rock, why hast thou forgotten me?"
+      "text": "I will say unto God my rock, why hast thou forgotten me? Why go I mourning because of the oppression of the enemy?"
     },
     {
       "verse": "10",
-      "text": " As with a sword in my bones,"
+      "text": "As with a sword in my bones, Mine enemies reproach me; While they say daily unto me, Where is thy God?"
     },
     {
       "verse": "11",
-      "text": "Why art thou cast down, O my soul?"
+      "text": "Why art thou cast down, O my soul? And why art thou disquieted within me? Hope thou in God; For I shall yet praise him, who is the health of my countenance, and my God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

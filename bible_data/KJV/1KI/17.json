@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the LORD in thy mouth is truth."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

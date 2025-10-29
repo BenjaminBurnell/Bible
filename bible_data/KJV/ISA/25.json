@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "And the fortress of the high fort of thy walls shall he bring down, lay low, and bring to the ground, even to the dust."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

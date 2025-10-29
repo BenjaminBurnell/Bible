@@ -35,5 +35,11 @@
       "verse": "8",
       "text": "These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

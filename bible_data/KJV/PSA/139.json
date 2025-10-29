@@ -13,91 +13,97 @@
     },
     {
       "verse": "3",
-      "text": "Thou compassest my path and my lying down,"
+      "text": "Thou compassest my path and my lying down, And art acquainted with all my ways."
     },
     {
       "verse": "4",
-      "text": "For there is not a word in my tongue,"
+      "text": "For there is not a word in my tongue, But , lo, O LORD , thou knowest it altogether."
     },
     {
       "verse": "5",
-      "text": "Thou hast beset me behind and before,"
+      "text": "Thou hast beset me behind and before, And laid thine hand upon me."
     },
     {
       "verse": "6",
-      "text": " Such knowledge is too wonderful for me;"
+      "text": "Such knowledge is too wonderful for me; It is high, I cannot attain unto it."
     },
     {
       "verse": "7",
-      "text": "Whither shall I go from thy spirit?"
+      "text": "Whither shall I go from thy spirit? Or whither shall I flee from thy presence?"
     },
     {
       "verse": "8",
-      "text": "If I ascend up into heaven, thou art there:"
+      "text": "If I ascend up into heaven, thou art there: If I make my bed in hell, behold, thou art there ."
     },
     {
       "verse": "9",
-      "text": " If I take the wings of the morning,"
+      "text": "If I take the wings of the morning, And dwell in the uttermost parts of the sea;"
     },
     {
       "verse": "10",
-      "text": "Even there shall thy hand lead me,"
+      "text": "Even there shall thy hand lead me, And thy right hand shall hold me."
     },
     {
       "verse": "11",
-      "text": "If I say, Surely the darkness shall cover me;"
+      "text": "If I say, Surely the darkness shall cover me; Even the night shall be light about me."
     },
     {
       "verse": "12",
-      "text": "Yea, the darkness hideth not from thee; But the night shineth as the day:"
+      "text": "Yea, the darkness hideth not from thee; But the night shineth as the day: The darkness and the light are both alike to thee ."
     },
     {
       "verse": "13",
-      "text": "For thou hast possessed my reins:"
+      "text": "For thou hast possessed my reins: Thou hast covered me in my mother's womb."
     },
     {
       "verse": "14",
-      "text": "I will praise thee; for I am fearfully and wonderfully made:"
+      "text": "I will praise thee; for I am fearfully and wonderfully made: Marvellous are thy works; And that my soul knoweth right well."
     },
     {
       "verse": "15",
-      "text": "My substance was not hid from thee,"
+      "text": "My substance was not hid from thee, When I was made in secret, and curiously wrought in the lowest parts of the earth."
     },
     {
       "verse": "16",
-      "text": "Thine eyes did see my substance, yet being unperfect;"
+      "text": "Thine eyes did see my substance, yet being unperfect; And in thy book all my members were written, Which in continuance were fashioned, When as yet there was none of them."
     },
     {
       "verse": "17",
-      "text": "How precious also are thy thoughts unto me, O God!"
+      "text": "How precious also are thy thoughts unto me, O God! How great is the sum of them!"
     },
     {
       "verse": "18",
-      "text": " If I should count them, they are more in number than the sand:"
+      "text": "If I should count them, they are more in number than the sand: When I awake, I am still with thee."
     },
     {
       "verse": "19",
-      "text": "Surely thou wilt slay the wicked, O God:"
+      "text": "Surely thou wilt slay the wicked, O God: Depart from me therefore, ye bloody men."
     },
     {
       "verse": "20",
-      "text": "For they speak against thee wickedly,"
+      "text": "For they speak against thee wickedly, And thine enemies take thy name in vain."
     },
     {
       "verse": "21",
-      "text": "Do not I hate them, O LORD , that hate thee?"
+      "text": "Do not I hate them, O LORD , that hate thee? And am not I grieved with those that rise up against thee?"
     },
     {
       "verse": "22",
-      "text": "I hate them with perfect hatred:"
+      "text": "I hate them with perfect hatred: I count them mine enemies."
     },
     {
       "verse": "23",
-      "text": "Search me, O God, and know my heart:"
+      "text": "Search me, O God, and know my heart: Try me, and know my thoughts:"
     },
     {
       "verse": "24",
-      "text": "And see if there be any wicked way in me,"
+      "text": "And see if there be any wicked way in me, And lead me in the way everlasting."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "The fierce anger of Yahweh will not return until he has accomplished, and until he has performed the intentions of his heart. In the latter days you will understand it.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

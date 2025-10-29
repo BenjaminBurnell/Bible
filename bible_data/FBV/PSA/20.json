@@ -1,0 +1,49 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "May the Lord answer you when you are in trouble; may the name of the God of Jacob protect you."
+    },
+    {
+      "verse": "2",
+      "text": "May the Lord send you help from the sanctuary, and may he support you from Zion."
+    },
+    {
+      "verse": "3",
+      "text": "May the Lord remember all your offerings, and accept all your burnt sacrifices. Selah."
+    },
+    {
+      "verse": "4",
+      "text": "May the Lord give you whatever you really want; may he make all your plans successful."
+    },
+    {
+      "verse": "5",
+      "text": "May we shout for joy over your victory, and set up banners in the name of our God. May the Lord answer all your requests."
+    },
+    {
+      "verse": "6",
+      "text": "Now I know that the Lord saves the one he has anointed. He will answer him from his holy heaven, and save his anointed by his powerful right hand."
+    },
+    {
+      "verse": "7",
+      "text": "Some trust in chariots and some in war horses, but we trust in who the Lord our God is."
+    },
+    {
+      "verse": "8",
+      "text": "They collapse and fall down, but we rise and stand up."
+    },
+    {
+      "verse": "9",
+      "text": "May the Lord save the king! Please answer us when we call for help!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

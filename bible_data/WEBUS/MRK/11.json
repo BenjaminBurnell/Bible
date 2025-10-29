@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "They answered Jesus, “We don’t know.” Jesus said to them, “Neither will I tell you by what authority I do these things.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

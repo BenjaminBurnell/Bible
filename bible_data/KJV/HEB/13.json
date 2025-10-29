@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "So that we may boldly say,"
+      "text": "So that we may boldly say, The Lord is my helper, and I will not fear What man shall do unto me."
     },
     {
       "verse": "7",
@@ -101,7 +101,13 @@
     },
     {
       "verse": "25",
-      "text": "Grace be with you all. Amen."
+      "text": "Grace be with you all. Amen. Written to the Hebrews from Italy by Timothy."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

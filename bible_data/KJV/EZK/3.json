@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD ; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

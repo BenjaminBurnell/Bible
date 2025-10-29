@@ -33,7 +33,7 @@
     },
     {
       "verse": "8",
-      "text": "Wherefore he saith,"
+      "text": "Wherefore he saith, When he ascended up on high, he led captivity captive, And gave gifts unto men."
     },
     {
       "verse": "9",
@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "and be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -13,27 +13,33 @@
     },
     {
       "verse": "3",
-      "text": "Then they had swallowed us up quick,"
+      "text": "Then they had swallowed us up quick, When their wrath was kindled against us:"
     },
     {
       "verse": "4",
-      "text": "Then the waters had overwhelmed us,"
+      "text": "Then the waters had overwhelmed us, The stream had gone over our soul:"
     },
     {
       "verse": "5",
-      "text": "Then the proud waters,"
+      "text": "Then the proud waters, Had gone over our soul."
     },
     {
       "verse": "6",
-      "text": "Blessed be the LORD ,"
+      "text": "Blessed be the LORD , Who hath not given us as a prey to their teeth."
     },
     {
       "verse": "7",
-      "text": "Our soul is escaped as a bird out of the snare of the fowlers:"
+      "text": "Our soul is escaped as a bird out of the snare of the fowlers: The snare is broken, and we are escaped."
     },
     {
       "verse": "8",
-      "text": "Our help is in the name of the LORD ,"
+      "text": "Our help is in the name of the LORD , Who made heaven and earth."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "But solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "version": "FBV",
+  "book": "JOB",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Then Bildad the Shuhite spoke up and said,"
+    },
+    {
+      "verse": "2",
+      "text": "“Dominion and awe belong to God. He brings peace to his heavens."
+    },
+    {
+      "verse": "3",
+      "text": "Who can count his armies? Is there anywhere his light doesn't shine?"
+    },
+    {
+      "verse": "4",
+      "text": "How can a human being be right before God? Can anyone born of woman be pure?"
+    },
+    {
+      "verse": "5",
+      "text": "If in God's eyes even the moon does not shine brightly, and the stars are not pure,"
+    },
+    {
+      "verse": "6",
+      "text": "how much less a human being—who by comparison is like a maggot or a worm!”"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

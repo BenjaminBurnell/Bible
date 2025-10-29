@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "therefore also I have lent him to the LORD ; as long as he liveth he shall be lent to the LORD . And he worshipped the LORD there."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -73,7 +73,13 @@
     },
     {
       "verse": "18",
-      "text": "The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen."
+      "text": "The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen. Written from Rome to the Colossians by Tychicus and Onesimus."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

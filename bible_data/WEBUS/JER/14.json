@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "Are there any among the vanities of the nations that can cause rain? Or can the sky give showers? Aren’t you he, Yahweh our God? Therefore we will wait for you; for you have made all these things."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

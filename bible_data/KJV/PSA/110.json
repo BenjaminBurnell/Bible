@@ -5,31 +5,37 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The LORD said unto my Lord,"
+      "text": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
     },
     {
       "verse": "2",
-      "text": "The LORD shall send the rod of thy strength out of Zion:"
+      "text": "The LORD shall send the rod of thy strength out of Zion: Rule thou in the midst of thine enemies."
     },
     {
       "verse": "3",
-      "text": "Thy people shall be willing in the day of thy power,"
+      "text": "Thy people shall be willing in the day of thy power, In the beauties of holiness from the womb of the morning: Thou hast the dew of thy youth."
     },
     {
       "verse": "4",
-      "text": "The LORD hath sworn, and will not repent,"
+      "text": "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
     },
     {
       "verse": "5",
-      "text": "The Lord at thy right hand"
+      "text": "The Lord at thy right hand Shall strike through kings in the day of his wrath."
     },
     {
       "verse": "6",
-      "text": "He shall judge among the heathen, he shall fill the places with the dead bodies;"
+      "text": "He shall judge among the heathen, he shall fill the places with the dead bodies; He shall wound the heads over many countries."
     },
     {
       "verse": "7",
-      "text": "He shall drink of the brook in the way:"
+      "text": "He shall drink of the brook in the way: Therefore shall he lift up the head."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -35,5 +35,11 @@
       "verse": "8",
       "text": "Then said Hezekiah to Isaiah, Good is the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

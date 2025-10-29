@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "The man shall be free from iniquity, and that woman shall bear her iniquity.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

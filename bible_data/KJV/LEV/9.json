@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "And there came a fire out from before the LORD , and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

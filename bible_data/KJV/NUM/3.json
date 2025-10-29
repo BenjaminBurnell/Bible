@@ -207,5 +207,11 @@
       "verse": "51",
       "text": "and Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD , as the LORD commanded Moses."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

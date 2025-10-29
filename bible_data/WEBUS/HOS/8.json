@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "For Israel has forgotten his Maker and built palaces; and Judah has multiplied fortified cities; but I will send a fire on his cities, and it will devour its fortresses.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

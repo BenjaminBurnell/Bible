@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "to judge the fatherless and the oppressed, that man who is of the earth may terrify no more."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

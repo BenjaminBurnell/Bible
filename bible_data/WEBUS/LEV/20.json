@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "“‘A man or a woman that is a medium or is a wizard shall surely be put to death. They shall be stoned with stones. Their blood shall be upon themselves.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

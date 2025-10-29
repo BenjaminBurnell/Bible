@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "All Israel heard of the judgment which the king had judged; and they feared the king, for they saw that the wisdom of God was in him to do justice."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

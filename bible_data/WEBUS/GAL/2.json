@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "I don’t reject the grace of God. For if righteousness is through the law, then Christ died for nothing!”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

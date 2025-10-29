@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal: "
+      "text": "even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal:"
     },
     {
       "verse": "5",
@@ -89,7 +89,7 @@
     },
     {
       "verse": "22",
-      "text": "and did eat and drink before the LORD on that day with great gladness."
+      "text": "and did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the LORD to be the chief governor, and Zadok to be priest."
     },
     {
       "verse": "23",
@@ -123,5 +123,11 @@
       "verse": "30",
       "text": "with all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

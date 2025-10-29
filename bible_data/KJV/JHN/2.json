@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come. "
+      "text": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come."
     },
     {
       "verse": "5",
@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": "and said unto them that sold doves, Take these things hence; make not my Father's house an house of merchandise. "
+      "text": "and said unto them that sold doves, Take these things hence; make not my Father's house an house of merchandise."
     },
     {
       "verse": "17",
@@ -77,7 +77,7 @@
     },
     {
       "verse": "19",
-      "text": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up. "
+      "text": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up."
     },
     {
       "verse": "20",
@@ -103,5 +103,11 @@
       "verse": "25",
       "text": "and needed not that any should testify of man: for he knew what was in man."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

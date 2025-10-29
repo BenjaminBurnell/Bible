@@ -89,11 +89,11 @@
     },
     {
       "verse": "22",
-      "text": "And Samuel said,"
+      "text": "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, As in obeying the voice of the LORD ? Behold, to obey is better than sacrifice, And to hearken than the fat of rams."
     },
     {
       "verse": "23",
-      "text": "For rebellion is as the sin of witchcraft,"
+      "text": "For rebellion is as the sin of witchcraft, And stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD , He hath also rejected thee from being king."
     },
     {
       "verse": "24",
@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

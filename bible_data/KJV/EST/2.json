@@ -13,7 +13,7 @@
     },
     {
       "verse": "3",
-      "text": "and let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of Hege the king's chamberlain, keeper of the women; and let their things for purification be given them: "
+      "text": "and let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of Hege the king's chamberlain, keeper of the women; and let their things for purification be given them:"
     },
     {
       "verse": "4",
@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": " Now in Shushan the palace there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;"
+      "text": "Now in Shushan the palace there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;"
     },
     {
       "verse": "6",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

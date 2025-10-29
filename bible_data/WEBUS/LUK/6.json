@@ -199,5 +199,11 @@
       "verse": "49",
       "text": "But he who hears and doesn’t do, is like a man who built a house on the earth without a foundation, against which the stream broke, and immediately it fell; and the ruin of that house was great.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

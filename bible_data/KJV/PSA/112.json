@@ -5,43 +5,49 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Praise ye the LORD . Blessed is the man that feareth the LORD ,"
+      "text": "Praise ye the LORD . Blessed is the man that feareth the LORD , That delighteth greatly in his commandments."
     },
     {
       "verse": "2",
-      "text": "His seed shall be mighty upon earth:"
+      "text": "His seed shall be mighty upon earth: The generation of the upright shall be blessed."
     },
     {
       "verse": "3",
-      "text": "Wealth and riches shall be in his house:"
+      "text": "Wealth and riches shall be in his house: And his righteousness endureth for ever."
     },
     {
       "verse": "4",
-      "text": "Unto the upright there ariseth light in the darkness:"
+      "text": "Unto the upright there ariseth light in the darkness: He is gracious, and full of compassion, and righteous."
     },
     {
       "verse": "5",
-      "text": "A good man sheweth favour, and lendeth:"
+      "text": "A good man sheweth favour, and lendeth: He will guide his affairs with discretion."
     },
     {
       "verse": "6",
-      "text": "Surely he shall not be moved for ever:"
+      "text": "Surely he shall not be moved for ever: The righteous shall be in everlasting remembrance."
     },
     {
       "verse": "7",
-      "text": "He shall not be afraid of evil tidings:"
+      "text": "He shall not be afraid of evil tidings: His heart is fixed, trusting in the LORD ."
     },
     {
       "verse": "8",
-      "text": "His heart is established, he shall not be afraid,"
+      "text": "His heart is established, he shall not be afraid, Until he see his desire upon his enemies."
     },
     {
       "verse": "9",
-      "text": "He hath dispersed, he hath given to the poor;"
+      "text": "He hath dispersed, he hath given to the poor; His righteousness endureth for ever; His horn shall be exalted with honour."
     },
     {
       "verse": "10",
-      "text": "The wicked shall see it , and be grieved;"
+      "text": "The wicked shall see it , and be grieved; He shall gnash with his teeth, and melt away: The desire of the wicked shall perish."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

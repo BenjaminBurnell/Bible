@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O God, my heart is fixed;"
+      "text": "O God, my heart is fixed; I will sing and give praise, even with my glory."
     },
     {
       "verse": "2",
-      "text": "Awake, psaltery and harp:"
+      "text": "Awake, psaltery and harp: I myself will awake early."
     },
     {
       "verse": "3",
-      "text": "I will praise thee, O LORD , among the people:"
+      "text": "I will praise thee, O LORD , among the people: And I will sing praises unto thee among the nations."
     },
     {
       "verse": "4",
-      "text": "For thy mercy is great above the heavens:"
+      "text": "For thy mercy is great above the heavens: And thy truth reacheth unto the clouds."
     },
     {
       "verse": "5",
-      "text": "Be thou exalted, O God, above the heavens:"
+      "text": "Be thou exalted, O God, above the heavens: And thy glory above all the earth;"
     },
     {
       "verse": "6",
-      "text": "That thy beloved may be delivered:"
+      "text": "That thy beloved may be delivered: Save with thy right hand, and answer me."
     },
     {
       "verse": "7",
-      "text": "God hath spoken in his holiness;"
+      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
     },
     {
       "verse": "8",
-      "text": "Gilead is mine; Manasseh is mine;"
+      "text": "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
     },
     {
       "verse": "9",
-      "text": "Moab is my washpot;"
+      "text": "Moab is my washpot; Over Edom will I cast out my shoe; Over Philistia will I triumph."
     },
     {
       "verse": "10",
-      "text": "Who will bring me into the strong city?"
+      "text": "Who will bring me into the strong city? Who will lead me into Edom?"
     },
     {
       "verse": "11",
-      "text": " Wilt not thou , O God, who hast cast us off?"
+      "text": "Wilt not thou , O God, who hast cast us off? And wilt not thou, O God, go forth with our hosts?"
     },
     {
       "verse": "12",
-      "text": "Give us help from trouble:"
+      "text": "Give us help from trouble: For vain is the help of man."
     },
     {
       "verse": "13",
-      "text": "Through God we shall do valiantly:"
+      "text": "Through God we shall do valiantly: For he it is that shall tread down our enemies."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

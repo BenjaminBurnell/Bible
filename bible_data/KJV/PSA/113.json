@@ -5,19 +5,19 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Praise ye the LORD . Praise, O ye servants of the LORD ,"
+      "text": "Praise ye the LORD . Praise, O ye servants of the LORD , Praise the name of the LORD ."
     },
     {
       "verse": "2",
-      "text": "Blessed be the name of the LORD"
+      "text": "Blessed be the name of the LORD From this time forth and for evermore."
     },
     {
       "verse": "3",
-      "text": "From the rising of the sun unto the going down of the same"
+      "text": "From the rising of the sun unto the going down of the same The LORD 's name is to be praised."
     },
     {
       "verse": "4",
-      "text": "The LORD  is high above all nations,"
+      "text": "The LORD is high above all nations, And his glory above the heavens."
     },
     {
       "verse": "5",
@@ -29,15 +29,21 @@
     },
     {
       "verse": "7",
-      "text": "He raiseth up the poor out of the dust,"
+      "text": "He raiseth up the poor out of the dust, And lifteth the needy out of the dunghill;"
     },
     {
       "verse": "8",
-      "text": "That he may set him with princes,"
+      "text": "That he may set him with princes, Even with the princes of his people."
     },
     {
       "verse": "9",
-      "text": "He maketh the barren woman to keep house,"
+      "text": "He maketh the barren woman to keep house, And to be a joyful mother of children. Praise ye the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

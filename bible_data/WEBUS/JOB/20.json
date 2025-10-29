@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "This is the portion of a wicked man from God, the heritage appointed to him by God.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

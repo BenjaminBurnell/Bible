@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "And so it fell out unto him: for the people trode upon him in the gate, and he died."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

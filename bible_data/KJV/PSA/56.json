@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Be merciful unto me, O God: for man would swallow me up;"
+      "text": "Be merciful unto me, O God: for man would swallow me up; He fighting daily oppresseth me."
     },
     {
       "verse": "2",
-      "text": "Mine enemies would daily swallow me up:"
+      "text": "Mine enemies would daily swallow me up: For they be many that fight against me, O thou most High."
     },
     {
       "verse": "3",
-      "text": "What time I am afraid,"
+      "text": "What time I am afraid, I will trust in thee."
     },
     {
       "verse": "4",
-      "text": "In God I will praise his word,"
+      "text": "In God I will praise his word, In God I have put my trust; I will not fear what flesh can do unto me."
     },
     {
       "verse": "5",
-      "text": "Every day they wrest my words:"
+      "text": "Every day they wrest my words: All their thoughts are against me for evil."
     },
     {
       "verse": "6",
-      "text": "They gather themselves together, they hide themselves,"
+      "text": "They gather themselves together, they hide themselves, They mark my steps, when they wait for my soul."
     },
     {
       "verse": "7",
-      "text": "Shall they escape by iniquity?"
+      "text": "Shall they escape by iniquity? In thine anger cast down the people, O God."
     },
     {
       "verse": "8",
-      "text": "Thou tellest my wanderings: Put thou my tears into thy bottle:"
+      "text": "Thou tellest my wanderings: Put thou my tears into thy bottle: Are they not in thy book?"
     },
     {
       "verse": "9",
-      "text": "When I cry unto thee , then shall mine enemies turn back:"
+      "text": "When I cry unto thee , then shall mine enemies turn back: This I know; for God is for me."
     },
     {
       "verse": "10",
-      "text": "In God will I praise his word:"
+      "text": "In God will I praise his word: In the LORD will I praise his word."
     },
     {
       "verse": "11",
-      "text": "In God have I put my trust:"
+      "text": "In God have I put my trust: I will not be afraid what man can do unto me."
     },
     {
       "verse": "12",
-      "text": "Thy vows are upon me, O God:"
+      "text": "Thy vows are upon me, O God: I will render praises unto thee."
     },
     {
       "verse": "13",
-      "text": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling,"
+      "text": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, That I may walk before God in the light of the living?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

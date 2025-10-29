@@ -5,51 +5,57 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The LORD reigneth; let the earth rejoice;"
+      "text": "The LORD reigneth; let the earth rejoice; Let the multitude of isles be glad thereof ."
     },
     {
       "verse": "2",
-      "text": "Clouds and darkness are round about him:"
+      "text": "Clouds and darkness are round about him: Righteousness and judgment are the habitation of his throne."
     },
     {
       "verse": "3",
-      "text": "A fire goeth before him,"
+      "text": "A fire goeth before him, And burneth up his enemies round about."
     },
     {
       "verse": "4",
-      "text": "His lightnings enlightened the world:"
+      "text": "His lightnings enlightened the world: The earth saw, and trembled."
     },
     {
       "verse": "5",
-      "text": "The hills melted like wax at the presence of the LORD ,"
+      "text": "The hills melted like wax at the presence of the LORD , At the presence of the Lord of the whole earth."
     },
     {
       "verse": "6",
-      "text": "The heavens declare his righteousness,"
+      "text": "The heavens declare his righteousness, And all the people see his glory."
     },
     {
       "verse": "7",
-      "text": "Confounded be all they that serve graven images,"
+      "text": "Confounded be all they that serve graven images, That boast themselves of idols: Worship him, all ye gods."
     },
     {
       "verse": "8",
-      "text": "Zion heard, and was glad;"
+      "text": "Zion heard, and was glad; And the daughters of Judah rejoiced because of thy judgments, O LORD ."
     },
     {
       "verse": "9",
-      "text": "For thou, LORD , art high above all the earth:"
+      "text": "For thou, LORD , art high above all the earth: Thou art exalted far above all gods."
     },
     {
       "verse": "10",
-      "text": "Ye that love the LORD , hate evil:"
+      "text": "Ye that love the LORD , hate evil: He preserveth the souls of his saints; He delivereth them out of the hand of the wicked."
     },
     {
       "verse": "11",
-      "text": "Light is sown for the righteous,"
+      "text": "Light is sown for the righteous, And gladness for the upright in heart."
     },
     {
       "verse": "12",
-      "text": "Rejoice in the LORD , ye righteous;"
+      "text": "Rejoice in the LORD , ye righteous; And give thanks at the remembrance of his holiness."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

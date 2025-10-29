@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "let briers grow instead of wheat, and stinkweed instead of barley.” The words of Job are ended."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

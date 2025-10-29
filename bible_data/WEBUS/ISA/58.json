@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "then you will delight yourself in Yahweh, and I will make you to ride on the high places of the earth, and I will feed you with the heritage of Jacob your father;” for Yahweh’s mouth has spoken it."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

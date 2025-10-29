@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "Don’t curse the king, no, not in your thoughts; and don’t curse the rich in your bedroom, for a bird of the sky may carry your voice, and that which has wings may tell the matter."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

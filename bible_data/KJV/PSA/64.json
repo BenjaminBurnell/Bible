@@ -5,43 +5,49 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Hear my voice, O God, in my prayer:"
+      "text": "Hear my voice, O God, in my prayer: Preserve my life from fear of the enemy."
     },
     {
       "verse": "2",
-      "text": "Hide me from the secret counsel of the wicked;"
+      "text": "Hide me from the secret counsel of the wicked; From the insurrection of the workers of iniquity:"
     },
     {
       "verse": "3",
-      "text": "Who whet their tongue like a sword,"
+      "text": "Who whet their tongue like a sword, And bend their bows to shoot their arrows, even bitter words:"
     },
     {
       "verse": "4",
-      "text": "That they may shoot in secret at the perfect:"
+      "text": "That they may shoot in secret at the perfect: Suddenly do they shoot at him, and fear not."
     },
     {
       "verse": "5",
-      "text": "They encourage themselves in an evil matter:"
+      "text": "They encourage themselves in an evil matter: They commune of laying snares privily; They say, Who shall see them?"
     },
     {
       "verse": "6",
-      "text": "They search out iniquities; they accomplish a diligent search:"
+      "text": "They search out iniquities; they accomplish a diligent search: Both the inward thought of every one of them , and the heart, is deep."
     },
     {
       "verse": "7",
-      "text": "But God shall shoot at them"
+      "text": "But God shall shoot at them With an arrow; suddenly shall they be wounded."
     },
     {
       "verse": "8",
-      "text": "So they shall make their own tongue to fall upon themselves:"
+      "text": "So they shall make their own tongue to fall upon themselves: All that see them shall flee away."
     },
     {
       "verse": "9",
-      "text": "And all men shall fear, and shall declare the work of God;"
+      "text": "And all men shall fear, and shall declare the work of God; For they shall wisely consider of his doing."
     },
     {
       "verse": "10",
-      "text": "The righteous shall be glad in the LORD , and shall trust in him;"
+      "text": "The righteous shall be glad in the LORD , and shall trust in him; And all the upright in heart shall glory."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

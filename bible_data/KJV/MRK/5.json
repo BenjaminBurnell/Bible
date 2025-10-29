@@ -33,7 +33,7 @@
     },
     {
       "verse": "8",
-      "text": "For he said unto him, Come out of the man, thou unclean spirit. "
+      "text": "For he said unto him, Come out of the man, thou unclean spirit."
     },
     {
       "verse": "9",
@@ -77,7 +77,7 @@
     },
     {
       "verse": "19",
-      "text": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee. "
+      "text": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee."
     },
     {
       "verse": "20",
@@ -121,7 +121,7 @@
     },
     {
       "verse": "30",
-      "text": "And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes? "
+      "text": "And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?"
     },
     {
       "verse": "31",
@@ -145,7 +145,7 @@
     },
     {
       "verse": "36",
-      "text": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe. "
+      "text": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe."
     },
     {
       "verse": "37",
@@ -157,7 +157,7 @@
     },
     {
       "verse": "39",
-      "text": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth. "
+      "text": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth."
     },
     {
       "verse": "40",
@@ -175,5 +175,11 @@
       "verse": "43",
       "text": "And he charged them straitly that no man should know it; and commanded that something should be given her to eat."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -5,127 +5,133 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The king's heart is in the hand of the LORD ,"
+      "text": "The king's heart is in the hand of the LORD , As the rivers of water: he turneth it whithersoever he will."
     },
     {
       "verse": "2",
-      "text": "Every way of a man is right in his own eyes:"
+      "text": "Every way of a man is right in his own eyes: But the LORD pondereth the hearts."
     },
     {
       "verse": "3",
-      "text": "To do justice and judgment"
+      "text": "To do justice and judgment Is more acceptable to the LORD than sacrifice."
     },
     {
       "verse": "4",
-      "text": "An high look, and a proud heart,"
+      "text": "An high look, and a proud heart, And the plowing of the wicked, is sin."
     },
     {
       "verse": "5",
-      "text": "The thoughts of the diligent tend only to plenteousness;"
+      "text": "The thoughts of the diligent tend only to plenteousness; But of every one that is hasty only to want."
     },
     {
       "verse": "6",
-      "text": "The getting of treasures by a lying tongue"
+      "text": "The getting of treasures by a lying tongue Is a vanity tossed to and fro of them that seek death."
     },
     {
       "verse": "7",
-      "text": "The robbery of the wicked shall destroy them;"
+      "text": "The robbery of the wicked shall destroy them; Because they refuse to do judgment."
     },
     {
       "verse": "8",
-      "text": "The way of man is froward and strange:"
+      "text": "The way of man is froward and strange: But as for the pure, his work is right."
     },
     {
       "verse": "9",
-      "text": " It is better to dwell in a corner of the housetop,"
+      "text": "It is better to dwell in a corner of the housetop, Than with a brawling woman in a wide house."
     },
     {
       "verse": "10",
-      "text": "The soul of the wicked desireth evil:"
+      "text": "The soul of the wicked desireth evil: His neighbour findeth no favour in his eyes."
     },
     {
       "verse": "11",
-      "text": "When the scorner is punished, the simple is made wise:"
+      "text": "When the scorner is punished, the simple is made wise: And when the wise is instructed, he receiveth knowledge."
     },
     {
       "verse": "12",
-      "text": "The righteous man wisely considereth the house of the wicked:"
+      "text": "The righteous man wisely considereth the house of the wicked: But God overthroweth the wicked for their wickedness."
     },
     {
       "verse": "13",
-      "text": "Whoso stoppeth his ears at the cry of the poor,"
+      "text": "Whoso stoppeth his ears at the cry of the poor, He also shall cry himself, but shall not be heard."
     },
     {
       "verse": "14",
-      "text": "A gift in secret pacifieth anger:"
+      "text": "A gift in secret pacifieth anger: And a reward in the bosom strong wrath."
     },
     {
       "verse": "15",
-      "text": " It is joy to the just to do judgment:"
+      "text": "It is joy to the just to do judgment: But destruction shall be to the workers of iniquity."
     },
     {
       "verse": "16",
-      "text": "The man that wandereth out of the way of understanding"
+      "text": "The man that wandereth out of the way of understanding Shall remain in the congregation of the dead."
     },
     {
       "verse": "17",
-      "text": "He that loveth pleasure shall be a poor man:"
+      "text": "He that loveth pleasure shall be a poor man: He that loveth wine and oil shall not be rich."
     },
     {
       "verse": "18",
-      "text": "The wicked shall be a ransom for the righteous,"
+      "text": "The wicked shall be a ransom for the righteous, And the transgressor for the upright."
     },
     {
       "verse": "19",
-      "text": " It is better to dwell in the wilderness,"
+      "text": "It is better to dwell in the wilderness, Than with a contentious and an angry woman."
     },
     {
       "verse": "20",
-      "text": " There is treasure to be desired and oil in the dwelling of the wise;"
+      "text": "There is treasure to be desired and oil in the dwelling of the wise; But a foolish man spendeth it up."
     },
     {
       "verse": "21",
-      "text": "He that followeth after righteousness and mercy"
+      "text": "He that followeth after righteousness and mercy Findeth life, righteousness, and honour."
     },
     {
       "verse": "22",
-      "text": "A wise man scaleth the city of the mighty,"
+      "text": "A wise man scaleth the city of the mighty, And casteth down the strength of the confidence thereof."
     },
     {
       "verse": "23",
-      "text": "Whoso keepeth his mouth and his tongue"
+      "text": "Whoso keepeth his mouth and his tongue Keepeth his soul from troubles."
     },
     {
       "verse": "24",
-      "text": "Proud and haughty scorner is his name,"
+      "text": "Proud and haughty scorner is his name, Who dealeth in proud wrath."
     },
     {
       "verse": "25",
-      "text": "The desire of the slothful killeth him;"
+      "text": "The desire of the slothful killeth him; For his hands refuse to labour."
     },
     {
       "verse": "26",
-      "text": "He coveteth greedily all the day long:"
+      "text": "He coveteth greedily all the day long: But the righteous giveth and spareth not."
     },
     {
       "verse": "27",
-      "text": "The sacrifice of the wicked is abomination:"
+      "text": "The sacrifice of the wicked is abomination: How much more, when he bringeth it with a wicked mind?"
     },
     {
       "verse": "28",
-      "text": "A false witness shall perish:"
+      "text": "A false witness shall perish: But the man that heareth speaketh constantly."
     },
     {
       "verse": "29",
-      "text": "A wicked man hardeneth his face:"
+      "text": "A wicked man hardeneth his face: But as for the upright, he directeth his way."
     },
     {
       "verse": "30",
-      "text": " There is no wisdom nor understanding"
+      "text": "There is no wisdom nor understanding Nor counsel against the LORD ."
     },
     {
       "verse": "31",
-      "text": "The horse is prepared against the day of battle:"
+      "text": "The horse is prepared against the day of battle: But safety is of the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

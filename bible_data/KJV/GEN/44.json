@@ -109,7 +109,7 @@
     },
     {
       "verse": "27",
-      "text": "And thy servant my father said unto us, Ye know that my wife bare me two sons: "
+      "text": "And thy servant my father said unto us, Ye know that my wife bare me two sons:"
     },
     {
       "verse": "28",
@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

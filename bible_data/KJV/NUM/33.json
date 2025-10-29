@@ -227,5 +227,11 @@
       "verse": "56",
       "text": "Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "In your loving kindness, cut off my enemies, and destroy all those who afflict my soul, for I am your servant."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -5,51 +5,57 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Truly my soul waiteth upon God:"
+      "text": "Truly my soul waiteth upon God: From him cometh my salvation."
     },
     {
       "verse": "2",
-      "text": "He only is my rock and my salvation;"
+      "text": "He only is my rock and my salvation; He is my defence; I shall not be greatly moved."
     },
     {
       "verse": "3",
-      "text": "How long will ye imagine mischief against a man?"
+      "text": "How long will ye imagine mischief against a man? Ye shall be slain all of you: As a bowing wall shall ye be, and as a tottering fence."
     },
     {
       "verse": "4",
-      "text": "They only consult to cast him down from his excellency:"
+      "text": "They only consult to cast him down from his excellency: They delight in lies: They bless with their mouth, but they curse inwardly. Selah."
     },
     {
       "verse": "5",
-      "text": "My soul, wait thou only upon God;"
+      "text": "My soul, wait thou only upon God; For my expectation is from him."
     },
     {
       "verse": "6",
-      "text": "He only is my rock and my salvation:"
+      "text": "He only is my rock and my salvation: He is my defence; I shall not be moved."
     },
     {
       "verse": "7",
-      "text": "In God is my salvation and my glory:"
+      "text": "In God is my salvation and my glory: The rock of my strength, and my refuge, is in God."
     },
     {
       "verse": "8",
-      "text": "Trust in him at all times; ye people,"
+      "text": "Trust in him at all times; ye people, Pour out your heart before him: God is a refuge for us. Selah."
     },
     {
       "verse": "9",
-      "text": "Surely men of low degree are vanity,"
+      "text": "Surely men of low degree are vanity, and men of high degree are a lie: To be laid in the balance, they are altogether lighter than vanity."
     },
     {
       "verse": "10",
-      "text": "Trust not in oppression, and become not vain in robbery:"
+      "text": "Trust not in oppression, and become not vain in robbery: If riches increase, set not your heart upon them ."
     },
     {
       "verse": "11",
-      "text": "God hath spoken once; Twice have I heard this;"
+      "text": "God hath spoken once; Twice have I heard this; That power belongeth unto God."
     },
     {
       "verse": "12",
-      "text": "Also unto thee, O Lord, belongeth mercy:"
+      "text": "Also unto thee, O Lord, belongeth mercy: For thou renderest to every man according to his work."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

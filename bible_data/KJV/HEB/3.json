@@ -29,23 +29,23 @@
     },
     {
       "verse": "7",
-      "text": "Wherefore (as the Holy Ghost saith,"
+      "text": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,"
     },
     {
       "verse": "8",
-      "text": "Harden not your hearts, as in the provocation,"
+      "text": "Harden not your hearts, as in the provocation, In the day of temptation in the wilderness:"
     },
     {
       "verse": "9",
-      "text": "When your fathers tempted me, proved me,"
+      "text": "When your fathers tempted me, proved me, And saw my works forty years."
     },
     {
       "verse": "10",
-      "text": "Wherefore I was grieved with that generation,"
+      "text": "Wherefore I was grieved with that generation, And said, They do alway err in their heart; And they have not known my ways."
     },
     {
       "verse": "11",
-      "text": "So I sware in my wrath,"
+      "text": "So I sware in my wrath, They shall not enter into my rest.)"
     },
     {
       "verse": "12",
@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "So we see that they could not enter in because of unbelief."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

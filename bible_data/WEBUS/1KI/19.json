@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "He returned from following him, and took the yoke of oxen, killed them, and boiled their meat with the oxen’s equipment, and gave to the people; and they ate. Then he arose, and went after Elijah, and served him."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

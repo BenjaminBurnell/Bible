@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "Therefore say unto them, Thus saith the Lord GOD ; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord GOD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

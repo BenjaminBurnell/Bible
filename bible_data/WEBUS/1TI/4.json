@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

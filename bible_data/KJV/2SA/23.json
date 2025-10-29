@@ -5,31 +5,31 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Now these be the last words of David."
+      "text": "Now these be the last words of David. David the son of Jesse said, And the man who was raised up on high, The anointed of the God of Jacob, And the sweet psalmist of Israel, said,"
     },
     {
       "verse": "2",
-      "text": "The Spirit of the LORD spake by me,"
+      "text": "The Spirit of the LORD spake by me, And his word was in my tongue."
     },
     {
       "verse": "3",
-      "text": "The God of Israel said,"
+      "text": "The God of Israel said, The Rock of Israel spake to me, He that ruleth over men must be just, Ruling in the fear of God."
     },
     {
       "verse": "4",
-      "text": "And he shall be as the light of the morning, when the sun riseth,"
+      "text": "And he shall be as the light of the morning, when the sun riseth, Even a morning without clouds; As the tender grass springing out of the earth By clear shining after rain."
     },
     {
       "verse": "5",
-      "text": "Although my house be not so with God;"
+      "text": "Although my house be not so with God; Yet he hath made with me an everlasting covenant, Ordered in all things , and sure: For this is all my salvation, and all my desire, Although he make it not to grow."
     },
     {
       "verse": "6",
-      "text": "But the sons of Belial shall be all of them as thorns thrust away,"
+      "text": "But the sons of Belial shall be all of them as thorns thrust away, Because they cannot be taken with hands:"
     },
     {
       "verse": "7",
-      "text": "But the man that shall touch them"
+      "text": "But the man that shall touch them Must be fenced with iron and the staff of a spear; And they shall be utterly burned with fire in the same place."
     },
     {
       "verse": "8",
@@ -159,5 +159,11 @@
       "verse": "39",
       "text": "Uriah the Hittite: thirty and seven in all."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "For how great is his goodness, and how great is his beauty! Grain will make the young men flourish, and new wine the virgins."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "“‘It shall be a perpetual statute throughout your generations in all your dwellings, that you shall eat neither fat nor blood.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

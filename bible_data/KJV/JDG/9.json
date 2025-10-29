@@ -231,5 +231,11 @@
       "verse": "57",
       "text": "and all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

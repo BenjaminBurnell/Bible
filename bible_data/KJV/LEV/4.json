@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD  concerning things which ought not to be done, and shall do against any of them:"
+      "text": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:"
     },
     {
       "verse": "3",
@@ -53,7 +53,7 @@
     },
     {
       "verse": "13",
-      "text": "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD  concerning things which should not be done, and are guilty;"
+      "text": "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD concerning things which should not be done, and are guilty;"
     },
     {
       "verse": "14",
@@ -109,7 +109,7 @@
     },
     {
       "verse": "27",
-      "text": "And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD  concerning things which ought not to be done, and be guilty;"
+      "text": "And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD concerning things which ought not to be done, and be guilty;"
     },
     {
       "verse": "28",
@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "and he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD : and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

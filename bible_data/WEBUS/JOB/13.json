@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "though I am decaying like a rotten thing, like a garment that is moth-eaten."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

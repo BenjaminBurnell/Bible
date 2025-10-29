@@ -49,11 +49,11 @@
     },
     {
       "verse": "12",
-      "text": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel,"
+      "text": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; And thou, Moon, in the valley of Ajalon."
     },
     {
       "verse": "13",
-      "text": "And the sun stood still, and the moon stayed,"
+      "text": "And the sun stood still, and the moon stayed, Until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
     },
     {
       "verse": "14",
@@ -175,5 +175,11 @@
       "verse": "43",
       "text": "And Joshua returned, and all Israel with him, unto the camp to Gilgal."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

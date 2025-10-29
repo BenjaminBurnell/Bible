@@ -73,19 +73,25 @@
     },
     {
       "verse": "18",
-      "text": "But I say, Have they not heard? Yes verily,"
+      "text": "But I say, Have they not heard? Yes verily, Their sound went into all the earth, And their words unto the ends of the world."
     },
     {
       "verse": "19",
-      "text": "But I say, Did not Israel know? First Moses saith,"
+      "text": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, And by a foolish nation I will anger you."
     },
     {
       "verse": "20",
-      "text": "But Esaias is very bold, and saith,"
+      "text": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me."
     },
     {
       "verse": "21",
       "text": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

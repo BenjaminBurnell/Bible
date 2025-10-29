@@ -37,7 +37,13 @@
     },
     {
       "verse": "9",
-      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD  are right, and the just shall walk in them: but the transgressors shall fall therein."
+      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

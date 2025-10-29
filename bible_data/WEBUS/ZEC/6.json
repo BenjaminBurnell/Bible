@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Those who are far off shall come and build in Yahweh’s temple; and you shall know that Yahweh of Armies has sent me to you. This will happen, if you will diligently obey Yahweh your God’s voice.”’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

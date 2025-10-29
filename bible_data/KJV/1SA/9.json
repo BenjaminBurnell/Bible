@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": " And as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?"
+      "text": "And as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?"
     },
     {
       "verse": "12",
@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

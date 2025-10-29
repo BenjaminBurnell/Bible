@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "“So let all your enemies perish, Yahweh, but let those who love him be as the sun when it rises in its strength.” Then the land had rest forty years."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

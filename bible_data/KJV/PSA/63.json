@@ -5,15 +5,15 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O God, thou art"
+      "text": "O God, thou art My God; early will I seek thee: My soul thirsteth for thee, my flesh longeth for thee In a dry and thirsty land, where no water is;"
     },
     {
       "verse": "2",
-      "text": "To see thy power and thy glory,"
+      "text": "To see thy power and thy glory, So as I have seen thee in the sanctuary."
     },
     {
       "verse": "3",
-      "text": "Because thy lovingkindness"
+      "text": "Because thy lovingkindness Is better than life, My lips shall praise thee."
     },
     {
       "verse": "4",
@@ -21,31 +21,37 @@
     },
     {
       "verse": "5",
-      "text": "My soul shall be satisfied as with marrow and fatness;"
+      "text": "My soul shall be satisfied as with marrow and fatness; And my mouth shall praise thee with joyful lips:"
     },
     {
       "verse": "6",
-      "text": "When I remember thee upon my bed,"
+      "text": "When I remember thee upon my bed, And meditate on thee in the night watches."
     },
     {
       "verse": "7",
-      "text": "Because thou hast been my help,"
+      "text": "Because thou hast been my help, Therefore in the shadow of thy wings will I rejoice."
     },
     {
       "verse": "8",
-      "text": "My soul followeth hard after thee:"
+      "text": "My soul followeth hard after thee: Thy right hand upholdeth me."
     },
     {
       "verse": "9",
-      "text": "But those that seek my soul, to destroy it ,"
+      "text": "But those that seek my soul, to destroy it , Shall go into the lower parts of the earth."
     },
     {
       "verse": "10",
-      "text": "They shall fall by the sword:"
+      "text": "They shall fall by the sword: They shall be a portion for foxes."
     },
     {
       "verse": "11",
-      "text": "But the king shall rejoice in God; Every one that sweareth by him shall glory:"
+      "text": "But the king shall rejoice in God; Every one that sweareth by him shall glory: But the mouth of them that speak lies shall be stopped."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

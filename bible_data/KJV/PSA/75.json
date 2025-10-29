@@ -5,35 +5,35 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Unto thee, O God, do we give thanks,"
+      "text": "Unto thee, O God, do we give thanks, Unto thee do we give thanks: For that thy name is near Thy wondrous works declare."
     },
     {
       "verse": "2",
-      "text": "When I shall receive the congregation"
+      "text": "When I shall receive the congregation I will judge uprightly."
     },
     {
       "verse": "3",
-      "text": "The earth and all the inhabitants thereof are dissolved:"
+      "text": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah."
     },
     {
       "verse": "4",
-      "text": "I said unto the fools, Deal not foolishly:"
+      "text": "I said unto the fools, Deal not foolishly: And to the wicked, Lift not up the horn:"
     },
     {
       "verse": "5",
-      "text": "Lift not up your horn on high:"
+      "text": "Lift not up your horn on high: Speak not with a stiff neck."
     },
     {
       "verse": "6",
-      "text": "For promotion cometh neither from the east, nor from the west,"
+      "text": "For promotion cometh neither from the east, nor from the west, Nor from the south."
     },
     {
       "verse": "7",
-      "text": "But God is the judge:"
+      "text": "But God is the judge: He putteth down one, and setteth up another."
     },
     {
       "verse": "8",
-      "text": "For in the hand of the LORD  there is a cup, and the wine is red;"
+      "text": "For in the hand of the LORD there is a cup, and the wine is red; It is full of mixture; and he poureth out of the same: But the dregs thereof, All the wicked of the earth shall wring them out, and drink them ."
     },
     {
       "verse": "9",
@@ -41,7 +41,13 @@
     },
     {
       "verse": "10",
-      "text": "All the horns of the wicked also will I cut off;"
+      "text": "All the horns of the wicked also will I cut off; But the horns of the righteous shall be exalted."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "Thus saith the LORD the maker thereof, the LORD that formed it, to establish it; the LORD  is his name;"
+      "text": "Thus saith the LORD the maker thereof, the LORD that formed it, to establish it; the LORD is his name;"
     },
     {
       "verse": "3",
@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "the voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the LORD of hosts: for the LORD  is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the LORD . For I will cause to return the captivity of the land, as at first, saith the LORD ."
+      "text": "the voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the LORD of hosts: for the LORD is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the LORD . For I will cause to return the captivity of the land, as at first, saith the LORD ."
     },
     {
       "verse": "12",
@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD ; In that day when my people of Israel dwelleth safely, shalt thou not know it? "
+      "text": "Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD ; In that day when my people of Israel dwelleth safely, shalt thou not know it?"
     },
     {
       "verse": "15",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

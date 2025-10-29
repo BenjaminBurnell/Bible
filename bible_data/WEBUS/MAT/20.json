@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "Jesus, being moved with compassion, touched their eyes; and immediately their eyes received their sight, and they followed him."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

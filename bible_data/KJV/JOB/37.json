@@ -5,51 +5,51 @@
   "verses": [
     {
       "verse": "1",
-      "text": "At this also my heart trembleth,"
+      "text": "At this also my heart trembleth, And is moved out of his place."
     },
     {
       "verse": "2",
-      "text": "Hear attentively the noise of his voice,"
+      "text": "Hear attentively the noise of his voice, And the sound that goeth out of his mouth."
     },
     {
       "verse": "3",
-      "text": "He directeth it under the whole heaven,"
+      "text": "He directeth it under the whole heaven, And his lightning unto the ends of the earth."
     },
     {
       "verse": "4",
-      "text": "After it a voice roareth:"
+      "text": "After it a voice roareth: He thundereth with the voice of his excellency; And he will not stay them when his voice is heard."
     },
     {
       "verse": "5",
-      "text": "God thundereth marvellously with his voice;"
+      "text": "God thundereth marvellously with his voice; Great things doeth he, which we cannot comprehend."
     },
     {
       "verse": "6",
-      "text": "For he saith to the snow, Be thou on the earth;"
+      "text": "For he saith to the snow, Be thou on the earth; Likewise to the small rain, And to the great rain of his strength."
     },
     {
       "verse": "7",
-      "text": "He sealeth up the hand of every man;"
+      "text": "He sealeth up the hand of every man; That all men may know his work."
     },
     {
       "verse": "8",
-      "text": "Then the beasts go into dens,"
+      "text": "Then the beasts go into dens, And remain in their places."
     },
     {
       "verse": "9",
-      "text": "Out of the south cometh the whirlwind:"
+      "text": "Out of the south cometh the whirlwind: And cold out of the north."
     },
     {
       "verse": "10",
-      "text": "By the breath of God frost is given:"
+      "text": "By the breath of God frost is given: And the breadth of the waters is straitened."
     },
     {
       "verse": "11",
-      "text": "Also by watering he wearieth the thick cloud:"
+      "text": "Also by watering he wearieth the thick cloud: He scattereth his bright cloud:"
     },
     {
       "verse": "12",
-      "text": "And it is turned round about by his counsels:"
+      "text": "And it is turned round about by his counsels: That they may do whatsoever he commandeth them Upon the face of the world in the earth."
     },
     {
       "verse": "13",
@@ -57,47 +57,53 @@
     },
     {
       "verse": "14",
-      "text": "Hearken unto this, O Job:"
+      "text": "Hearken unto this, O Job: Stand still, and consider the wondrous works of God."
     },
     {
       "verse": "15",
-      "text": "Dost thou know when God disposed them,"
+      "text": "Dost thou know when God disposed them, And caused the light of his cloud to shine?"
     },
     {
       "verse": "16",
-      "text": "Dost thou know the balancings of the clouds,"
+      "text": "Dost thou know the balancings of the clouds, The wondrous works of him which is perfect in knowledge?"
     },
     {
       "verse": "17",
-      "text": "How thy garments are warm,"
+      "text": "How thy garments are warm, When he quieteth the earth by the south wind?"
     },
     {
       "verse": "18",
-      "text": "Hast thou with him spread out the sky,"
+      "text": "Hast thou with him spread out the sky, Which is strong, and as a molten looking glass?"
     },
     {
       "verse": "19",
-      "text": "Teach us what we shall say unto him;"
+      "text": "Teach us what we shall say unto him; For we cannot order our speech by reason of darkness."
     },
     {
       "verse": "20",
-      "text": "Shall it be told him that I speak?"
+      "text": "Shall it be told him that I speak? If a man speak, surely he shall be swallowed up."
     },
     {
       "verse": "21",
-      "text": "And now men see not the bright light"
+      "text": "And now men see not the bright light Which is in the clouds: But the wind passeth, and cleanseth them."
     },
     {
       "verse": "22",
-      "text": "Fair weather cometh out of the north:"
+      "text": "Fair weather cometh out of the north: With God is terrible majesty."
     },
     {
       "verse": "23",
-      "text": " Touching the Almighty, we cannot find him out:"
+      "text": "Touching the Almighty, we cannot find him out: He is excellent in power, and in judgment, And in plenty of justice: he will not afflict."
     },
     {
       "verse": "24",
-      "text": "Men do therefore fear him:"
+      "text": "Men do therefore fear him: He respecteth not any that are wise of heart."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

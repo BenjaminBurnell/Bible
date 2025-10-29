@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "(For he saith,"
+      "text": "(For he saith, I have heard thee in a time accepted, And in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)"
     },
     {
       "verse": "3",
@@ -69,11 +69,17 @@
     },
     {
       "verse": "17",
-      "text": "Wherefore"
+      "text": "Wherefore Come out from among them, and be ye separate, saith the Lord, And touch not the unclean thing ; And I will receive you,"
     },
     {
       "verse": "18",
-      "text": "And will be a Father unto you,"
+      "text": "And will be a Father unto you, And ye shall be my sons and daughters, saith the Lord Almighty."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

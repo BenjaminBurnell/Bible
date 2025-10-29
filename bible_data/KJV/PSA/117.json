@@ -5,11 +5,17 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O praise the LORD ,"
+      "text": "O praise the LORD , All ye nations: Praise him, all ye people."
     },
     {
       "verse": "2",
-      "text": "For his merciful kindness is great toward us:"
+      "text": "For his merciful kindness is great toward us: And the truth of the LORD endureth for ever. Praise ye the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

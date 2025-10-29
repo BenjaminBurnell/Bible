@@ -1,0 +1,37 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "How long, Lord, are you going to forget me? Forever? How long will you turn away from me?"
+    },
+    {
+      "verse": "2",
+      "text": "How long must I be in inner turmoil, feeling sad all day long? How long will my enemy be victorious over me?"
+    },
+    {
+      "verse": "3",
+      "text": "Think about this, and answer me, Lord my God. Give me back my strength, otherwise I'm going to die,"
+    },
+    {
+      "verse": "4",
+      "text": "and my enemy will say, “I defeated him!” and my opponents will celebrate my downfall."
+    },
+    {
+      "verse": "5",
+      "text": "But I trust in your never-failing love, I will be happy because you save me."
+    },
+    {
+      "verse": "6",
+      "text": "I will sing to the Lord because he has treated me with such generosity!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

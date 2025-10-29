@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "But the hand of Ahikam the son of Shaphan was with Jeremiah, so that they didn’t give him into the hand of the people to put him to death."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

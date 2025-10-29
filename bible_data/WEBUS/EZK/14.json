@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord Yahweh."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

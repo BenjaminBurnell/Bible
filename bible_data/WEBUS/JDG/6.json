@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "God did so that night; for it was dry on the fleece only, and there was dew on all the ground."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

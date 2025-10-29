@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "Samaria will bear her guilt, for she has rebelled against her God. They will fall by the sword. Their infants will be dashed in pieces, and their pregnant women will be ripped open.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

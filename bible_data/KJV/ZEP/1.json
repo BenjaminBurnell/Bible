@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "Hold thy peace at the presence of the Lord GOD : for the day of the LORD  is at hand: for the LORD hath prepared a sacrifice, he hath bid his guests."
+      "text": "Hold thy peace at the presence of the Lord GOD : for the day of the LORD is at hand: for the LORD hath prepared a sacrifice, he hath bid his guests."
     },
     {
       "verse": "8",
@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "The great day of the LORD  is near, it is near, and hasteth greatly, even the voice of the day of the LORD : the mighty man shall cry there bitterly."
+      "text": "The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD : the mighty man shall cry there bitterly."
     },
     {
       "verse": "15",
@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "Neither their silver nor their gold shall be able to deliver them in the day of the LORD 's wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

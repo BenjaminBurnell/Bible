@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught. "
+      "text": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught."
     },
     {
       "verse": "5",
@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": "and so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men. "
+      "text": "and so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
     },
     {
       "verse": "11",
@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them. "
+      "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
     },
     {
       "verse": "15",
@@ -81,7 +81,7 @@
     },
     {
       "verse": "20",
-      "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee. "
+      "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee."
     },
     {
       "verse": "21",
@@ -89,15 +89,15 @@
     },
     {
       "verse": "22",
-      "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts? "
+      "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?"
     },
     {
       "verse": "23",
-      "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk? "
+      "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
     },
     {
       "verse": "24",
-      "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house. "
+      "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house."
     },
     {
       "verse": "25",
@@ -109,7 +109,7 @@
     },
     {
       "verse": "27",
-      "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me. "
+      "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
     },
     {
       "verse": "28",
@@ -125,7 +125,7 @@
     },
     {
       "verse": "31",
-      "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick. "
+      "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick."
     },
     {
       "verse": "32",
@@ -137,7 +137,7 @@
     },
     {
       "verse": "34",
-      "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them? "
+      "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
     },
     {
       "verse": "35",
@@ -145,19 +145,25 @@
     },
     {
       "verse": "36",
-      "text": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old. "
+      "text": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
     },
     {
       "verse": "37",
-      "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish. "
+      "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
     },
     {
       "verse": "38",
-      "text": "But new wine must be put into new bottles; and both are preserved. "
+      "text": "But new wine must be put into new bottles; and both are preserved."
     },
     {
       "verse": "39",
       "text": "No man also having drunk old wine straightway desireth new: for he saith, The old is better."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

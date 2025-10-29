@@ -195,5 +195,11 @@
       "verse": "48",
       "text": "Blessed be Yahweh, the God of Israel, from everlasting even to everlasting! Let all the people say, “Amen.” Praise Yah!"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

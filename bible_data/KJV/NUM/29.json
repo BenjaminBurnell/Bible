@@ -29,11 +29,11 @@
     },
     {
       "verse": "7",
-      "text": "And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein: "
+      "text": "And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein:"
     },
     {
       "verse": "8",
-      "text": "but ye shall offer a burnt offering unto the LORD  for a sweet savour; one young bullock, one ram, and seven lambs of the first year; they shall be unto you without blemish:"
+      "text": "but ye shall offer a burnt offering unto the LORD for a sweet savour; one young bullock, one ram, and seven lambs of the first year; they shall be unto you without blemish:"
     },
     {
       "verse": "9",
@@ -141,7 +141,7 @@
     },
     {
       "verse": "35",
-      "text": "On the eighth day ye shall have a solemn assembly: ye shall do no servile work therein: "
+      "text": "On the eighth day ye shall have a solemn assembly: ye shall do no servile work therein:"
     },
     {
       "verse": "36",
@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "And Moses told the children of Israel according to all that the LORD commanded Moses."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

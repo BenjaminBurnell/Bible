@@ -203,5 +203,11 @@
       "verse": "50",
       "text": "I know that his commandment is eternal life. The things therefore which I speak, even as the Father has said to me, so I speak.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

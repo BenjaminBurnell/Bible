@@ -287,5 +287,11 @@
       "verse": "71",
       "text": "Now he spoke of Judas, the son of Simon Iscariot, for it was he who would betray him, being one of the twelve."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

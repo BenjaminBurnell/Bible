@@ -5,39 +5,45 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I was glad when they said unto me,"
+      "text": "I was glad when they said unto me, Let us go into the house of the LORD ."
     },
     {
       "verse": "2",
-      "text": "Our feet shall stand"
+      "text": "Our feet shall stand Within thy gates, O Jerusalem."
     },
     {
       "verse": "3",
-      "text": "Jerusalem is builded"
+      "text": "Jerusalem is builded As a city that is compact together:"
     },
     {
       "verse": "4",
-      "text": "Whither the tribes go up, the tribes of the LORD ,"
+      "text": "Whither the tribes go up, the tribes of the LORD , Unto the testimony of Israel, to give thanks unto the name of the LORD ."
     },
     {
       "verse": "5",
-      "text": "For there are set thrones of judgment,"
+      "text": "For there are set thrones of judgment, The thrones of the house of David."
     },
     {
       "verse": "6",
-      "text": "Pray for the peace of Jerusalem:"
+      "text": "Pray for the peace of Jerusalem: They shall prosper that love thee."
     },
     {
       "verse": "7",
-      "text": "Peace be within thy walls,"
+      "text": "Peace be within thy walls, And prosperity within thy palaces."
     },
     {
       "verse": "8",
-      "text": "For my brethren and companions' sakes,"
+      "text": "For my brethren and companions' sakes, I will now say, Peace be within thee."
     },
     {
       "verse": "9",
-      "text": "Because of the house of the LORD our God"
+      "text": "Because of the house of the LORD our God I will seek thy good."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Yahweh, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold, we are before you in our guiltiness; for no one can stand before you because of this.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

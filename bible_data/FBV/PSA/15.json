@@ -1,0 +1,33 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Who may enter your sanctuary, Lord? Who may come into your presence on your holy mountain?"
+    },
+    {
+      "verse": "2",
+      "text": "Those who live without fault and do what is right, those who sincerely tell the truth."
+    },
+    {
+      "verse": "3",
+      "text": "They do not slander, do not treat their neighbors badly, do not gossip about people they know."
+    },
+    {
+      "verse": "4",
+      "text": "They reject people the Lord has rejected, but honor those who follow the Lord. They keep their promises even when it's hard to do. They don't change their minds."
+    },
+    {
+      "verse": "5",
+      "text": "They lend money without charging interest. They don't take bribes to testify against the innocent. Those who act like this will never ever fall."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

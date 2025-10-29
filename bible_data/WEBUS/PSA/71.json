@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "My tongue will also talk about your righteousness all day long, for they are disappointed, and they are confounded, who want to harm me."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

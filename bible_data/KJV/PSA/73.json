@@ -5,47 +5,47 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Truly God is good to Israel,"
+      "text": "Truly God is good to Israel, Even to such as are of a clean heart."
     },
     {
       "verse": "2",
-      "text": "But as for me, my feet were almost gone;"
+      "text": "But as for me, my feet were almost gone; My steps had well nigh slipped."
     },
     {
       "verse": "3",
-      "text": "For I was envious at the foolish,"
+      "text": "For I was envious at the foolish, When I saw the prosperity of the wicked."
     },
     {
       "verse": "4",
-      "text": "For there are no bands in their death:"
+      "text": "For there are no bands in their death: But their strength is firm."
     },
     {
       "verse": "5",
-      "text": "They are not in trouble as other men;"
+      "text": "They are not in trouble as other men; Neither are they plagued like other men."
     },
     {
       "verse": "6",
-      "text": "Therefore pride compasseth them about as a chain;"
+      "text": "Therefore pride compasseth them about as a chain; Violence covereth them as a garment."
     },
     {
       "verse": "7",
-      "text": "Their eyes stand out with fatness:"
+      "text": "Their eyes stand out with fatness: They have more than heart could wish."
     },
     {
       "verse": "8",
-      "text": "They are corrupt, and speak wickedly concerning oppression:"
+      "text": "They are corrupt, and speak wickedly concerning oppression: They speak loftily."
     },
     {
       "verse": "9",
-      "text": "They set their mouth against the heavens,"
+      "text": "They set their mouth against the heavens, And their tongue walketh through the earth."
     },
     {
       "verse": "10",
-      "text": "Therefore his people return hither:"
+      "text": "Therefore his people return hither: And waters of a full cup are wrung out to them."
     },
     {
       "verse": "11",
-      "text": "And they say, How doth God know?"
+      "text": "And they say, How doth God know? And is there knowledge in the most High?"
     },
     {
       "verse": "12",
@@ -57,63 +57,69 @@
     },
     {
       "verse": "14",
-      "text": "For all the day long have I been plagued,"
+      "text": "For all the day long have I been plagued, And chastened every morning."
     },
     {
       "verse": "15",
-      "text": "If I say, I will speak thus;"
+      "text": "If I say, I will speak thus; Behold, I should offend against the generation of thy children."
     },
     {
       "verse": "16",
-      "text": "When I thought to know this,"
+      "text": "When I thought to know this, It was too painful for me;"
     },
     {
       "verse": "17",
-      "text": "Until I went into the sanctuary of God;"
+      "text": "Until I went into the sanctuary of God; Then understood I their end."
     },
     {
       "verse": "18",
-      "text": "Surely thou didst set them in slippery places:"
+      "text": "Surely thou didst set them in slippery places: Thou castedst them down into destruction."
     },
     {
       "verse": "19",
-      "text": "How are they brought into desolation, as in a moment!"
+      "text": "How are they brought into desolation, as in a moment! They are utterly consumed with terrors."
     },
     {
       "verse": "20",
-      "text": "As a dream when one awaketh;"
+      "text": "As a dream when one awaketh; So , O Lord, when thou awakest, thou shalt despise their image."
     },
     {
       "verse": "21",
-      "text": "Thus my heart was grieved,"
+      "text": "Thus my heart was grieved, And I was pricked in my reins."
     },
     {
       "verse": "22",
-      "text": "So foolish was I, and ignorant:"
+      "text": "So foolish was I, and ignorant: I was as a beast before thee."
     },
     {
       "verse": "23",
-      "text": "Nevertheless I am continually with thee:"
+      "text": "Nevertheless I am continually with thee: Thou hast holden me by my right hand."
     },
     {
       "verse": "24",
-      "text": "Thou shalt guide me with thy counsel,"
+      "text": "Thou shalt guide me with thy counsel, And afterward receive me to glory."
     },
     {
       "verse": "25",
-      "text": "Whom have I in heaven but thee?"
+      "text": "Whom have I in heaven but thee? And there is none upon earth that I desire beside thee."
     },
     {
       "verse": "26",
-      "text": "My flesh and my heart faileth:"
+      "text": "My flesh and my heart faileth: But God is the strength of my heart, and my portion for ever."
     },
     {
       "verse": "27",
-      "text": "For, lo, they that are far from thee shall perish:"
+      "text": "For, lo, they that are far from thee shall perish: Thou hast destroyed all them that go a whoring from thee."
     },
     {
       "verse": "28",
-      "text": "But it is good for me to draw near to God: I have put my trust in the Lord GOD ,"
+      "text": "But it is good for me to draw near to God: I have put my trust in the Lord GOD , That I may declare all thy works."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

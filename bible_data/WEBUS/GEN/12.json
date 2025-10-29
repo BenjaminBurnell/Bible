@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "Pharaoh commanded men concerning him, and they escorted him away with his wife and all that he had."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

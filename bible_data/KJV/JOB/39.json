@@ -5,123 +5,129 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Knowest thou the time when the wild goats of the rock bring forth?"
+      "text": "Knowest thou the time when the wild goats of the rock bring forth? Or canst thou mark when the hinds do calve?"
     },
     {
       "verse": "2",
-      "text": "Canst thou number the months that they fulfil?"
+      "text": "Canst thou number the months that they fulfil? Or knowest thou the time when they bring forth?"
     },
     {
       "verse": "3",
-      "text": "They bow themselves, they bring forth their young ones,"
+      "text": "They bow themselves, they bring forth their young ones, They cast out their sorrows."
     },
     {
       "verse": "4",
-      "text": "Their young ones are in good liking, they grow up with corn;"
+      "text": "Their young ones are in good liking, they grow up with corn; They go forth, and return not unto them."
     },
     {
       "verse": "5",
-      "text": "Who hath sent out the wild ass free?"
+      "text": "Who hath sent out the wild ass free? Or who hath loosed the bands of the wild ass?"
     },
     {
       "verse": "6",
-      "text": "Whose house I have made the wilderness,"
+      "text": "Whose house I have made the wilderness, And the barren land his dwellings."
     },
     {
       "verse": "7",
-      "text": "He scorneth the multitude of the city,"
+      "text": "He scorneth the multitude of the city, Neither regardeth he the crying of the driver."
     },
     {
       "verse": "8",
-      "text": "The range of the mountains is his pasture,"
+      "text": "The range of the mountains is his pasture, And he searcheth after every green thing."
     },
     {
       "verse": "9",
-      "text": "Will the unicorn be willing to serve thee,"
+      "text": "Will the unicorn be willing to serve thee, Or abide by thy crib?"
     },
     {
       "verse": "10",
-      "text": "Canst thou bind the unicorn with his band in the furrow?"
+      "text": "Canst thou bind the unicorn with his band in the furrow? Or will he harrow the valleys after thee?"
     },
     {
       "verse": "11",
-      "text": "Wilt thou trust him, because his strength is great?"
+      "text": "Wilt thou trust him, because his strength is great? Or wilt thou leave thy labour to him?"
     },
     {
       "verse": "12",
-      "text": "Wilt thou believe him, that he will bring home thy seed,"
+      "text": "Wilt thou believe him, that he will bring home thy seed, And gather it into thy barn?"
     },
     {
       "verse": "13",
-      "text": " Gavest thou the goodly wings unto the peacocks?"
+      "text": "Gavest thou the goodly wings unto the peacocks? Or wings and feathers unto the ostrich?"
     },
     {
       "verse": "14",
-      "text": "Which leaveth her eggs in the earth,"
+      "text": "Which leaveth her eggs in the earth, And warmeth them in dust,"
     },
     {
       "verse": "15",
-      "text": "And forgetteth that the foot may crush them,"
+      "text": "And forgetteth that the foot may crush them, Or that the wild beast may break them."
     },
     {
       "verse": "16",
-      "text": "She is hardened against her young ones, as though they were not her's:"
+      "text": "She is hardened against her young ones, as though they were not her's: Her labour is in vain without fear;"
     },
     {
       "verse": "17",
-      "text": "Because God hath deprived her of wisdom,"
+      "text": "Because God hath deprived her of wisdom, Neither hath he imparted to her understanding."
     },
     {
       "verse": "18",
-      "text": "What time she lifteth up herself on high,"
+      "text": "What time she lifteth up herself on high, She scorneth the horse and his rider."
     },
     {
       "verse": "19",
-      "text": "Hast thou given the horse strength?"
+      "text": "Hast thou given the horse strength? Hast thou clothed his neck with thunder?"
     },
     {
       "verse": "20",
-      "text": "Canst thou make him afraid as a grasshopper?"
+      "text": "Canst thou make him afraid as a grasshopper? The glory of his nostrils is terrible."
     },
     {
       "verse": "21",
-      "text": "He paweth in the valley, and rejoiceth in his strength:"
+      "text": "He paweth in the valley, and rejoiceth in his strength: He goeth on to meet the armed men."
     },
     {
       "verse": "22",
-      "text": "He mocketh at fear, and is not affrighted;"
+      "text": "He mocketh at fear, and is not affrighted; Neither turneth he back from the sword."
     },
     {
       "verse": "23",
-      "text": "The quiver rattleth against him,"
+      "text": "The quiver rattleth against him, The glittering spear and the shield."
     },
     {
       "verse": "24",
-      "text": "He swalloweth the ground with fierceness and rage:"
+      "text": "He swalloweth the ground with fierceness and rage: Neither believeth he that it is the sound of the trumpet."
     },
     {
       "verse": "25",
-      "text": "He saith among the trumpets, Ha, ha;"
+      "text": "He saith among the trumpets, Ha, ha; And he smelleth the battle afar off, The thunder of the captains, and the shouting."
     },
     {
       "verse": "26",
-      "text": "Doth the hawk fly by thy wisdom,"
+      "text": "Doth the hawk fly by thy wisdom, And stretch her wings toward the south?"
     },
     {
       "verse": "27",
-      "text": "Doth the eagle mount up at thy command,"
+      "text": "Doth the eagle mount up at thy command, And make her nest on high?"
     },
     {
       "verse": "28",
-      "text": "She dwelleth and abideth on the rock,"
+      "text": "She dwelleth and abideth on the rock, Upon the crag of the rock, and the strong place."
     },
     {
       "verse": "29",
-      "text": "From thence she seeketh the prey,"
+      "text": "From thence she seeketh the prey, And her eyes behold afar off."
     },
     {
       "verse": "30",
-      "text": "Her young ones also suck up blood:"
+      "text": "Her young ones also suck up blood: And where the slain are , there is she."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

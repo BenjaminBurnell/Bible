@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "Then you shall return and discern between the righteous and the wicked, between him who serves God and him who doesn’t serve him."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

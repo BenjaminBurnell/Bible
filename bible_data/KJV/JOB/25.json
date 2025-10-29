@@ -9,23 +9,29 @@
     },
     {
       "verse": "2",
-      "text": "Dominion and fear are with him,"
+      "text": "Dominion and fear are with him, He maketh peace in his high places."
     },
     {
       "verse": "3",
-      "text": "Is there any number of his armies?"
+      "text": "Is there any number of his armies? And upon whom doth not his light arise?"
     },
     {
       "verse": "4",
-      "text": "How then can man be justified with God?"
+      "text": "How then can man be justified with God? Or how can he be clean that is born of a woman?"
     },
     {
       "verse": "5",
-      "text": "Behold even to the moon, and it shineth not;"
+      "text": "Behold even to the moon, and it shineth not; Yea, the stars are not pure in his sight."
     },
     {
       "verse": "6",
-      "text": "How much less man, that is a worm?"
+      "text": "How much less man, that is a worm? And the son of man, which is a worm?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "Then they all shouted again, saying, “Not this man, but Barabbas!” Now Barabbas was a robber."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "The LORD is my shepherd ; I shall lack nothing ."
+    },
+    {
+      "verse": "2",
+      "text": "He makes me lie down in green pastures . He leads me beside still waters ."
+    },
+    {
+      "verse": "3",
+      "text": "He restores my soul . He guides me in the paths of righteousness for his name ’s sake ."
+    },
+    {
+      "verse": "4",
+      "text": "Even though I walk through the valley of the shadow of death , I will fear no evil , for you are with me . Your rod and your staff , they comfort me ."
+    },
+    {
+      "verse": "5",
+      "text": "You prepare a table before me in the presence of my enemies . You anoint my head with oil . My cup runs over ."
+    },
+    {
+      "verse": "6",
+      "text": "Surely goodness and loving kindness shall follow me all the days of my life , and I will dwell in the LORD ’s house forever ."
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

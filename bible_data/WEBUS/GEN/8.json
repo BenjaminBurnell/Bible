@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "Therefore I will be unto them as a lion: as a leopard by the way will I observe them: "
+      "text": "Therefore I will be unto them as a lion: as a leopard by the way will I observe them:"
     },
     {
       "verse": "8",
@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

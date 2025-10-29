@@ -9,11 +9,11 @@
     },
     {
       "verse": "2",
-      "text": "and saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him . "
+      "text": "and saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him ."
     },
     {
       "verse": "3",
-      "text": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither. "
+      "text": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither."
     },
     {
       "verse": "4",
@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves. "
+      "text": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves."
     },
     {
       "verse": "18",
@@ -89,11 +89,11 @@
     },
     {
       "verse": "22",
-      "text": "And Jesus answering saith unto them, Have faith in God. "
+      "text": "And Jesus answering saith unto them, Have faith in God."
     },
     {
       "verse": "23",
-      "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. "
+      "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith."
     },
     {
       "verse": "24",
@@ -101,7 +101,7 @@
     },
     {
       "verse": "25",
-      "text": " And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses. "
+      "text": "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses."
     },
     {
       "verse": "26",
@@ -117,11 +117,11 @@
     },
     {
       "verse": "29",
-      "text": "And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things. "
+      "text": "And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things."
     },
     {
       "verse": "30",
-      "text": "The baptism of John, was it from heaven, or of men? answer me. "
+      "text": "The baptism of John, was it from heaven, or of men? answer me."
     },
     {
       "verse": "31",
@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

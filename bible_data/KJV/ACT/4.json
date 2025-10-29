@@ -101,11 +101,11 @@
     },
     {
       "verse": "25",
-      "text": "Who by the mouth of thy servant David hast said,"
+      "text": "Who by the mouth of thy servant David hast said, Why did the heathen rage, And the people imagine vain things?"
     },
     {
       "verse": "26",
-      "text": "The kings of the earth stood up,"
+      "text": "The kings of the earth stood up, And the rulers were gathered together Against the Lord, and against his Christ."
     },
     {
       "verse": "27",
@@ -151,5 +151,11 @@
       "verse": "37",
       "text": "having land, sold it , and brought the money, and laid it at the apostles' feet."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

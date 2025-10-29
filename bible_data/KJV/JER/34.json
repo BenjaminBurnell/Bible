@@ -33,7 +33,7 @@
     },
     {
       "verse": "8",
-      "text": " This is the word that came unto Jeremiah from the LORD , after that the king Zedekiah had made a covenant with all the people which were at Jerusalem, to proclaim liberty unto them;"
+      "text": "This is the word that came unto Jeremiah from the LORD , after that the king Zedekiah had made a covenant with all the people which were at Jerusalem, to proclaim liberty unto them;"
     },
     {
       "verse": "9",
@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "Behold, I will command, saith the LORD , and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

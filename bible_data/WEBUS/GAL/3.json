@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "If you are Christ’s, then you are Abraham’s offspring and heirs according to promise."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

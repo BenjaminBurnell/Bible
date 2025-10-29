@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "David swore to Saul. Saul went home, but David and his men went up to the stronghold."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

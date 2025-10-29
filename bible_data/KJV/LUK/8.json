@@ -21,19 +21,19 @@
     },
     {
       "verse": "5",
-      "text": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it. "
+      "text": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it."
     },
     {
       "verse": "6",
-      "text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. "
+      "text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture."
     },
     {
       "verse": "7",
-      "text": "And some fell among thorns; and the thorns sprang up with it, and choked it. "
+      "text": "And some fell among thorns; and the thorns sprang up with it, and choked it."
     },
     {
       "verse": "8",
-      "text": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear. "
+      "text": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear."
     },
     {
       "verse": "9",
@@ -45,19 +45,19 @@
     },
     {
       "verse": "11",
-      "text": " Now the parable is this: The seed is the word of God. "
+      "text": "Now the parable is this: The seed is the word of God."
     },
     {
       "verse": "12",
-      "text": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved. "
+      "text": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved."
     },
     {
       "verse": "13",
-      "text": "They on the rock are they , which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away. "
+      "text": "They on the rock are they , which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
     },
     {
       "verse": "14",
-      "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection. "
+      "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection."
     },
     {
       "verse": "15",
@@ -65,11 +65,11 @@
     },
     {
       "verse": "16",
-      "text": " No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light. "
+      "text": "No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light."
     },
     {
       "verse": "17",
-      "text": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad. "
+      "text": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad."
     },
     {
       "verse": "18",
@@ -185,7 +185,7 @@
     },
     {
       "verse": "46",
-      "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me. "
+      "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me."
     },
     {
       "verse": "47",
@@ -201,7 +201,7 @@
     },
     {
       "verse": "50",
-      "text": "But when Jesus heard it , he answered him, saying, Fear not: believe only, and she shall be made whole. "
+      "text": "But when Jesus heard it , he answered him, saying, Fear not: believe only, and she shall be made whole."
     },
     {
       "verse": "51",
@@ -209,7 +209,7 @@
     },
     {
       "verse": "52",
-      "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth. "
+      "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth."
     },
     {
       "verse": "53",
@@ -217,7 +217,7 @@
     },
     {
       "verse": "54",
-      "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise. "
+      "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise."
     },
     {
       "verse": "55",
@@ -227,5 +227,11 @@
       "verse": "56",
       "text": "And her parents were astonished: but he charged them that they should tell no man what was done."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -5,71 +5,71 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Then sang Moses and the children of Israel this song unto the LORD , and spake, saying,"
+      "text": "Then sang Moses and the children of Israel this song unto the LORD , and spake, saying, I will sing unto the LORD , for he hath triumphed gloriously: The horse and his rider hath he thrown into the sea."
     },
     {
       "verse": "2",
-      "text": "The LORD  is my strength and song,"
+      "text": "The LORD is my strength and song, And he is become my salvation: He is my God, and I will prepare him an habitation; My father's God, and I will exalt him."
     },
     {
       "verse": "3",
-      "text": "The LORD  is a man of war:"
+      "text": "The LORD is a man of war: The LORD is his name."
     },
     {
       "verse": "4",
-      "text": "Pharaoh's chariots and his host hath he cast into the sea:"
+      "text": "Pharaoh's chariots and his host hath he cast into the sea: His chosen captains also are drowned in the Red sea."
     },
     {
       "verse": "5",
-      "text": "The depths have covered them:"
+      "text": "The depths have covered them: They sank into the bottom as a stone."
     },
     {
       "verse": "6",
-      "text": "Thy right hand, O LORD , is become glorious in power:"
+      "text": "Thy right hand, O LORD , is become glorious in power: Thy right hand, O LORD , hath dashed in pieces the enemy."
     },
     {
       "verse": "7",
-      "text": "And in the greatness of thine excellency thou hast overthrown them that rose up against thee:"
+      "text": "And in the greatness of thine excellency thou hast overthrown them that rose up against thee: Thou sentest forth thy wrath, which consumed them as stubble."
     },
     {
       "verse": "8",
-      "text": "And with the blast of thy nostrils the waters were gathered together,"
+      "text": "And with the blast of thy nostrils the waters were gathered together, The floods stood upright as an heap, And the depths were congealed in the heart of the sea."
     },
     {
       "verse": "9",
-      "text": "The enemy said,"
+      "text": "The enemy said, I will pursue, I will overtake, I will divide the spoil; My lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them."
     },
     {
       "verse": "10",
-      "text": "Thou didst blow with thy wind, the sea covered them:"
+      "text": "Thou didst blow with thy wind, the sea covered them: They sank as lead in the mighty waters."
     },
     {
       "verse": "11",
-      "text": "Who is like unto thee, O LORD , among the gods?"
+      "text": "Who is like unto thee, O LORD , among the gods? Who is like thee, glorious in holiness, Fearful in praises, doing wonders?"
     },
     {
       "verse": "12",
-      "text": "Thou stretchedst out thy right hand,"
+      "text": "Thou stretchedst out thy right hand, The earth swallowed them."
     },
     {
       "verse": "13",
-      "text": "Thou in thy mercy hast led forth the people which thou hast redeemed:"
+      "text": "Thou in thy mercy hast led forth the people which thou hast redeemed: Thou hast guided them in thy strength unto thy holy habitation."
     },
     {
       "verse": "14",
-      "text": "The people shall hear, and be afraid:"
+      "text": "The people shall hear, and be afraid: Sorrow shall take hold on the inhabitants of Palestina."
     },
     {
       "verse": "15",
-      "text": "Then the dukes of Edom shall be amazed;"
+      "text": "Then the dukes of Edom shall be amazed; The mighty men of Moab, trembling shall take hold upon them; All the inhabitants of Canaan shall melt away."
     },
     {
       "verse": "16",
-      "text": "Fear and dread shall fall upon them;"
+      "text": "Fear and dread shall fall upon them; By the greatness of thine arm they shall be as still as a stone; Till thy people pass over, O LORD , Till the people pass over, which thou hast purchased."
     },
     {
       "verse": "17",
-      "text": "Thou shalt bring them in, and plant them in the mountain of thine inheritance,"
+      "text": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, In the place, O LORD , which thou hast made for thee to dwell in, In the sanctuary, O LORD , which thy hands have established."
     },
     {
       "verse": "18",
@@ -85,7 +85,7 @@
     },
     {
       "verse": "21",
-      "text": "And Miriam answered them,"
+      "text": "And Miriam answered them, Sing ye to the LORD , for he hath triumphed gloriously: The horse and his rider hath he thrown into the sea."
     },
     {
       "verse": "22",
@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

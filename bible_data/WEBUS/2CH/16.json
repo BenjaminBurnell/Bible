@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "They buried him in his own tomb, which he had dug out for himself in David’s city, and laid him in the bed which was filled with sweet odors and various kinds of spices prepared by the perfumers’ art; and they made a very great fire for him."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "Josiah took away all the abominations out of all the countries that belonged to the children of Israel, and made all who were found in Israel to serve, even to serve Yahweh their God. All his days they didn’t depart from following Yahweh, the God of their fathers."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

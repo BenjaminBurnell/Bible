@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "Jacob gave Esau bread and lentil stew. He ate and drank, rose up, and went his way. So Esau despised his birthright."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

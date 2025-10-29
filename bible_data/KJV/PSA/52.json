@@ -5,39 +5,45 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Why boastest thou thyself in mischief, O mighty man?"
+      "text": "Why boastest thou thyself in mischief, O mighty man? The goodness of God endureth continually."
     },
     {
       "verse": "2",
-      "text": "Thy tongue deviseth mischiefs;"
+      "text": "Thy tongue deviseth mischiefs; Like a sharp razor, working deceitfully."
     },
     {
       "verse": "3",
-      "text": "Thou lovest evil more than good;"
+      "text": "Thou lovest evil more than good; And lying rather than to speak righteousness. Selah."
     },
     {
       "verse": "4",
-      "text": "Thou lovest all devouring words,"
+      "text": "Thou lovest all devouring words, O thou deceitful tongue."
     },
     {
       "verse": "5",
-      "text": "God shall likewise destroy thee for ever,"
+      "text": "God shall likewise destroy thee for ever, He shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah."
     },
     {
       "verse": "6",
-      "text": "The righteous also shall see, and fear,"
+      "text": "The righteous also shall see, and fear, And shall laugh at him:"
     },
     {
       "verse": "7",
-      "text": "Lo, this is the man that made not God his strength;"
+      "text": "Lo, this is the man that made not God his strength; But trusted in the abundance of his riches, and strengthened himself in his wickedness."
     },
     {
       "verse": "8",
-      "text": "But I am like a green olive tree in the house of God:"
+      "text": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever."
     },
     {
       "verse": "9",
-      "text": "I will praise thee for ever, because thou hast done it:"
+      "text": "I will praise thee for ever, because thou hast done it: And I will wait on thy name; for it is good before thy saints."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

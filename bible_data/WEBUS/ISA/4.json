@@ -27,5 +27,11 @@
       "verse": "6",
       "text": "There will be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

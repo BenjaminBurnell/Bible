@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "She conceived again, and bore a son. She said, “This time I will praise Yahweh.” Therefore she named him Judah. Then she stopped bearing."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

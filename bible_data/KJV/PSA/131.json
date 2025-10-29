@@ -5,15 +5,21 @@
   "verses": [
     {
       "verse": "1",
-      "text": " LORD , my heart is not haughty,"
+      "text": "LORD , my heart is not haughty, Nor mine eyes lofty: Neither do I exercise myself in Great matters, or in things too high for me."
     },
     {
       "verse": "2",
-      "text": "Surely I have behaved and quieted myself,"
+      "text": "Surely I have behaved and quieted myself, As a child that is weaned of his mother: My soul is even as a weaned child."
     },
     {
       "verse": "3",
-      "text": "Let Israel hope in the LORD"
+      "text": "Let Israel hope in the LORD From henceforth and for ever."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

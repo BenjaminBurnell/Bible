@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

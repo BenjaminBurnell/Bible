@@ -37,7 +37,7 @@
     },
     {
       "verse": "9",
-      "text": "And he came thither unto a cave, and lodged there; and, behold, the word of the LORD  came to him, and he said unto him, What doest thou here, Elijah?"
+      "text": "And he came thither unto a cave, and lodged there; and, behold, the word of the LORD came to him, and he said unto him, What doest thou here, Elijah?"
     },
     {
       "verse": "10",
@@ -45,11 +45,11 @@
     },
     {
       "verse": "11",
-      "text": "And he said, Go forth, and stand upon the mount before the LORD . And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD ; but the LORD  was not in the wind: and after the wind an earthquake; but the LORD  was not in the earthquake:"
+      "text": "And he said, Go forth, and stand upon the mount before the LORD . And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD ; but the LORD was not in the wind: and after the wind an earthquake; but the LORD was not in the earthquake:"
     },
     {
       "verse": "12",
-      "text": "and after the earthquake a fire; but the LORD  was not in the fire: and after the fire a still small voice."
+      "text": "and after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice."
     },
     {
       "verse": "13",
@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

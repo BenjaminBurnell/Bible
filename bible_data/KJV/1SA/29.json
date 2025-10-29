@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": "Is not this David, of whom they sang one to another in dances, saying,"
+      "text": "Is not this David, of whom they sang one to another in dances, saying, Saul slew his thousands, And David his ten thousands?"
     },
     {
       "verse": "6",
@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

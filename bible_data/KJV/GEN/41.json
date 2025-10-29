@@ -157,7 +157,7 @@
     },
     {
       "verse": "39",
-      "text": "And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art: "
+      "text": "And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art:"
     },
     {
       "verse": "40",
@@ -231,5 +231,11 @@
       "verse": "57",
       "text": "And all countries came into Egypt to Joseph for to buy corn ; because that the famine was so sore in all lands."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "At evening, behold, terror! Before the morning, they are no more. This is the portion of those who plunder us, and the lot of those who rob us."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

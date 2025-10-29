@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

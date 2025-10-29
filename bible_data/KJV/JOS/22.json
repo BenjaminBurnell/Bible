@@ -125,7 +125,7 @@
     },
     {
       "verse": "31",
-      "text": "And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the LORD  is among us, because ye have not committed this trespass against the LORD : now ye have delivered the children of Israel out of the hand of the LORD ."
+      "text": "And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the LORD is among us, because ye have not committed this trespass against the LORD : now ye have delivered the children of Israel out of the hand of the LORD ."
     },
     {
       "verse": "32",
@@ -137,7 +137,13 @@
     },
     {
       "verse": "34",
-      "text": "And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the LORD  is God."
+      "text": "And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the LORD is God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

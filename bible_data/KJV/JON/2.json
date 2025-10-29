@@ -9,39 +9,45 @@
     },
     {
       "verse": "2",
-      "text": "and said,"
+      "text": "and said, I cried by reason of mine affliction unto the LORD , And he heard me; Out of the belly of hell cried I, And thou heardest my voice."
     },
     {
       "verse": "3",
-      "text": "For thou hadst cast me into the deep, in the midst of the seas;"
+      "text": "For thou hadst cast me into the deep, in the midst of the seas; And the floods compassed me about: All thy billows and thy waves passed over me."
     },
     {
       "verse": "4",
-      "text": "Then I said, I am cast out of thy sight;"
+      "text": "Then I said, I am cast out of thy sight; Yet I will look again toward thy holy temple."
     },
     {
       "verse": "5",
-      "text": "The waters compassed me about, even to the soul:"
+      "text": "The waters compassed me about, even to the soul: The depth closed me round about, The weeds were wrapped about my head."
     },
     {
       "verse": "6",
-      "text": "I went down to the bottoms of the mountains;"
+      "text": "I went down to the bottoms of the mountains; The earth with her bars was about me for ever: Yet hast thou brought up my life from corruption, O LORD my God."
     },
     {
       "verse": "7",
-      "text": "When my soul fainted within me I remembered the LORD :"
+      "text": "When my soul fainted within me I remembered the LORD : And my prayer came in unto thee, into thine holy temple."
     },
     {
       "verse": "8",
-      "text": "They that observe lying vanities"
+      "text": "They that observe lying vanities Forsake their own mercy."
     },
     {
       "verse": "9",
-      "text": "But I will sacrifice unto thee with the voice of thanksgiving;"
+      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD ."
     },
     {
       "verse": "10",
       "text": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": " As for Samaria, her king is cut off as the foam upon the water."
+      "text": "As for Samaria, her king is cut off as the foam upon the water."
     },
     {
       "verse": "8",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

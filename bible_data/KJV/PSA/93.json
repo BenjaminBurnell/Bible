@@ -5,23 +5,29 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The LORD reigneth, he is clothed with majesty;"
+      "text": "The LORD reigneth, he is clothed with majesty; The LORD is clothed with strength, wherewith he hath girded himself: The world also is stablished, That it cannot be moved."
     },
     {
       "verse": "2",
-      "text": "Thy throne is established of old:"
+      "text": "Thy throne is established of old: Thou art from everlasting."
     },
     {
       "verse": "3",
-      "text": "The floods have lifted up, O LORD , the floods have lifted up their voice;"
+      "text": "The floods have lifted up, O LORD , the floods have lifted up their voice; The floods lift up their waves."
     },
     {
       "verse": "4",
-      "text": "The LORD on high is mightier than the noise of many waters,"
+      "text": "The LORD on high is mightier than the noise of many waters, Yea, than the mighty waves of the sea."
     },
     {
       "verse": "5",
-      "text": "Thy testimonies are very sure:"
+      "text": "Thy testimonies are very sure: Holiness becometh thine house, O LORD , for ever."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

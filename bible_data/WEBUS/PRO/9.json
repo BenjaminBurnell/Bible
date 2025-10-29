@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "But he doesn’t know that the departed spirits are there, that her guests are in the depths of Sheol."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

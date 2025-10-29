@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "‘They will be carried to Babylon, and there they will be, until the day that I visit them,’ says Yahweh; ‘then I will bring them up, and restore them to this place.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

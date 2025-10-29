@@ -103,5 +103,11 @@
       "verse": "25",
       "text": "Pour out your wrath on the nations that don’t know you, and on the families that don’t call on your name; for they have devoured Jacob. Yes, they have devoured him, consumed him, and have laid waste his habitation."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them;"
+      "text": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying,"
     },
     {
       "verse": "3",
@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "And the priest shall sprinkle the blood upon the altar of the LORD  at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD ."
+      "text": "And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD ."
     },
     {
       "verse": "7",
@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "But if he wash them not, nor bathe his flesh; then he shall bear his iniquity."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

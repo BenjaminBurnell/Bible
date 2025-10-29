@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "But I will punish you according to the fruit of your doings, saith the LORD : and I will kindle a fire in the forest thereof, and it shall devour all things round about it."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

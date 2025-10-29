@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "and the sockets of the court round about, and the sockets of the court gate, and all the pins of the tabernacle, and all the pins of the court round about."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -9,67 +9,67 @@
     },
     {
       "verse": "2",
-      "text": "Gather yourselves together, and hear, ye sons of Jacob;"
+      "text": "Gather yourselves together, and hear, ye sons of Jacob; And hearken unto Israel your father."
     },
     {
       "verse": "3",
-      "text": "Reuben, thou art my firstborn, my might, and the beginning of my strength,"
+      "text": "Reuben, thou art my firstborn, my might, and the beginning of my strength, The excellency of dignity, and the excellency of power:"
     },
     {
       "verse": "4",
-      "text": "Unstable as water, thou shalt not excel;"
+      "text": "Unstable as water, thou shalt not excel; Because thou wentest up to thy father's bed; Then defiledst thou it: he went up to my couch."
     },
     {
       "verse": "5",
-      "text": "Simeon and Levi are brethren;"
+      "text": "Simeon and Levi are brethren; Instruments of cruelty are in their habitations."
     },
     {
       "verse": "6",
-      "text": "O my soul, come not thou into their secret;"
+      "text": "O my soul, come not thou into their secret; Unto their assembly, mine honour, be not thou united: For in their anger they slew a man, And in their selfwill they digged down a wall."
     },
     {
       "verse": "7",
-      "text": "Cursed be their anger, for it was fierce;"
+      "text": "Cursed be their anger, for it was fierce; And their wrath, for it was cruel: I will divide them in Jacob, And scatter them in Israel."
     },
     {
       "verse": "8",
-      "text": "Judah, thou art he whom thy brethren shall praise:"
+      "text": "Judah, thou art he whom thy brethren shall praise: Thy hand shall be in the neck of thine enemies; Thy father's children shall bow down before thee."
     },
     {
       "verse": "9",
-      "text": "Judah is a lion's whelp:"
+      "text": "Judah is a lion's whelp: From the prey, my son, thou art gone up: He stooped down, he couched as a lion, And as an old lion; who shall rouse him up?"
     },
     {
       "verse": "10",
-      "text": "The sceptre shall not depart from Judah,"
+      "text": "The sceptre shall not depart from Judah, Nor a lawgiver from between his feet, Until Shiloh come; And unto him shall the gathering of the people be ."
     },
     {
       "verse": "11",
-      "text": "Binding his foal unto the vine,"
+      "text": "Binding his foal unto the vine, And his ass's colt unto the choice vine; He washed his garments in wine, And his clothes in the blood of grapes:"
     },
     {
       "verse": "12",
-      "text": "His eyes shall be red with wine,"
+      "text": "His eyes shall be red with wine, And his teeth white with milk."
     },
     {
       "verse": "13",
-      "text": "Zebulun shall dwell at the haven of the sea;"
+      "text": "Zebulun shall dwell at the haven of the sea; And he shall be for an haven of ships; And his border shall be unto Zidon."
     },
     {
       "verse": "14",
-      "text": "Issachar is a strong ass"
+      "text": "Issachar is a strong ass Couching down between two burdens:"
     },
     {
       "verse": "15",
-      "text": "And he saw that rest was good,"
+      "text": "And he saw that rest was good, And the land that it was pleasant; And bowed his shoulder to bear, And became a servant unto tribute."
     },
     {
       "verse": "16",
-      "text": "Dan shall judge his people,"
+      "text": "Dan shall judge his people, As one of the tribes of Israel."
     },
     {
       "verse": "17",
-      "text": "Dan shall be a serpent by the way,"
+      "text": "Dan shall be a serpent by the way, An adder in the path, That biteth the horse heels, So that his rider shall fall backward."
     },
     {
       "verse": "18",
@@ -77,39 +77,39 @@
     },
     {
       "verse": "19",
-      "text": "Gad, a troop shall overcome him:"
+      "text": "Gad, a troop shall overcome him: But he shall overcome at the last."
     },
     {
       "verse": "20",
-      "text": "Out of Asher his bread shall be fat,"
+      "text": "Out of Asher his bread shall be fat, And he shall yield royal dainties."
     },
     {
       "verse": "21",
-      "text": "Naphtali is a hind let loose:"
+      "text": "Naphtali is a hind let loose: He giveth goodly words."
     },
     {
       "verse": "22",
-      "text": "Joseph is a fruitful bough,"
+      "text": "Joseph is a fruitful bough, Even a fruitful bough by a well; Whose branches run over the wall:"
     },
     {
       "verse": "23",
-      "text": "The archers have sorely grieved him,"
+      "text": "The archers have sorely grieved him, And shot at him , and hated him:"
     },
     {
       "verse": "24",
-      "text": "But his bow abode in strength,"
+      "text": "But his bow abode in strength, And the arms of his hands were made strong By the hands of the mighty God of Jacob; (From thence is the shepherd, the stone of Israel:)"
     },
     {
       "verse": "25",
-      "text": " Even by the God of thy father, who shall help thee;"
+      "text": "Even by the God of thy father, who shall help thee; And by the Almighty, who shall bless thee With blessings of heaven above, Blessings of the deep that lieth under, Blessings of the breasts, and of the womb:"
     },
     {
       "verse": "26",
-      "text": "The blessings of thy father"
+      "text": "The blessings of thy father Have prevailed above the blessings of my progenitors Unto the utmost bound of the everlasting hills: They shall be on the head of Joseph, And on the crown of the head of him that was separate from his brethren."
     },
     {
       "verse": "27",
-      "text": "Benjamin shall ravin as a wolf:"
+      "text": "Benjamin shall ravin as a wolf: In the morning he shall devour the prey, And at night he shall divide the spoil."
     },
     {
       "verse": "28",
@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

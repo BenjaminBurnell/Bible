@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "even as it is written, “Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

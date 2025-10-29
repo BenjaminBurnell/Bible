@@ -5,23 +5,29 @@
   "verses": [
     {
       "verse": "1",
-      "text": " LORD , who shall abide in thy tabernacle?"
+      "text": "LORD , who shall abide in thy tabernacle? Who shall dwell in thy holy hill?"
     },
     {
       "verse": "2",
-      "text": "He that walketh uprightly,"
+      "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
     },
     {
       "verse": "3",
-      "text": " He that backbiteth not with his tongue, nor doeth evil to his neighbour,"
+      "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, Nor taketh up a reproach against his neighbour."
     },
     {
       "verse": "4",
-      "text": "In whose eyes a vile person is contemned;"
+      "text": "In whose eyes a vile person is contemned; But he honoureth them that fear the LORD . He that sweareth to his own hurt, and changeth not."
     },
     {
       "verse": "5",
-      "text": " He that putteth not out his money to usury,"
+      "text": "He that putteth not out his money to usury, Nor taketh reward against the innocent. He that doeth these things shall never be moved."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

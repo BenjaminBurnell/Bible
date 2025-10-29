@@ -85,7 +85,13 @@
     },
     {
       "verse": "21",
-      "text": "which some professing have erred concerning the faith. Grace be with thee. Amen."
+      "text": "which some professing have erred concerning the faith. Grace be with thee. Amen. The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

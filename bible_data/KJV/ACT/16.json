@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

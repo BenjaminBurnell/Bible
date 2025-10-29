@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "Glory to God in the highest,"
+      "text": "Glory to God in the highest, And on earth peace, good will toward men."
     },
     {
       "verse": "15",
@@ -117,7 +117,7 @@
     },
     {
       "verse": "29",
-      "text": "Lord, now lettest thou thy servant depart in peace,"
+      "text": "Lord, now lettest thou thy servant depart in peace, According to thy word:"
     },
     {
       "verse": "30",
@@ -129,7 +129,7 @@
     },
     {
       "verse": "32",
-      "text": "A light to lighten the Gentiles,"
+      "text": "A light to lighten the Gentiles, And the glory of thy people Israel."
     },
     {
       "verse": "33",
@@ -197,7 +197,7 @@
     },
     {
       "verse": "49",
-      "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business? "
+      "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?"
     },
     {
       "verse": "50",
@@ -211,5 +211,11 @@
       "verse": "52",
       "text": "And Jesus increased in wisdom and stature, and in favour with God and man."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

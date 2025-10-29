@@ -199,5 +199,11 @@
       "verse": "49",
       "text": "The length of the porch was twenty cubits and the width eleven cubits, even by the steps by which they went up to it. There were pillars by the posts, one on this side, and another on that side."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

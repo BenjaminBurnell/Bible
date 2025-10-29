@@ -5,23 +5,29 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Judge me, O God, and plead my cause against an ungodly nation:"
+      "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man."
     },
     {
       "verse": "2",
-      "text": "For thou art the God of my strength: why dost thou cast me off?"
+      "text": "For thou art the God of my strength: why dost thou cast me off? Why go I mourning because of the oppression of the enemy?"
     },
     {
       "verse": "3",
-      "text": "O send out thy light and thy truth: Let them lead me;"
+      "text": "O send out thy light and thy truth: Let them lead me; Let them bring me unto thy holy hill, and to thy tabernacles."
     },
     {
       "verse": "4",
-      "text": "Then will I go unto the altar of God, unto God my exceeding joy:"
+      "text": "Then will I go unto the altar of God, unto God my exceeding joy: Yea, upon the harp will I praise thee, O God my God."
     },
     {
       "verse": "5",
-      "text": "Why art thou cast down, O my soul?"
+      "text": "Why art thou cast down, O my soul? And why art thou disquieted within me? Hope in God: For I shall yet praise him, Who is the health of my countenance, and my God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

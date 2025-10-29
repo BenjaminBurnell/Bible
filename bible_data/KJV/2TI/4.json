@@ -85,11 +85,17 @@
     },
     {
       "verse": "21",
-      "text": "Do thy diligence to come before winter."
+      "text": "Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren."
     },
     {
       "verse": "22",
-      "text": "The Lord Jesus Christ be with thy spirit. Grace be with you. Amen."
+      "text": "The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

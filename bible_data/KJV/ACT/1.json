@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "and, being assembled together with them , commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which,  saith he , ye have heard of me. "
+      "text": "and, being assembled together with them , commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he , ye have heard of me."
     },
     {
       "verse": "5",
@@ -29,11 +29,11 @@
     },
     {
       "verse": "7",
-      "text": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power. "
+      "text": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power."
     },
     {
       "verse": "8",
-      "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. "
+      "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth."
     },
     {
       "verse": "9",
@@ -81,7 +81,7 @@
     },
     {
       "verse": "20",
-      "text": "For it is written in the book of Psalms,"
+      "text": "For it is written in the book of Psalms, Let his habitation be desolate, And let no man dwell therein: and His bishoprick let another take."
     },
     {
       "verse": "21",
@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

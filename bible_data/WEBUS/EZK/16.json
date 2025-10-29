@@ -255,5 +255,11 @@
       "verse": "63",
       "text": "that you may remember, and be confounded, and never open your mouth any more because of your shame, when I have forgiven you all that you have done,” says the Lord Yahweh.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

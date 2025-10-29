@@ -49,7 +49,7 @@
     },
     {
       "verse": "12",
-      "text": "Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the LORD  will be with me, then I shall be able to drive them out, as the LORD said."
+      "text": "Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the LORD will be with me, then I shall be able to drive them out, as the LORD said."
     },
     {
       "verse": "13",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "And the name of Hebron before was Kirjath-arba; which Arba was a great man among the Anakims. And the land had rest from war."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

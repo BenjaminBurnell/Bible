@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "I will put it into the hand of those who afflict you, who have said to your soul, ‘Bow down, that we may walk over you;’ and you have laid your back as the ground, like a street to those who walk over.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

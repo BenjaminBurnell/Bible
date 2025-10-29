@@ -159,5 +159,11 @@
       "verse": "39",
       "text": "No man having drunk old wine immediately desires new, for he says, ‘The old is better.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

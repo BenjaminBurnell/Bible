@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "For he will stand at the right hand of the needy, to save him from those who judge his soul."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "They raised over him a great heap of stones that remains to this day. Yahweh turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

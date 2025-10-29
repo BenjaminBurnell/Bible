@@ -85,7 +85,7 @@
     },
     {
       "verse": "21",
-      "text": "And the king of Israel said unto Elisha, when he saw them, My father, shall I smite them? shall I smite them? "
+      "text": "And the king of Israel said unto Elisha, when he saw them, My father, shall I smite them? shall I smite them?"
     },
     {
       "verse": "22",
@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the LORD ; what should I wait for the LORD any longer?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

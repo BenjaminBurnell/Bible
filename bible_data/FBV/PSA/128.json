@@ -1,0 +1,37 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 128,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Happy are all those who worship the Lord, everyone who follows his ways!"
+    },
+    {
+      "verse": "2",
+      "text": "You will eat what your own hands have produced. You will be happy and do well."
+    },
+    {
+      "verse": "3",
+      "text": "Your wife will be like a fruitful vine growing in your home. Your children will be like the shoots of an olive tree around your table."
+    },
+    {
+      "verse": "4",
+      "text": "This will certainly be the Lord's blessing on those who worship him."
+    },
+    {
+      "verse": "5",
+      "text": "May the Lord go on blessing you from Zion; may you see Jerusalem prosper all the days of your life."
+    },
+    {
+      "verse": "6",
+      "text": "May you see your children's children. May Israel be at peace!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

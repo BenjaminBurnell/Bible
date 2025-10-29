@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "You shall remember that you were a slave in the land of Egypt. Therefore I command you to do this thing."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

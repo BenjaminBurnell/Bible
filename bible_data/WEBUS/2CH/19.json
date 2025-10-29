@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "Behold, Amariah the chief priest is over you in all matters of Yahweh; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may Yahweh be with the good.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

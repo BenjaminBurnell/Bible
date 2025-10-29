@@ -1,0 +1,45 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 114,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "At the time of the exodus of Israel from Egypt, when the descendants of Jacob left that foreign country,"
+    },
+    {
+      "verse": "2",
+      "text": "the land of Judah became the Lord's sanctuary, Israel his kingdom."
+    },
+    {
+      "verse": "3",
+      "text": "The Red Sea saw them and ran away; the Jordan River retreated."
+    },
+    {
+      "verse": "4",
+      "text": "Mountains jumped in fright like rams, hills were startled like lambs."
+    },
+    {
+      "verse": "5",
+      "text": "Red Sea—why did you run away? Jordan River—why did you retreat?"
+    },
+    {
+      "verse": "6",
+      "text": "Mountains—why did you jump in fright? Hills—why were you startled like lambs?"
+    },
+    {
+      "verse": "7",
+      "text": "Earth, tremble in the presence of the Lord, tremble in the presence of the God of Jacob!"
+    },
+    {
+      "verse": "8",
+      "text": "He is the one who turned the rock into a pool of water; making water flow from the hard rock."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

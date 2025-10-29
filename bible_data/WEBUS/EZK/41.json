@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "There were closed windows and palm trees on the one side and on the other side, on the sides of the porch. This is how the side rooms of the temple and the thresholds were arranged."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

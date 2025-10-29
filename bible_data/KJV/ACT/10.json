@@ -53,7 +53,7 @@
     },
     {
       "verse": "13",
-      "text": "And there came a voice to him, Rise, Peter; kill, and eat. "
+      "text": "And there came a voice to him, Rise, Peter; kill, and eat."
     },
     {
       "verse": "14",
@@ -61,7 +61,7 @@
     },
     {
       "verse": "15",
-      "text": "And the voice spake unto him again the second time, What God hath cleansed, that call not thou common. "
+      "text": "And the voice spake unto him again the second time, What God hath cleansed, that call not thou common."
     },
     {
       "verse": "16",
@@ -195,5 +195,11 @@
       "verse": "48",
       "text": "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

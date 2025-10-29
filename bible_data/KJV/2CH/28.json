@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD  is upon you."
+      "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD is upon you."
     },
     {
       "verse": "12",
@@ -53,7 +53,7 @@
     },
     {
       "verse": "13",
-      "text": "and said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD  already , ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel."
+      "text": "and said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD already , ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel."
     },
     {
       "verse": "14",
@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

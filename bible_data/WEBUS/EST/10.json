@@ -15,5 +15,11 @@
       "verse": "3",
       "text": "For Mordecai the Jew was next to King Ahasuerus, and great among the Jews and accepted by the multitude of his brothers, seeking the good of his people and speaking peace to all his descendants."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

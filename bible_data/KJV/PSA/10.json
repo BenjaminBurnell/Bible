@@ -5,75 +5,81 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Why standest thou afar off, O LORD ?"
+      "text": "Why standest thou afar off, O LORD ? Why hidest thou thyself in times of trouble?"
     },
     {
       "verse": "2",
-      "text": "The wicked in his pride doth persecute the poor:"
+      "text": "The wicked in his pride doth persecute the poor: Let them be taken in the devices that they have imagined."
     },
     {
       "verse": "3",
-      "text": "For the wicked boasteth of his heart's desire,"
+      "text": "For the wicked boasteth of his heart's desire, And blesseth the covetous, whom the LORD abhorreth."
     },
     {
       "verse": "4",
-      "text": "The wicked, through the pride of his countenance, will not seek after God:"
+      "text": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts."
     },
     {
       "verse": "5",
-      "text": "His ways are always grievous; Thy judgments are far above out of his sight:"
+      "text": "His ways are always grievous; Thy judgments are far above out of his sight: As for all his enemies, he puffeth at them."
     },
     {
       "verse": "6",
-      "text": "He hath said in his heart, I shall not be moved:"
+      "text": "He hath said in his heart, I shall not be moved: For I shall never be in adversity."
     },
     {
       "verse": "7",
-      "text": "His mouth is full of cursing and deceit and fraud:"
+      "text": "His mouth is full of cursing and deceit and fraud: Under his tongue is mischief and vanity."
     },
     {
       "verse": "8",
-      "text": "He sitteth in the lurking places of the villages:"
+      "text": "He sitteth in the lurking places of the villages: In the secret places doth he murder the innocent: His eyes are privily set against the poor."
     },
     {
       "verse": "9",
-      "text": "He lieth in wait secretly as a lion in his den:"
+      "text": "He lieth in wait secretly as a lion in his den: He lieth in wait to catch the poor: He doth catch the poor, when he draweth him into his net."
     },
     {
       "verse": "10",
-      "text": "He croucheth, and humbleth himself,"
+      "text": "He croucheth, and humbleth himself, That the poor may fall by his strong ones."
     },
     {
       "verse": "11",
-      "text": "He hath said in his heart, God hath forgotten:"
+      "text": "He hath said in his heart, God hath forgotten: He hideth his face; he will never see it ."
     },
     {
       "verse": "12",
-      "text": "Arise, O LORD ; O God, lift up thine hand:"
+      "text": "Arise, O LORD ; O God, lift up thine hand: Forget not the humble."
     },
     {
       "verse": "13",
-      "text": "Wherefore doth the wicked contemn God?"
+      "text": "Wherefore doth the wicked contemn God? He hath said in his heart, Thou wilt not require it ."
     },
     {
       "verse": "14",
-      "text": "Thou hast seen it ; for thou beholdest mischief and spite, to requite it with thy hand:"
+      "text": "Thou hast seen it ; for thou beholdest mischief and spite, to requite it with thy hand: The poor committeth himself unto thee; Thou art the helper of the fatherless."
     },
     {
       "verse": "15",
-      "text": "Break thou the arm of the wicked"
+      "text": "Break thou the arm of the wicked And the evil man: seek out his wickedness till thou find none."
     },
     {
       "verse": "16",
-      "text": "The LORD  is King for ever and ever:"
+      "text": "The LORD is King for ever and ever: The heathen are perished out of his land."
     },
     {
       "verse": "17",
-      "text": " LORD , thou hast heard the desire of the humble:"
+      "text": "LORD , thou hast heard the desire of the humble: Thou wilt prepare their heart, thou wilt cause thine ear to hear:"
     },
     {
       "verse": "18",
-      "text": "To judge the fatherless and the oppressed,"
+      "text": "To judge the fatherless and the oppressed, That the man of the earth may no more oppress."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

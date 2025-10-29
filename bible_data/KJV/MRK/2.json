@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee. "
+      "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee."
     },
     {
       "verse": "6",
@@ -33,11 +33,11 @@
     },
     {
       "verse": "8",
-      "text": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts? "
+      "text": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?"
     },
     {
       "verse": "9",
-      "text": "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk? "
+      "text": "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?"
     },
     {
       "verse": "10",
@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house. "
+      "text": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house."
     },
     {
       "verse": "12",
@@ -77,15 +77,15 @@
     },
     {
       "verse": "19",
-      "text": "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast. "
+      "text": "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast."
     },
     {
       "verse": "20",
-      "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days. "
+      "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
     },
     {
       "verse": "21",
-      "text": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse. "
+      "text": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse."
     },
     {
       "verse": "22",
@@ -101,19 +101,25 @@
     },
     {
       "verse": "25",
-      "text": "And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him? "
+      "text": "And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?"
     },
     {
       "verse": "26",
-      "text": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him? "
+      "text": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?"
     },
     {
       "verse": "27",
-      "text": "And he said unto them, The sabbath was made for man, and not man for the sabbath: "
+      "text": "And he said unto them, The sabbath was made for man, and not man for the sabbath:"
     },
     {
       "verse": "28",
       "text": "therefore the Son of man is Lord also of the sabbath."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

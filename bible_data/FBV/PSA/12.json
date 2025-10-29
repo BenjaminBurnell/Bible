@@ -1,0 +1,45 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Help, Lord, for all the good people have gone! Those who trust in you have disappeared from among the people on earth."
+    },
+    {
+      "verse": "2",
+      "text": "Everyone lies to their neighbors. They flatter with nice talk, but they don't mean what they say."
+    },
+    {
+      "verse": "3",
+      "text": "Stop their flattery, Lord, and silence their boasts—"
+    },
+    {
+      "verse": "4",
+      "text": "these people who say, “We will succeed through what we say; our mouths belong to us. We don't take orders from anyone!”"
+    },
+    {
+      "verse": "5",
+      "text": "“Because of the violence the helpless have suffered, and because of the groans of the poor, I will rise up to defend them,” says the Lord. “I will give them the protection they have been longing for.”"
+    },
+    {
+      "verse": "6",
+      "text": "What the Lord says is trustworthy, as pure as silver refined seven times in a furnace."
+    },
+    {
+      "verse": "7",
+      "text": "You, Lord will keep the oppressed safe; you will protect us from these kinds of people forever;"
+    },
+    {
+      "verse": "8",
+      "text": "even though the wicked are all around us, and evil is being promoted everywhere."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

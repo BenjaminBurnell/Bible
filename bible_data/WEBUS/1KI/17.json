@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "The woman said to Elijah, “Now I know that you are a man of God, and that Yahweh’s word in your mouth is truth.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

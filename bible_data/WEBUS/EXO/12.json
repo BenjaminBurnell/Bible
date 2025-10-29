@@ -207,5 +207,11 @@
       "verse": "51",
       "text": "That same day, Yahweh brought the children of Israel out of the land of Egypt by their armies."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

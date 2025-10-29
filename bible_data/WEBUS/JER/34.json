@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "Behold, I will command,” says Yahweh, “and cause them to return to this city. They will fight against it, take it, and burn it with fire. I will make the cities of Judah a desolation, without inhabitant.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

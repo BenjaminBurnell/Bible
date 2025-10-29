@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD , even unto this day, in the place which he should choose."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

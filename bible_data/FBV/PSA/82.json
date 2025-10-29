@@ -1,0 +1,45 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 82,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "God stands in the midst of his great assembly to judge among the gods."
+    },
+    {
+      "verse": "2",
+      "text": "How long will you make unfair judgments and show favoritism to the wicked? Selah."
+    },
+    {
+      "verse": "3",
+      "text": "Defend the poor and orphans; support the rights of those who are oppressed and suffering."
+    },
+    {
+      "verse": "4",
+      "text": "Rescue the poor and those unable to help themselves; save them from the clutches of evil people."
+    },
+    {
+      "verse": "5",
+      "text": "They don't have any wisdom; they live in the dark; the foundations of the earth are shaken."
+    },
+    {
+      "verse": "6",
+      "text": "I say, “You are gods; all of you are children of the Most High."
+    },
+    {
+      "verse": "7",
+      "text": "But you will die like any human being, you will fall like any other leader.”"
+    },
+    {
+      "verse": "8",
+      "text": "Stand up, Lord, and judge the earth, for all the nations belong to you."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -5,71 +5,77 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Bow down thine ear, O LORD , hear me:"
+      "text": "Bow down thine ear, O LORD , hear me: For I am poor and needy."
     },
     {
       "verse": "2",
-      "text": "Preserve my soul; for I am holy:"
+      "text": "Preserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee."
     },
     {
       "verse": "3",
-      "text": "Be merciful unto me, O Lord:"
+      "text": "Be merciful unto me, O Lord: For I cry unto thee daily."
     },
     {
       "verse": "4",
-      "text": "Rejoice the soul of thy servant:"
+      "text": "Rejoice the soul of thy servant: For unto thee, O Lord, do I lift up my soul."
     },
     {
       "verse": "5",
-      "text": "For thou, Lord, art good, and ready to forgive;"
+      "text": "For thou, Lord, art good, and ready to forgive; And plenteous in mercy unto all them that call upon thee."
     },
     {
       "verse": "6",
-      "text": "Give ear, O LORD , unto my prayer;"
+      "text": "Give ear, O LORD , unto my prayer; And attend to the voice of my supplications."
     },
     {
       "verse": "7",
-      "text": "In the day of my trouble I will call upon thee:"
+      "text": "In the day of my trouble I will call upon thee: For thou wilt answer me."
     },
     {
       "verse": "8",
-      "text": "Among the gods there is none like unto thee, O Lord;"
+      "text": "Among the gods there is none like unto thee, O Lord; Neither are there any works like unto thy works."
     },
     {
       "verse": "9",
-      "text": "All nations whom thou hast made shall come and worship before thee, O Lord;"
+      "text": "All nations whom thou hast made shall come and worship before thee, O Lord; And shall glorify thy name."
     },
     {
       "verse": "10",
-      "text": "For thou art great, and doest wondrous things:"
+      "text": "For thou art great, and doest wondrous things: Thou art God alone."
     },
     {
       "verse": "11",
-      "text": "Teach me thy way, O LORD ; I will walk in thy truth:"
+      "text": "Teach me thy way, O LORD ; I will walk in thy truth: Unite my heart to fear thy name."
     },
     {
       "verse": "12",
-      "text": "I will praise thee, O Lord my God, with all my heart:"
+      "text": "I will praise thee, O Lord my God, with all my heart: And I will glorify thy name for evermore."
     },
     {
       "verse": "13",
-      "text": "For great is thy mercy toward me:"
+      "text": "For great is thy mercy toward me: And thou hast delivered my soul from the lowest hell."
     },
     {
       "verse": "14",
-      "text": "O God, the proud are risen against me,"
+      "text": "O God, the proud are risen against me, And the assemblies of violent men have sought after my soul; And have not set thee before them."
     },
     {
       "verse": "15",
-      "text": "But thou, O Lord, art a God full of compassion, and gracious,"
+      "text": "But thou, O Lord, art a God full of compassion, and gracious, Longsuffering, and plenteous in mercy and truth."
     },
     {
       "verse": "16",
-      "text": "O turn unto me, and have mercy upon me;"
+      "text": "O turn unto me, and have mercy upon me; Give thy strength unto thy servant, and save the son of thine handmaid."
     },
     {
       "verse": "17",
-      "text": "Shew me a token for good; That they which hate me may see it , and be ashamed:"
+      "text": "Shew me a token for good; That they which hate me may see it , and be ashamed: Because thou, LORD , hast holpen me, and comforted me."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

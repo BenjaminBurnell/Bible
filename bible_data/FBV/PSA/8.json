@@ -1,0 +1,49 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 8,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Lord, our Lord, your magnificent reputation fills the earth! Your majesty is greater than the heavens above,"
+    },
+    {
+      "verse": "2",
+      "text": "and is sung by the voices of children and infants. Your strength counters your opponents, silencing the enemy and the avenger."
+    },
+    {
+      "verse": "3",
+      "text": "When I contemplate the heavens that your hands made, the moon and stars that you placed there,"
+    },
+    {
+      "verse": "4",
+      "text": "What are human beings that you should concern yourself with them? What are people that you should care for them?"
+    },
+    {
+      "verse": "5",
+      "text": "You created them a little lower than God, crowning them with glory and majesty."
+    },
+    {
+      "verse": "6",
+      "text": "You put them in charge of all that you made, giving them authority over everything:"
+    },
+    {
+      "verse": "7",
+      "text": "the sheep, the cattle, and the wild animals,"
+    },
+    {
+      "verse": "8",
+      "text": "the birds in the sky, and the fish in the sea—everything that swims in the ocean."
+    },
+    {
+      "verse": "9",
+      "text": "Lord, our Lord, your magnificent reputation fills the earth!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

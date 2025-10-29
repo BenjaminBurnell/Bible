@@ -1,0 +1,49 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 98,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Sing the Lord a new song, for he has done wonderful things: by his powerful right hand and his strong arm he has won the victory."
+    },
+    {
+      "verse": "2",
+      "text": "The Lord has revealed his salvation to the nations, and shown them his goodness."
+    },
+    {
+      "verse": "3",
+      "text": "He has not forgotten to show his trustworthy love and faithfulness to the descendants of Israel. Our God has made his salvation clear to the ends of the earth."
+    },
+    {
+      "verse": "4",
+      "text": "Everyone on earth, shout in triumph to the Lord; break out in joyful songs of praise!"
+    },
+    {
+      "verse": "5",
+      "text": "Sing praises to the Lord with the harp, with the harp and melodious voices;"
+    },
+    {
+      "verse": "6",
+      "text": "with trumpets and the sound of the ram's horn sing in happiness before the Lord, the King."
+    },
+    {
+      "verse": "7",
+      "text": "Let the sea and everything in it shout with praise, together with the earth and everything living in it."
+    },
+    {
+      "verse": "8",
+      "text": "Let the rivers celebrate, let the hills join in the celebration"
+    },
+    {
+      "verse": "9",
+      "text": "before the Lord, for he is coming to judge the earth. He will judge the world justly, and the nations fairly."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

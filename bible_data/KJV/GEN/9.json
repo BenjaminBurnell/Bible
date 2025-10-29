@@ -101,15 +101,15 @@
     },
     {
       "verse": "25",
-      "text": "And he said,"
+      "text": "And he said, Cursed be Canaan; A servant of servants shall he be unto his brethren."
     },
     {
       "verse": "26",
-      "text": "And he said,"
+      "text": "And he said, Blessed be the LORD God of Shem; And Canaan shall be his servant."
     },
     {
       "verse": "27",
-      "text": "God shall enlarge Japheth,"
+      "text": "God shall enlarge Japheth, And he shall dwell in the tents of Shem; And Canaan shall be his servant."
     },
     {
       "verse": "28",
@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "And all the days of Noah were nine hundred and fifty years: and he died."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

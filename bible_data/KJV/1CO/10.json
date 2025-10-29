@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "even as I please all men in all things , not seeking mine own profit, but the profit of many, that they may be saved."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

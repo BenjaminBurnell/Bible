@@ -5,39 +5,45 @@
   "verses": [
     {
       "verse": "1",
-      "text": "By the rivers of Babylon, there we sat down, yea, we wept,"
+      "text": "By the rivers of Babylon, there we sat down, yea, we wept, When we remembered Zion."
     },
     {
       "verse": "2",
-      "text": "We hanged our harps"
+      "text": "We hanged our harps Upon the willows in the midst thereof."
     },
     {
       "verse": "3",
-      "text": "For there they that carried us away captive required of us a song; And they that wasted us required of us mirth, saying ,"
+      "text": "For there they that carried us away captive required of us a song; And they that wasted us required of us mirth, saying , Sing us one of the songs of Zion."
     },
     {
       "verse": "4",
-      "text": "How shall we sing"
+      "text": "How shall we sing The LORD 's song in a strange land?"
     },
     {
       "verse": "5",
-      "text": "If I forget thee, O Jerusalem,"
+      "text": "If I forget thee, O Jerusalem, Let my right hand forget her cunning ."
     },
     {
       "verse": "6",
-      "text": "If I do not remember thee, let my tongue cleave to the roof of my mouth;"
+      "text": "If I do not remember thee, let my tongue cleave to the roof of my mouth; If I prefer not Jerusalem above my chief joy."
     },
     {
       "verse": "7",
-      "text": "Remember, O LORD , the children of Edom in the day of Jerusalem;"
+      "text": "Remember, O LORD , the children of Edom in the day of Jerusalem; Who said, Rase it , rase it , even to the foundation thereof."
     },
     {
       "verse": "8",
-      "text": "O daughter of Babylon, who art to be destroyed;"
+      "text": "O daughter of Babylon, who art to be destroyed; Happy shall he be , that rewardeth thee as thou hast served us."
     },
     {
       "verse": "9",
-      "text": "Happy shall he be , that taketh and dasheth thy little ones"
+      "text": "Happy shall he be , that taketh and dasheth thy little ones Against the stones."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

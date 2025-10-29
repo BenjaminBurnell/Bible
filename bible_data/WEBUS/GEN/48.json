@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

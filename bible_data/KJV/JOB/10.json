@@ -5,91 +5,97 @@
   "verses": [
     {
       "verse": "1",
-      "text": "My soul is weary of my life;"
+      "text": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul."
     },
     {
       "verse": "2",
-      "text": "I will say unto God, Do not condemn me;"
+      "text": "I will say unto God, Do not condemn me; Shew me wherefore thou contendest with me."
     },
     {
       "verse": "3",
-      "text": " Is it good unto thee that thou shouldest oppress,"
+      "text": "Is it good unto thee that thou shouldest oppress, That thou shouldest despise the work of thine hands, And shine upon the counsel of the wicked?"
     },
     {
       "verse": "4",
-      "text": "Hast thou eyes of flesh?"
+      "text": "Hast thou eyes of flesh? Or seest thou as man seeth?"
     },
     {
       "verse": "5",
-      "text": " Are thy days as the days of man?"
+      "text": "Are thy days as the days of man? Are thy years as man's days,"
     },
     {
       "verse": "6",
-      "text": "That thou enquirest after mine iniquity,"
+      "text": "That thou enquirest after mine iniquity, And searchest after my sin?"
     },
     {
       "verse": "7",
-      "text": "Thou knowest that I am not wicked;"
+      "text": "Thou knowest that I am not wicked; And there is none that can deliver out of thine hand."
     },
     {
       "verse": "8",
-      "text": "Thine hands have made me and fashioned me"
+      "text": "Thine hands have made me and fashioned me Together round about; yet thou dost destroy me."
     },
     {
       "verse": "9",
-      "text": "Remember, I beseech thee, that thou hast made me as the clay;"
+      "text": "Remember, I beseech thee, that thou hast made me as the clay; And wilt thou bring me into dust again?"
     },
     {
       "verse": "10",
-      "text": "Hast thou not poured me out as milk,"
+      "text": "Hast thou not poured me out as milk, And curdled me like cheese?"
     },
     {
       "verse": "11",
-      "text": "Thou hast clothed me with skin and flesh,"
+      "text": "Thou hast clothed me with skin and flesh, And hast fenced me with bones and sinews."
     },
     {
       "verse": "12",
-      "text": "Thou hast granted me life and favour,"
+      "text": "Thou hast granted me life and favour, And thy visitation hath preserved my spirit."
     },
     {
       "verse": "13",
-      "text": "And these things hast thou hid in thine heart:"
+      "text": "And these things hast thou hid in thine heart: I know that this is with thee."
     },
     {
       "verse": "14",
-      "text": "If I sin, then thou markest me,"
+      "text": "If I sin, then thou markest me, And thou wilt not acquit me from mine iniquity."
     },
     {
       "verse": "15",
-      "text": "If I be wicked, woe unto me;"
+      "text": "If I be wicked, woe unto me; And if I be righteous, yet will I not lift up my head. I am full of confusion; Therefore see thou mine affliction;"
     },
     {
       "verse": "16",
-      "text": "For it increaseth. Thou huntest me as a fierce lion:"
+      "text": "For it increaseth. Thou huntest me as a fierce lion: And again thou shewest thyself marvellous upon me."
     },
     {
       "verse": "17",
-      "text": "Thou renewest thy witnesses against me,"
+      "text": "Thou renewest thy witnesses against me, And increasest thine indignation upon me; Changes and war are against me."
     },
     {
       "verse": "18",
-      "text": "Wherefore then hast thou brought me forth out of the womb?"
+      "text": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!"
     },
     {
       "verse": "19",
-      "text": "I should have been as though I had not been;"
+      "text": "I should have been as though I had not been; I should have been carried from the womb to the grave."
     },
     {
       "verse": "20",
-      "text": " Are not my days few? Cease then ,"
+      "text": "Are not my days few? Cease then , And let me alone, that I may take comfort a little,"
     },
     {
       "verse": "21",
-      "text": "Before I go whence I shall not return,"
+      "text": "Before I go whence I shall not return, Even to the land of darkness and the shadow of death;"
     },
     {
       "verse": "22",
-      "text": "A land of darkness, as darkness itself ;"
+      "text": "A land of darkness, as darkness itself ; And of the shadow of death, without any order, And where the light is as darkness."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

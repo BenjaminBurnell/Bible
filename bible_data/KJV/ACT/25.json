@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

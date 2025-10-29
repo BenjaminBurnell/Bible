@@ -1,0 +1,21 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 117,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Praise the LORD , all you nations ! Extol him , all you peoples!"
+    },
+    {
+      "verse": "2",
+      "text": "For his loving kindness is great towards us . The LORD ’s faithfulness endures forever . Praise the LORD !"
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

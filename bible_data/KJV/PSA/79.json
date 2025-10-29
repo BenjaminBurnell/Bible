@@ -5,55 +5,61 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O God, the heathen are come into thine inheritance;"
+      "text": "O God, the heathen are come into thine inheritance; Thy holy temple have they defiled; They have laid Jerusalem on heaps."
     },
     {
       "verse": "2",
-      "text": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven,"
+      "text": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, The flesh of thy saints unto the beasts of the earth."
     },
     {
       "verse": "3",
-      "text": "Their blood have they shed like water round about Jerusalem;"
+      "text": "Their blood have they shed like water round about Jerusalem; And there was none to bury them ."
     },
     {
       "verse": "4",
-      "text": "We are become a reproach to our neighbours,"
+      "text": "We are become a reproach to our neighbours, A scorn and derision to them that are round about us."
     },
     {
       "verse": "5",
-      "text": "How long, LORD ? Wilt thou be angry for ever?"
+      "text": "How long, LORD ? Wilt thou be angry for ever? Shall thy jealousy burn like fire?"
     },
     {
       "verse": "6",
-      "text": "Pour out thy wrath upon the heathen that have not known thee,"
+      "text": "Pour out thy wrath upon the heathen that have not known thee, And upon the kingdoms that have not called upon thy name."
     },
     {
       "verse": "7",
-      "text": "For they have devoured Jacob,"
+      "text": "For they have devoured Jacob, And laid waste his dwelling place."
     },
     {
       "verse": "8",
-      "text": "O remember not against us former iniquities: Let thy tender mercies speedily prevent us:"
+      "text": "O remember not against us former iniquities: Let thy tender mercies speedily prevent us: For we are brought very low."
     },
     {
       "verse": "9",
-      "text": "Help us, O God of our salvation, for the glory of thy name:"
+      "text": "Help us, O God of our salvation, for the glory of thy name: And deliver us, and purge away our sins, for thy name's sake."
     },
     {
       "verse": "10",
-      "text": "Wherefore should the heathen say,"
+      "text": "Wherefore should the heathen say, Where is their God? Let him be known among the heathen in our sight By the revenging of the blood of thy servants which is shed."
     },
     {
       "verse": "11",
-      "text": "Let the sighing of the prisoner come before thee;"
+      "text": "Let the sighing of the prisoner come before thee; According to the greatness of thy power preserve thou those that are appointed to die;"
     },
     {
       "verse": "12",
-      "text": "And render unto our neighbours sevenfold into their bosom"
+      "text": "And render unto our neighbours sevenfold into their bosom Their reproach, wherewith they have reproached thee, O Lord."
     },
     {
       "verse": "13",
-      "text": "So we thy people and sheep of thy pasture will give thee thanks for ever:"
+      "text": "So we thy people and sheep of thy pasture will give thee thanks for ever: We will shew forth thy praise to all generations."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

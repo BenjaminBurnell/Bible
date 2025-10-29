@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "If anyone was not found written in the book of life, he was cast into the lake of fire."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

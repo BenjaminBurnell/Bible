@@ -1,0 +1,37 @@
+{
+  "version": "FBV",
+  "book": "ISA",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "At that time you will say, “I will praise you, Lord! Though you were angry with me, your anger is over, and now you comfort me."
+    },
+    {
+      "verse": "2",
+      "text": "Look! God is my salvation! I will trust in him and I won't be afraid! For the Lord is my strength and song, and he has saved me!”"
+    },
+    {
+      "verse": "3",
+      "text": "With great happiness you will take water from the well of salvation."
+    },
+    {
+      "verse": "4",
+      "text": "At that time you will say: “Praise the Lord, shout out his name! Tell the nations what he has done—let them know of his wonderful character!"
+    },
+    {
+      "verse": "5",
+      "text": "Sing to the Lord for all the glorious things he's done—let the whole world know!"
+    },
+    {
+      "verse": "6",
+      "text": "Shout loudly and sing for joy, you people of Zion, for the Holy One of Israel is great, and is among you.”"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

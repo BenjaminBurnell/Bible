@@ -251,5 +251,11 @@
       "verse": "62",
       "text": "But Jesus said to him, “No one, having put his hand to the plow and looking back, is fit for God’s Kingdom.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -5,35 +5,41 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I will lift up mine eyes unto the hills,"
+      "text": "I will lift up mine eyes unto the hills, From whence cometh my help."
     },
     {
       "verse": "2",
-      "text": "My help cometh from the LORD ,"
+      "text": "My help cometh from the LORD , Which made heaven and earth."
     },
     {
       "verse": "3",
-      "text": "He will not suffer thy foot to be moved:"
+      "text": "He will not suffer thy foot to be moved: He that keepeth thee will not slumber."
     },
     {
       "verse": "4",
-      "text": "Behold, he that keepeth Israel"
+      "text": "Behold, he that keepeth Israel Shall neither slumber nor sleep."
     },
     {
       "verse": "5",
-      "text": "The LORD  is thy keeper:"
+      "text": "The LORD is thy keeper: The LORD is thy shade upon thy right hand."
     },
     {
       "verse": "6",
-      "text": "The sun shall not smite thee by day,"
+      "text": "The sun shall not smite thee by day, Nor the moon by night."
     },
     {
       "verse": "7",
-      "text": "The LORD shall preserve thee from all evil:"
+      "text": "The LORD shall preserve thee from all evil: He shall preserve thy soul."
     },
     {
       "verse": "8",
-      "text": "The LORD shall preserve thy going out and thy coming in"
+      "text": "The LORD shall preserve thy going out and thy coming in From this time forth, and even for evermore."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

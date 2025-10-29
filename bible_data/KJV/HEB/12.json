@@ -21,11 +21,11 @@
     },
     {
       "verse": "5",
-      "text": "And ye have forgotten the exhortation which speaketh unto you as unto children,"
+      "text": "And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, Nor faint when thou art rebuked of him:"
     },
     {
       "verse": "6",
-      "text": "For whom the Lord loveth he chasteneth,"
+      "text": "For whom the Lord loveth he chasteneth, And scourgeth every son whom he receiveth."
     },
     {
       "verse": "7",
@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "for our God is a consuming fire."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

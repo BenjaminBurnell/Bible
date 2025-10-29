@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "To you, my strength, I will sing praises. For God is my high tower, the God of my mercy."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -81,7 +81,7 @@
     },
     {
       "verse": "20",
-      "text": "And the God of peace shall bruise Satan under your feet shortly."
+      "text": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen."
     },
     {
       "verse": "21",
@@ -109,7 +109,13 @@
     },
     {
       "verse": "27",
-      "text": "to God only wise, be glory through Jesus Christ for ever. Amen."
+      "text": "to God only wise, be glory through Jesus Christ for ever. Amen. Written to the Romans from Corinthus, and sent by Phebe servant of the church at Cenchrea."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

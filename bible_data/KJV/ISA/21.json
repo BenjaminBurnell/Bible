@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The burden of the desert of the sea."
+      "text": "The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land."
     },
     {
       "verse": "2",
@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "The burden of Dumah."
+      "text": "The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?"
     },
     {
       "verse": "12",
@@ -53,7 +53,7 @@
     },
     {
       "verse": "13",
-      "text": "The burden upon Arabia."
+      "text": "The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim."
     },
     {
       "verse": "14",
@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "and the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken it ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

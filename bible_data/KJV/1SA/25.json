@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it unto men, whom I know not whence they be? "
+      "text": "Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it unto men, whom I know not whence they be?"
     },
     {
       "verse": "12",
@@ -179,5 +179,11 @@
       "verse": "44",
       "text": "But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

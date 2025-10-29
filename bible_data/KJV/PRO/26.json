@@ -5,115 +5,121 @@
   "verses": [
     {
       "verse": "1",
-      "text": "As snow in summer, and as rain in harvest,"
+      "text": "As snow in summer, and as rain in harvest, So honour is not seemly for a fool."
     },
     {
       "verse": "2",
-      "text": "As the bird by wandering, as the swallow by flying,"
+      "text": "As the bird by wandering, as the swallow by flying, So the curse causeless shall not come."
     },
     {
       "verse": "3",
-      "text": "A whip for the horse, a bridle for the ass,"
+      "text": "A whip for the horse, a bridle for the ass, And a rod for the fool's back."
     },
     {
       "verse": "4",
-      "text": "Answer not a fool according to his folly,"
+      "text": "Answer not a fool according to his folly, Lest thou also be like unto him."
     },
     {
       "verse": "5",
-      "text": "Answer a fool according to his folly,"
+      "text": "Answer a fool according to his folly, Lest he be wise in his own conceit."
     },
     {
       "verse": "6",
-      "text": "He that sendeth a message by the hand of a fool"
+      "text": "He that sendeth a message by the hand of a fool Cutteth off the feet, and drinketh damage."
     },
     {
       "verse": "7",
-      "text": "The legs of the lame are not equal:"
+      "text": "The legs of the lame are not equal: So is a parable in the mouth of fools."
     },
     {
       "verse": "8",
-      "text": "As he that bindeth a stone in a sling,"
+      "text": "As he that bindeth a stone in a sling, So is he that giveth honour to a fool."
     },
     {
       "verse": "9",
-      "text": " As a thorn goeth up into the hand of a drunkard,"
+      "text": "As a thorn goeth up into the hand of a drunkard, So is a parable in the mouth of fools."
     },
     {
       "verse": "10",
-      "text": "The great God that formed all things"
+      "text": "The great God that formed all things Both rewardeth the fool, and rewardeth transgressors."
     },
     {
       "verse": "11",
-      "text": "As a dog returneth to his vomit,"
+      "text": "As a dog returneth to his vomit, So a fool returneth to his folly."
     },
     {
       "verse": "12",
-      "text": "Seest thou a man wise in his own conceit?"
+      "text": "Seest thou a man wise in his own conceit? There is more hope of a fool than of him."
     },
     {
       "verse": "13",
-      "text": "The slothful man saith, There is a lion in the way;"
+      "text": "The slothful man saith, There is a lion in the way; A lion is in the streets."
     },
     {
       "verse": "14",
-      "text": " As the door turneth upon his hinges,"
+      "text": "As the door turneth upon his hinges, So doth the slothful upon his bed."
     },
     {
       "verse": "15",
-      "text": "The slothful hideth his hand in his bosom;"
+      "text": "The slothful hideth his hand in his bosom; It grieveth him to bring it again to his mouth."
     },
     {
       "verse": "16",
-      "text": "The sluggard is wiser in his own conceit"
+      "text": "The sluggard is wiser in his own conceit Than seven men that can render a reason."
     },
     {
       "verse": "17",
-      "text": "He that passeth by, and meddleth with strife belonging not to him,"
+      "text": "He that passeth by, and meddleth with strife belonging not to him, Is like one that taketh a dog by the ears."
     },
     {
       "verse": "18",
-      "text": "As a mad man who casteth firebrands,"
+      "text": "As a mad man who casteth firebrands, Arrows, and death,"
     },
     {
       "verse": "19",
-      "text": "So is the man that deceiveth his neighbour,"
+      "text": "So is the man that deceiveth his neighbour, And saith, Am not I in sport?"
     },
     {
       "verse": "20",
-      "text": "Where no wood is, there the fire goeth out:"
+      "text": "Where no wood is, there the fire goeth out: So where there is no talebearer, the strife ceaseth."
     },
     {
       "verse": "21",
-      "text": " As coals are to burning coals, and wood to fire;"
+      "text": "As coals are to burning coals, and wood to fire; So is a contentious man to kindle strife."
     },
     {
       "verse": "22",
-      "text": "The words of a talebearer are as wounds,"
+      "text": "The words of a talebearer are as wounds, And they go down into the innermost parts of the belly."
     },
     {
       "verse": "23",
-      "text": "Burning lips and a wicked heart"
+      "text": "Burning lips and a wicked heart Are like a potsherd covered with silver dross."
     },
     {
       "verse": "24",
-      "text": "He that hateth dissembleth with his lips,"
+      "text": "He that hateth dissembleth with his lips, And layeth up deceit within him;"
     },
     {
       "verse": "25",
-      "text": "When he speaketh fair, believe him not:"
+      "text": "When he speaketh fair, believe him not: For there are seven abominations in his heart."
     },
     {
       "verse": "26",
-      "text": " Whose hatred is covered by deceit,"
+      "text": "Whose hatred is covered by deceit, His wickedness shall be shewed before the whole congregation."
     },
     {
       "verse": "27",
-      "text": "Whoso diggeth a pit shall fall therein:"
+      "text": "Whoso diggeth a pit shall fall therein: And he that rolleth a stone, it will return upon him."
     },
     {
       "verse": "28",
-      "text": "A lying tongue hateth those that are afflicted by it;"
+      "text": "A lying tongue hateth those that are afflicted by it; And a flattering mouth worketh ruin."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

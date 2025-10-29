@@ -1,0 +1,33 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 93,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "The LORD reigns ! He is clothed with majesty ! The LORD is armed with strength . The world also is established . It can’t be moved ."
+    },
+    {
+      "verse": "2",
+      "text": "Your throne is established from long ago . You are from everlasting ."
+    },
+    {
+      "verse": "3",
+      "text": "The floods have lifted up , LORD , the floods have lifted up their voice . The floods lift up their waves ."
+    },
+    {
+      "verse": "4",
+      "text": "Above the voices of many waters , the mighty breakers of the sea , the LORD on high is mighty ."
+    },
+    {
+      "verse": "5",
+      "text": "Your statutes stand firm. Holiness adorns your house , LORD , forever more ."
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

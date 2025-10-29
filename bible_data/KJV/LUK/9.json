@@ -13,15 +13,15 @@
     },
     {
       "verse": "3",
-      "text": "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece. "
+      "text": "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece."
     },
     {
       "verse": "4",
-      "text": "And whatsoever house ye enter into, there abide, and thence depart. "
+      "text": "And whatsoever house ye enter into, there abide, and thence depart."
     },
     {
       "verse": "5",
-      "text": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them. "
+      "text": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them."
     },
     {
       "verse": "6",
@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company. "
+      "text": "For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company."
     },
     {
       "verse": "15",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am? "
+      "text": "And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?"
     },
     {
       "verse": "19",
@@ -93,19 +93,19 @@
     },
     {
       "verse": "23",
-      "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me. "
+      "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
     },
     {
       "verse": "24",
-      "text": "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it. "
+      "text": "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it."
     },
     {
       "verse": "25",
-      "text": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away? "
+      "text": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?"
     },
     {
       "verse": "26",
-      "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels. "
+      "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels."
     },
     {
       "verse": "27",
@@ -165,7 +165,7 @@
     },
     {
       "verse": "41",
-      "text": "And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither. "
+      "text": "And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither."
     },
     {
       "verse": "42",
@@ -177,7 +177,7 @@
     },
     {
       "verse": "44",
-      "text": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men. "
+      "text": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men."
     },
     {
       "verse": "45",
@@ -221,7 +221,7 @@
     },
     {
       "verse": "55",
-      "text": "But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of. "
+      "text": "But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of."
     },
     {
       "verse": "56",
@@ -233,7 +233,7 @@
     },
     {
       "verse": "58",
-      "text": "And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head. "
+      "text": "And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head."
     },
     {
       "verse": "59",
@@ -241,7 +241,7 @@
     },
     {
       "verse": "60",
-      "text": "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God. "
+      "text": "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
     },
     {
       "verse": "61",
@@ -251,5 +251,11 @@
       "verse": "62",
       "text": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "Don’t be afraid, O Jacob my servant,” says Yahweh, “for I am with you; for I will make a full end of all the nations where I have driven you, but I will not make a full end of you, but I will correct you in measure, and will in no way leave you unpunished.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

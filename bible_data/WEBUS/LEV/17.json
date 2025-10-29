@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "But if he doesn’t wash them, or bathe his flesh, then he shall bear his iniquity.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

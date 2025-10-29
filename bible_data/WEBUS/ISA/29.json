@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "They also who err in spirit will come to understanding, and those who grumble will receive instruction.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

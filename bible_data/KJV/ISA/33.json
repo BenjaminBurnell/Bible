@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the LORD  is his treasure."
+      "text": "And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the LORD is his treasure."
     },
     {
       "verse": "7",
@@ -85,11 +85,11 @@
     },
     {
       "verse": "21",
-      "text": "But there the glorious LORD  will be unto us a place of broad rivers and streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby."
+      "text": "But there the glorious LORD will be unto us a place of broad rivers and streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby."
     },
     {
       "verse": "22",
-      "text": "For the LORD  is our judge, the LORD  is our lawgiver, the LORD  is our king; he will save us."
+      "text": "For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; he will save us."
     },
     {
       "verse": "23",
@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

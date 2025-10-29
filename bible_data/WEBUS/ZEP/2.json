@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "This is the joyous city that lived carelessly, that said in her heart, “I am, and there is no one besides me.” How she has become a desolation, a place for animals to lie down in! Everyone who passes by her will hiss and shake their fists."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

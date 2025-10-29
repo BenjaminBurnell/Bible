@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": "Because, even because they have seduced my people, saying, Peace; and there was no peace; and one built up a wall, and, lo, others daubed it with untempered morter: "
+      "text": "Because, even because they have seduced my people, saying, Peace; and there was no peace; and one built up a wall, and, lo, others daubed it with untempered morter:"
     },
     {
       "verse": "11",
@@ -49,7 +49,7 @@
     },
     {
       "verse": "12",
-      "text": "Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it? "
+      "text": "Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it?"
     },
     {
       "verse": "13",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I am the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

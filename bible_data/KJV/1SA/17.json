@@ -235,5 +235,11 @@
       "verse": "58",
       "text": "And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Beth-lehemite."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -49,7 +49,7 @@
     },
     {
       "verse": "12",
-      "text": "And the angel of the LORD appeared unto him, and said unto him, The LORD  is with thee, thou mighty man of valour."
+      "text": "And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour."
     },
     {
       "verse": "13",
@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

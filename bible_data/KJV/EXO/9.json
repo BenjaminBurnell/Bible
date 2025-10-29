@@ -109,7 +109,7 @@
     },
     {
       "verse": "27",
-      "text": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD  is righteous, and I and my people are wicked."
+      "text": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked."
     },
     {
       "verse": "28",
@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

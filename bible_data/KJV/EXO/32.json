@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "And the LORD said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves: "
+      "text": "And the LORD said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves:"
     },
     {
       "verse": "8",
@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "And the LORD plagued the people, because they made the calf, which Aaron made."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

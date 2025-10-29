@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

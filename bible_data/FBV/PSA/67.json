@@ -1,0 +1,41 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 67,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "May God be gracious to us and bless us. May he look favorably on us. Selah."
+    },
+    {
+      "verse": "2",
+      "text": "May everyone on earth come to know your ways, your salvation among all people."
+    },
+    {
+      "verse": "3",
+      "text": "May the people praise you, God; may all the people praise you."
+    },
+    {
+      "verse": "4",
+      "text": "May they be happy and sing for joy because you judge people fairly, and you guide everyone on earth. Selah."
+    },
+    {
+      "verse": "5",
+      "text": "May the people praise you, God; may all the people praise you."
+    },
+    {
+      "verse": "6",
+      "text": "The earth has produced its crops; and God, our God, has blessed us."
+    },
+    {
+      "verse": "7",
+      "text": "God will bless us, and all people everywhere will respect him."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

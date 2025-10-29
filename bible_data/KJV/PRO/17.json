@@ -5,115 +5,121 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Better is a dry morsel, and quietness therewith,"
+      "text": "Better is a dry morsel, and quietness therewith, Than an house full of sacrifices with strife."
     },
     {
       "verse": "2",
-      "text": "A wise servant shall have rule over a son that causeth shame,"
+      "text": "A wise servant shall have rule over a son that causeth shame, And shall have part of the inheritance among the brethren."
     },
     {
       "verse": "3",
-      "text": "The fining pot is for silver, and the furnace for gold:"
+      "text": "The fining pot is for silver, and the furnace for gold: But the LORD trieth the hearts."
     },
     {
       "verse": "4",
-      "text": "A wicked doer giveth heed to false lips;"
+      "text": "A wicked doer giveth heed to false lips; And a liar giveth ear to a naughty tongue."
     },
     {
       "verse": "5",
-      "text": "Whoso mocketh the poor reproacheth his Maker:"
+      "text": "Whoso mocketh the poor reproacheth his Maker: And he that is glad at calamities shall not be unpunished."
     },
     {
       "verse": "6",
-      "text": "Children's children are the crown of old men;"
+      "text": "Children's children are the crown of old men; And the glory of children are their fathers."
     },
     {
       "verse": "7",
-      "text": "Excellent speech becometh not a fool:"
+      "text": "Excellent speech becometh not a fool: Much less do lying lips a prince."
     },
     {
       "verse": "8",
-      "text": "A gift is as a precious stone in the eyes of him that hath it:"
+      "text": "A gift is as a precious stone in the eyes of him that hath it: Whithersoever it turneth, it prospereth."
     },
     {
       "verse": "9",
-      "text": "He that covereth a transgression seeketh love;"
+      "text": "He that covereth a transgression seeketh love; But he that repeateth a matter separateth very friends."
     },
     {
       "verse": "10",
-      "text": "A reproof entereth more into a wise man"
+      "text": "A reproof entereth more into a wise man Than an hundred stripes into a fool."
     },
     {
       "verse": "11",
-      "text": "An evil man seeketh only rebellion:"
+      "text": "An evil man seeketh only rebellion: Therefore a cruel messenger shall be sent against him."
     },
     {
       "verse": "12",
-      "text": "Let a bear robbed of her whelps meet a man,"
+      "text": "Let a bear robbed of her whelps meet a man, Rather than a fool in his folly."
     },
     {
       "verse": "13",
-      "text": "Whoso rewardeth evil for good,"
+      "text": "Whoso rewardeth evil for good, Evil shall not depart from his house."
     },
     {
       "verse": "14",
-      "text": "The beginning of strife is as when one letteth out water:"
+      "text": "The beginning of strife is as when one letteth out water: Therefore leave off contention, before it be meddled with."
     },
     {
       "verse": "15",
-      "text": "He that justifieth the wicked, and he that condemneth the just,"
+      "text": "He that justifieth the wicked, and he that condemneth the just, Even they both are abomination to the LORD ."
     },
     {
       "verse": "16",
-      "text": "Wherefore is there a price in the hand of a fool to get wisdom,"
+      "text": "Wherefore is there a price in the hand of a fool to get wisdom, Seeing he hath no heart to it?"
     },
     {
       "verse": "17",
-      "text": "A friend loveth at all times,"
+      "text": "A friend loveth at all times, And a brother is born for adversity."
     },
     {
       "verse": "18",
-      "text": "A man void of understanding striketh hands,"
+      "text": "A man void of understanding striketh hands, And becometh surety in the presence of his friend."
     },
     {
       "verse": "19",
-      "text": "He loveth transgression that loveth strife:"
+      "text": "He loveth transgression that loveth strife: And he that exalteth his gate seeketh destruction."
     },
     {
       "verse": "20",
-      "text": "He that hath a froward heart findeth no good:"
+      "text": "He that hath a froward heart findeth no good: And he that hath a perverse tongue falleth into mischief."
     },
     {
       "verse": "21",
-      "text": "He that begetteth a fool doeth it to his sorrow:"
+      "text": "He that begetteth a fool doeth it to his sorrow: And the father of a fool hath no joy."
     },
     {
       "verse": "22",
-      "text": "A merry heart doeth good like a medicine:"
+      "text": "A merry heart doeth good like a medicine: But a broken spirit drieth the bones."
     },
     {
       "verse": "23",
-      "text": "A wicked man taketh a gift out of the bosom"
+      "text": "A wicked man taketh a gift out of the bosom To pervert the ways of judgment."
     },
     {
       "verse": "24",
-      "text": "Wisdom is before him that hath understanding;"
+      "text": "Wisdom is before him that hath understanding; But the eyes of a fool are in the ends of the earth."
     },
     {
       "verse": "25",
-      "text": "A foolish son is a grief to his father,"
+      "text": "A foolish son is a grief to his father, And bitterness to her that bare him."
     },
     {
       "verse": "26",
-      "text": "Also to punish the just is not good,"
+      "text": "Also to punish the just is not good, Nor to strike princes for equity."
     },
     {
       "verse": "27",
-      "text": "He that hath knowledge spareth his words:"
+      "text": "He that hath knowledge spareth his words: And a man of understanding is of an excellent spirit."
     },
     {
       "verse": "28",
-      "text": "Even a fool, when he holdeth his peace, is counted wise:"
+      "text": "Even a fool, when he holdeth his peace, is counted wise: And he that shutteth his lips is esteemed a man of understanding."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

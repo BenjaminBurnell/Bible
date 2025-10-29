@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "God forbid: yea, let God be true, but every man a liar; as it is written,"
+      "text": "God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, And mightest overcome when thou art judged."
     },
     {
       "verse": "5",
@@ -41,19 +41,19 @@
     },
     {
       "verse": "10",
-      "text": "as it is written,"
+      "text": "as it is written, There is none righteous, no, not one:"
     },
     {
       "verse": "11",
-      "text": "There is none that understandeth,"
+      "text": "There is none that understandeth, There is none that seeketh after God."
     },
     {
       "verse": "12",
-      "text": "They are all gone out of the way, they are together become unprofitable;"
+      "text": "They are all gone out of the way, they are together become unprofitable; There is none that doeth good, no, not one."
     },
     {
       "verse": "13",
-      "text": "Their throat is an open sepulchre;"
+      "text": "Their throat is an open sepulchre; With their tongues they have used deceit; The poison of asps is under their lips:"
     },
     {
       "verse": "14",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "Do we then make void the law through faith? God forbid: yea, we establish the law."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

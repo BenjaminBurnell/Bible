@@ -151,5 +151,11 @@
       "verse": "37",
       "text": "And he did that which was evil in the sight of the LORD , according to all that his fathers had done."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

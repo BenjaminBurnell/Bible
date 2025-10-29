@@ -5,87 +5,93 @@
   "verses": [
     {
       "verse": "1",
-      "text": " Is there not an appointed time to man upon earth?"
+      "text": "Is there not an appointed time to man upon earth? Are not his days also like the days of an hireling?"
     },
     {
       "verse": "2",
-      "text": "As a servant earnestly desireth the shadow,"
+      "text": "As a servant earnestly desireth the shadow, And as an hireling looketh for the reward of his work:"
     },
     {
       "verse": "3",
-      "text": "So am I made to possess months of vanity,"
+      "text": "So am I made to possess months of vanity, And wearisome nights are appointed to me."
     },
     {
       "verse": "4",
-      "text": "When I lie down, I say,"
+      "text": "When I lie down, I say, When shall I arise, and the night be gone? And I am full of tossings to and fro unto the dawning of the day."
     },
     {
       "verse": "5",
-      "text": "My flesh is clothed with worms and clods of dust;"
+      "text": "My flesh is clothed with worms and clods of dust; My skin is broken, and become loathsome."
     },
     {
       "verse": "6",
-      "text": "My days are swifter than a weaver's shuttle,"
+      "text": "My days are swifter than a weaver's shuttle, And are spent without hope."
     },
     {
       "verse": "7",
-      "text": "O remember that my life is wind:"
+      "text": "O remember that my life is wind: Mine eye shall no more see good."
     },
     {
       "verse": "8",
-      "text": "The eye of him that hath seen me shall see me no more:"
+      "text": "The eye of him that hath seen me shall see me no more: Thine eyes are upon me, and I am not."
     },
     {
       "verse": "9",
-      "text": " As the cloud is consumed and vanisheth away:"
+      "text": "As the cloud is consumed and vanisheth away: So he that goeth down to the grave shall come up no more ."
     },
     {
       "verse": "10",
-      "text": "He shall return no more to his house,"
+      "text": "He shall return no more to his house, Neither shall his place know him any more."
     },
     {
       "verse": "11",
-      "text": "Therefore I will not refrain my mouth;"
+      "text": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
     },
     {
       "verse": "12",
-      "text": " Am I a sea, or a whale,"
+      "text": "Am I a sea, or a whale, That thou settest a watch over me?"
     },
     {
       "verse": "13",
-      "text": "When I say, My bed shall comfort me,"
+      "text": "When I say, My bed shall comfort me, My couch shall ease my complaint;"
     },
     {
       "verse": "14",
-      "text": "Then thou scarest me with dreams,"
+      "text": "Then thou scarest me with dreams, And terrifiest me through visions:"
     },
     {
       "verse": "15",
-      "text": "So that my soul chooseth strangling,"
+      "text": "So that my soul chooseth strangling, And death rather than my life."
     },
     {
       "verse": "16",
-      "text": "I loathe it ; I would not live alway:"
+      "text": "I loathe it ; I would not live alway: Let me alone; for my days are vanity."
     },
     {
       "verse": "17",
-      "text": "What is man, that thou shouldest magnify him?"
+      "text": "What is man, that thou shouldest magnify him? And that thou shouldest set thine heart upon him?"
     },
     {
       "verse": "18",
-      "text": "And that thou shouldest visit him every morning,"
+      "text": "And that thou shouldest visit him every morning, And try him every moment?"
     },
     {
       "verse": "19",
-      "text": "How long wilt thou not depart from me,"
+      "text": "How long wilt thou not depart from me, Nor let me alone till I swallow down my spittle?"
     },
     {
       "verse": "20",
-      "text": "I have sinned; what shall I do unto thee, O thou preserver of men?"
+      "text": "I have sinned; what shall I do unto thee, O thou preserver of men? Why hast thou set me as a mark against thee, So that I am a burden to myself?"
     },
     {
       "verse": "21",
-      "text": "And why dost thou not pardon my transgression,"
+      "text": "And why dost thou not pardon my transgression, And take away mine iniquity? For now shall I sleep in the dust; And thou shalt seek me in the morning, but I shall not be ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

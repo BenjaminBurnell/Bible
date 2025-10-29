@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself."
+      "text": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:"
     },
     {
       "verse": "2",
@@ -57,19 +57,19 @@
     },
     {
       "verse": "14",
-      "text": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks. "
+      "text": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks."
     },
     {
       "verse": "15",
-      "text": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest. "
+      "text": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."
     },
     {
       "verse": "16",
-      "text": "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee; "
+      "text": "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;"
     },
     {
       "verse": "17",
-      "text": "delivering thee from the people, and from the Gentiles, unto whom now I send thee, "
+      "text": "delivering thee from the people, and from the Gentiles, unto whom now I send thee,"
     },
     {
       "verse": "18",
@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

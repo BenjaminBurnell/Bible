@@ -291,5 +291,11 @@
       "verse": "72",
       "text": "So he was their shepherd according to the integrity of his heart, and guided them by the skillfulness of his hands."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

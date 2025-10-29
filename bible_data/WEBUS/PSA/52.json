@@ -39,5 +39,11 @@
       "verse": "9",
       "text": "I will give you thanks forever, because you have done it. I will hope in your name, for it is good, in the presence of your saints."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. "
+      "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
     },
     {
       "verse": "5",
@@ -25,11 +25,11 @@
     },
     {
       "verse": "6",
-      "text": "and saith unto him, If thou be the Son of God, cast thyself down: for it is written,"
+      "text": "and saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: And in their hands they shall bear thee up, Lest at any time thou dash thy foot against a stone."
     },
     {
       "verse": "7",
-      "text": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God. "
+      "text": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God."
     },
     {
       "verse": "8",
@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. "
+      "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
     },
     {
       "verse": "11",
@@ -61,11 +61,11 @@
     },
     {
       "verse": "15",
-      "text": "The land of Zabulon, and the land of Nephthalim,"
+      "text": "The land of Zabulon, and the land of Nephthalim, By the way of the sea, beyond Jordan, Galilee of the Gentiles;"
     },
     {
       "verse": "16",
-      "text": "The people which sat in darkness"
+      "text": "The people which sat in darkness Saw great light; And to them which sat in the region and shadow of death Light is sprung up."
     },
     {
       "verse": "17",
@@ -77,7 +77,7 @@
     },
     {
       "verse": "19",
-      "text": "And he saith unto them, Follow me, and I will make you fishers of men. "
+      "text": "And he saith unto them, Follow me, and I will make you fishers of men."
     },
     {
       "verse": "20",
@@ -103,5 +103,11 @@
       "verse": "25",
       "text": "And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judæa, and from beyond Jordan."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

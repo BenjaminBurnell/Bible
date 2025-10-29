@@ -57,11 +57,11 @@
     },
     {
       "verse": "14",
-      "text": "And he said unto them,"
+      "text": "And he said unto them, Out of the eater came forth meat, And out of the strong came forth sweetness. And they could not in three days expound the riddle."
     },
     {
       "verse": "15",
-      "text": "And it came to pass on the seventh day, that they said unto Samson's wife, Entice thy husband, that he may declare unto us the riddle, lest we burn thee and thy father's house with fire: have ye called us to take that we have? is it not so? "
+      "text": "And it came to pass on the seventh day, that they said unto Samson's wife, Entice thy husband, that he may declare unto us the riddle, lest we burn thee and thy father's house with fire: have ye called us to take that we have? is it not so?"
     },
     {
       "verse": "16",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "And the men of the city said unto him on the seventh day before the sun went down, What is sweeter than honey? And what is stronger than a lion? And he said unto them,"
+      "text": "And the men of the city said unto him on the seventh day before the sun went down, What is sweeter than honey? And what is stronger than a lion? And he said unto them, If ye had not plowed with my heifer, Ye had not found out my riddle."
     },
     {
       "verse": "19",
@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "But Samson's wife was given to his companion, whom he had used as his friend."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

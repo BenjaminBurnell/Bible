@@ -5,11 +5,11 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Hear my cry, O God;"
+      "text": "Hear my cry, O God; Attend unto my prayer."
     },
     {
       "verse": "2",
-      "text": "From the end of the earth will I cry unto thee,"
+      "text": "From the end of the earth will I cry unto thee, When my heart is overwhelmed: Lead me to the rock that is higher than I."
     },
     {
       "verse": "3",
@@ -17,23 +17,29 @@
     },
     {
       "verse": "4",
-      "text": "I will abide in thy tabernacle for ever:"
+      "text": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah."
     },
     {
       "verse": "5",
-      "text": "For thou, O God, hast heard my vows:"
+      "text": "For thou, O God, hast heard my vows: Thou hast given me the heritage of those that fear thy name."
     },
     {
       "verse": "6",
-      "text": "Thou wilt prolong the king's life:"
+      "text": "Thou wilt prolong the king's life: And his years as many generations."
     },
     {
       "verse": "7",
-      "text": "He shall abide before God for ever:"
+      "text": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."
     },
     {
       "verse": "8",
-      "text": "So will I sing praise unto thy name for ever,"
+      "text": "So will I sing praise unto thy name for ever, That I may daily perform my vows."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

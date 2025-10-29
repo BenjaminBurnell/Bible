@@ -191,5 +191,11 @@
       "verse": "47",
       "text": "Yet will I bring again the captivity of Moab in the latter days, saith the LORD . Thus far is the judgment of Moab."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

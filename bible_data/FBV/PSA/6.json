@@ -1,0 +1,53 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Lord, please don't condemn me because you're angry with me; please don't punish me because you're angry with me!"
+    },
+    {
+      "verse": "2",
+      "text": "Have mercy on me, Lord, for I am weak; heal me, Lord, for I am sick to the bone."
+    },
+    {
+      "verse": "3",
+      "text": "I'm shaking all over in fear. How long will it be, Lord, before you do something?"
+    },
+    {
+      "verse": "4",
+      "text": "Turn, Lord, and rescue me! Save me because of your trustworthy love!"
+    },
+    {
+      "verse": "5",
+      "text": "For no one remembers you when they're dead. Who is able to praise you from the grave?"
+    },
+    {
+      "verse": "6",
+      "text": "My groaning has exhausted me. Every night I soak my bed with my crying; I drench my couch with my tears."
+    },
+    {
+      "verse": "7",
+      "text": "With all my crying I can hardly see; my eyes grow weak because of the trouble my enemies cause me."
+    },
+    {
+      "verse": "8",
+      "text": "Leave me alone, all you people who do evil, for the Lord has heard me crying!"
+    },
+    {
+      "verse": "9",
+      "text": "The Lord has heard me calling out for help; the Lord answers my prayer."
+    },
+    {
+      "verse": "10",
+      "text": "All who hate me will be shamefully defeated and terrified; they will run away in disgrace."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -129,11 +129,11 @@
     },
     {
       "verse": "32",
-      "text": "The place of the scripture which he read was this,"
+      "text": "The place of the scripture which he read was this, He was led as a sheep to the slaughter; And like a lamb dumb before his shearer, So opened he not his mouth:"
     },
     {
       "verse": "33",
-      "text": "In his humiliation his judgment was taken away:"
+      "text": "In his humiliation his judgment was taken away: And who shall declare his generation? For his life is taken from the earth."
     },
     {
       "verse": "34",
@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cæsarea."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "So they set up for themselves Micah’s engraved image which he made, and it remained all the time that God’s house was in Shiloh."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

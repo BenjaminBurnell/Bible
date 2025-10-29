@@ -5,35 +5,35 @@
   "verses": [
     {
       "verse": "1",
-      "text": " LORD , I cry unto thee: make haste unto me;"
+      "text": "LORD , I cry unto thee: make haste unto me; Give ear unto my voice, when I cry unto thee."
     },
     {
       "verse": "2",
-      "text": "Let my prayer be set forth before thee as incense;"
+      "text": "Let my prayer be set forth before thee as incense; And the lifting up of my hands as the evening sacrifice."
     },
     {
       "verse": "3",
-      "text": "Set a watch, O LORD , before my mouth;"
+      "text": "Set a watch, O LORD , before my mouth; Keep the door of my lips."
     },
     {
       "verse": "4",
-      "text": "Incline not my heart to any evil thing,"
+      "text": "Incline not my heart to any evil thing, To practise wicked works with men that work iniquity: And let me not eat of their dainties."
     },
     {
       "verse": "5",
-      "text": "Let the righteous smite me;"
+      "text": "Let the righteous smite me; It shall be a kindness: And let him reprove me; It shall be an excellent oil, which shall not break my head: For yet my prayer also shall be in their calamities."
     },
     {
       "verse": "6",
-      "text": "When their judges are overthrown in stony places,"
+      "text": "When their judges are overthrown in stony places, They shall hear my words; for they are sweet."
     },
     {
       "verse": "7",
-      "text": "Our bones are scattered at the grave's mouth,"
+      "text": "Our bones are scattered at the grave's mouth, As when one cutteth and cleaveth wood upon the earth."
     },
     {
       "verse": "8",
-      "text": "But mine eyes are unto thee, O GOD the Lord:"
+      "text": "But mine eyes are unto thee, O GOD the Lord: In thee is my trust; leave not my soul destitute."
     },
     {
       "verse": "9",
@@ -43,5 +43,11 @@
       "verse": "10",
       "text": "Let the wicked fall into their own nets, whilst that I withal escape."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

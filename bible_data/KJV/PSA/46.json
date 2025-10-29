@@ -5,47 +5,53 @@
   "verses": [
     {
       "verse": "1",
-      "text": "God is our refuge and strength,"
+      "text": "God is our refuge and strength, A very present help in trouble."
     },
     {
       "verse": "2",
-      "text": "Therefore will not we fear, though the earth be removed,"
+      "text": "Therefore will not we fear, though the earth be removed, And though the mountains be carried into the midst of the sea;"
     },
     {
       "verse": "3",
-      "text": " Though the waters thereof roar and be troubled,"
+      "text": "Though the waters thereof roar and be troubled, Though the mountains shake with the swelling thereof. Selah."
     },
     {
       "verse": "4",
-      "text": " There is a river, the streams whereof shall make glad the city of God,"
+      "text": "There is a river, the streams whereof shall make glad the city of God, The holy place of the tabernacles of the most High."
     },
     {
       "verse": "5",
-      "text": "God is in the midst of her; she shall not be moved:"
+      "text": "God is in the midst of her; she shall not be moved: God shall help her, and that right early."
     },
     {
       "verse": "6",
-      "text": "The heathen raged, the kingdoms were moved:"
+      "text": "The heathen raged, the kingdoms were moved: He uttered his voice, the earth melted."
     },
     {
       "verse": "7",
-      "text": "The LORD of hosts is with us;"
+      "text": "The LORD of hosts is with us; The God of Jacob is our refuge. Selah."
     },
     {
       "verse": "8",
-      "text": "Come, behold the works of the LORD ,"
+      "text": "Come, behold the works of the LORD , What desolations he hath made in the earth."
     },
     {
       "verse": "9",
-      "text": "He maketh wars to cease unto the end of the earth;"
+      "text": "He maketh wars to cease unto the end of the earth; He breaketh the bow, and cutteth the spear in sunder; He burneth the chariot in the fire."
     },
     {
       "verse": "10",
-      "text": "Be still, and know that I am God:"
+      "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
     },
     {
       "verse": "11",
-      "text": "The LORD of hosts is with us;"
+      "text": "The LORD of hosts is with us; The God of Jacob is our refuge. Selah."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

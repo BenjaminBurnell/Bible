@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done it? "
+      "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done it?"
     },
     {
       "verse": "7",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

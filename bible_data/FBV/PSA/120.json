@@ -1,0 +1,41 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 120,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "I called out to the Lord for help in all my troubles, and he answered me."
+    },
+    {
+      "verse": "2",
+      "text": "Lord, please save me from liars and cheats!"
+    },
+    {
+      "verse": "3",
+      "text": "What will the Lord do to you, you liars? How will he punish you?"
+    },
+    {
+      "verse": "4",
+      "text": "With the sharp arrows of a warrior and burning coals made from a broom tree."
+    },
+    {
+      "verse": "5",
+      "text": "I'm sorry for myself, because I live as a foreigner in Meshech, or among the tent-dwellers of Kedar."
+    },
+    {
+      "verse": "6",
+      "text": "I have lived for far too long among people who hate peace."
+    },
+    {
+      "verse": "7",
+      "text": "I want peace, but when I talk of peace, they want war."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -105,11 +105,17 @@
     },
     {
       "verse": "26",
-      "text": "And ye shall be holy unto me: for I the LORD  am holy, and have severed you from other people, that ye should be mine."
+      "text": "And ye shall be holy unto me: for I the LORD am holy, and have severed you from other people, that ye should be mine."
     },
     {
       "verse": "27",
       "text": "A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood shall be upon them."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

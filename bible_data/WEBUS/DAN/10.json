@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "But I will tell you that which is inscribed in the writing of truth. There is no one who holds with me against these but Michael your prince."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "and of her who has her period, and of a man or woman who has a discharge, and of him who lies with her who is unclean."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

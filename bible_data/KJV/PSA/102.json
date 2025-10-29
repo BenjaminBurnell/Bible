@@ -5,107 +5,107 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Hear my prayer, O LORD ,"
+      "text": "Hear my prayer, O LORD , And let my cry come unto thee."
     },
     {
       "verse": "2",
-      "text": "Hide not thy face from me in the day when I am in trouble;"
+      "text": "Hide not thy face from me in the day when I am in trouble; Incline thine ear unto me: In the day when I call answer me speedily."
     },
     {
       "verse": "3",
-      "text": "For my days are consumed like smoke,"
+      "text": "For my days are consumed like smoke, And my bones are burned as an hearth."
     },
     {
       "verse": "4",
-      "text": "My heart is smitten, and withered like grass;"
+      "text": "My heart is smitten, and withered like grass; So that I forget to eat my bread."
     },
     {
       "verse": "5",
-      "text": "By reason of the voice of my groaning"
+      "text": "By reason of the voice of my groaning My bones cleave to my skin."
     },
     {
       "verse": "6",
-      "text": "I am like a pelican of the wilderness:"
+      "text": "I am like a pelican of the wilderness: I am like an owl of the desert."
     },
     {
       "verse": "7",
-      "text": "I watch, and am as a sparrow"
+      "text": "I watch, and am as a sparrow Alone upon the house top."
     },
     {
       "verse": "8",
-      "text": "Mine enemies reproach me all the day;"
+      "text": "Mine enemies reproach me all the day; And they that are mad against me are sworn against me."
     },
     {
       "verse": "9",
-      "text": "For I have eaten ashes like bread,"
+      "text": "For I have eaten ashes like bread, And mingled my drink with weeping,"
     },
     {
       "verse": "10",
-      "text": "Because of thine indignation and thy wrath:"
+      "text": "Because of thine indignation and thy wrath: For thou hast lifted me up, and cast me down."
     },
     {
       "verse": "11",
-      "text": "My days are like a shadow that declineth;"
+      "text": "My days are like a shadow that declineth; And I am withered like grass."
     },
     {
       "verse": "12",
-      "text": "But thou, O LORD , shalt endure for ever;"
+      "text": "But thou, O LORD , shalt endure for ever; And thy remembrance unto all generations."
     },
     {
       "verse": "13",
-      "text": "Thou shalt arise, and have mercy upon Zion:"
+      "text": "Thou shalt arise, and have mercy upon Zion: For the time to favour her, yea, the set time, is come."
     },
     {
       "verse": "14",
-      "text": "For thy servants take pleasure in her stones,"
+      "text": "For thy servants take pleasure in her stones, And favour the dust thereof."
     },
     {
       "verse": "15",
-      "text": "So the heathen shall fear the name of the LORD ,"
+      "text": "So the heathen shall fear the name of the LORD , And all the kings of the earth thy glory."
     },
     {
       "verse": "16",
-      "text": "When the LORD shall build up Zion,"
+      "text": "When the LORD shall build up Zion, He shall appear in his glory."
     },
     {
       "verse": "17",
-      "text": "He will regard the prayer of the destitute,"
+      "text": "He will regard the prayer of the destitute, And not despise their prayer."
     },
     {
       "verse": "18",
-      "text": "This shall be written for the generation to come:"
+      "text": "This shall be written for the generation to come: And the people which shall be created shall praise the LORD ."
     },
     {
       "verse": "19",
-      "text": "For he hath looked down from the height of his sanctuary;"
+      "text": "For he hath looked down from the height of his sanctuary; From heaven did the LORD behold the earth;"
     },
     {
       "verse": "20",
-      "text": "To hear the groaning of the prisoner;"
+      "text": "To hear the groaning of the prisoner; To loose those that are appointed to death;"
     },
     {
       "verse": "21",
-      "text": "To declare the name of the LORD in Zion,"
+      "text": "To declare the name of the LORD in Zion, And his praise in Jerusalem;"
     },
     {
       "verse": "22",
-      "text": "When the people are gathered together,"
+      "text": "When the people are gathered together, And the kingdoms, to serve the LORD ."
     },
     {
       "verse": "23",
-      "text": "He weakened my strength in the way;"
+      "text": "He weakened my strength in the way; He shortened my days."
     },
     {
       "verse": "24",
-      "text": "I said, O my God, take me not away in the midst of my days:"
+      "text": "I said, O my God, take me not away in the midst of my days: Thy years are throughout all generations."
     },
     {
       "verse": "25",
-      "text": "Of old hast thou laid the foundation of the earth:"
+      "text": "Of old hast thou laid the foundation of the earth: And the heavens are the work of thy hands."
     },
     {
       "verse": "26",
-      "text": "They shall perish, but thou shalt endure:"
+      "text": "They shall perish, but thou shalt endure: Yea, all of them shall wax old like a garment; As a vesture shalt thou change them, and they shall be changed:"
     },
     {
       "verse": "27",
@@ -113,7 +113,13 @@
     },
     {
       "verse": "28",
-      "text": "The children of thy servants shall continue,"
+      "text": "The children of thy servants shall continue, And their seed shall be established before thee."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

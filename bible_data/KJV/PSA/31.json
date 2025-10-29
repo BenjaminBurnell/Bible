@@ -5,99 +5,105 @@
   "verses": [
     {
       "verse": "1",
-      "text": "In thee, O LORD , do I put my trust;"
+      "text": "In thee, O LORD , do I put my trust; Let me never be ashamed: deliver me in thy righteousness."
     },
     {
       "verse": "2",
-      "text": "Bow down thine ear to me; deliver me speedily:"
+      "text": "Bow down thine ear to me; deliver me speedily: Be thou my strong rock, for an house of defence to save me."
     },
     {
       "verse": "3",
-      "text": "For thou art my rock and my fortress;"
+      "text": "For thou art my rock and my fortress; Therefore for thy name's sake lead me, and guide me."
     },
     {
       "verse": "4",
-      "text": "Pull me out of the net that they have laid privily for me:"
+      "text": "Pull me out of the net that they have laid privily for me: For thou art my strength."
     },
     {
       "verse": "5",
-      "text": "Into thine hand I commit my spirit:"
+      "text": "Into thine hand I commit my spirit: Thou hast redeemed me, O LORD God of truth."
     },
     {
       "verse": "6",
-      "text": "I have hated them that regard lying vanities:"
+      "text": "I have hated them that regard lying vanities: But I trust in the LORD ."
     },
     {
       "verse": "7",
-      "text": "I will be glad and rejoice in thy mercy:"
+      "text": "I will be glad and rejoice in thy mercy: For thou hast considered my trouble; thou hast known my soul in adversities;"
     },
     {
       "verse": "8",
-      "text": "And hast not shut me up into the hand of the enemy:"
+      "text": "And hast not shut me up into the hand of the enemy: Thou hast set my feet in a large room."
     },
     {
       "verse": "9",
-      "text": "Have mercy upon me, O LORD , for I am in trouble:"
+      "text": "Have mercy upon me, O LORD , for I am in trouble: Mine eye is consumed with grief, yea , my soul and my belly."
     },
     {
       "verse": "10",
-      "text": "For my life is spent with grief,"
+      "text": "For my life is spent with grief, And my years with sighing: My strength faileth because of mine iniquity, And my bones are consumed."
     },
     {
       "verse": "11",
-      "text": "I was a reproach among all mine enemies, but especially among my neighbours,"
+      "text": "I was a reproach among all mine enemies, but especially among my neighbours, And a fear to mine acquaintance: they that did see me without fled from me."
     },
     {
       "verse": "12",
-      "text": "I am forgotten as a dead man out of mind:"
+      "text": "I am forgotten as a dead man out of mind: I am like a broken vessel."
     },
     {
       "verse": "13",
-      "text": "For I have heard the slander of many:"
+      "text": "For I have heard the slander of many: Fear was on every side: while they took counsel together against me, They devised to take away my life."
     },
     {
       "verse": "14",
-      "text": "But I trusted in thee, O LORD :"
+      "text": "But I trusted in thee, O LORD : I said, Thou art my God."
     },
     {
       "verse": "15",
-      "text": "My times are in thy hand:"
+      "text": "My times are in thy hand: Deliver me from the hand of mine enemies, and from them that persecute me."
     },
     {
       "verse": "16",
-      "text": "Make thy face to shine upon thy servant:"
+      "text": "Make thy face to shine upon thy servant: Save me for thy mercies' sake."
     },
     {
       "verse": "17",
-      "text": "Let me not be ashamed, O LORD ; for I have called upon thee:"
+      "text": "Let me not be ashamed, O LORD ; for I have called upon thee: Let the wicked be ashamed, and let them be silent in the grave."
     },
     {
       "verse": "18",
-      "text": "Let the lying lips be put to silence;"
+      "text": "Let the lying lips be put to silence; Which speak grievous things proudly and contemptuously against the righteous."
     },
     {
       "verse": "19",
-      "text": " Oh how great is thy goodness, which thou hast laid up for them that fear thee;"
+      "text": "Oh how great is thy goodness, which thou hast laid up for them that fear thee; Which thou hast wrought for them that trust in thee before the sons of men!"
     },
     {
       "verse": "20",
-      "text": "Thou shalt hide them in the secret of thy presence from the pride of man:"
+      "text": "Thou shalt hide them in the secret of thy presence from the pride of man: Thou shalt keep them secretly in a pavilion from the strife of tongues."
     },
     {
       "verse": "21",
-      "text": "Blessed be the LORD :"
+      "text": "Blessed be the LORD : For he hath shewed me his marvellous kindness in a strong city."
     },
     {
       "verse": "22",
-      "text": "For I said in my haste,"
+      "text": "For I said in my haste, I am cut off from before thine eyes: Nevertheless thou heardest the voice of My supplications when I cried unto thee."
     },
     {
       "verse": "23",
-      "text": "O love the LORD , all ye his saints:"
+      "text": "O love the LORD , all ye his saints: For the LORD preserveth the faithful, and plentifully rewardeth the proud doer."
     },
     {
       "verse": "24",
-      "text": "Be of good courage, and he shall strengthen your heart,"
+      "text": "Be of good courage, and he shall strengthen your heart, All ye that hope in the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

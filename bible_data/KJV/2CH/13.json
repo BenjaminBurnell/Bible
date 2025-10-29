@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": "But as for us, the LORD  is our God, and we have not forsaken him; and the priests, which minister unto the LORD , are the sons of Aaron, and the Levites wait upon their business:"
+      "text": "But as for us, the LORD is our God, and we have not forsaken him; and the priests, which minister unto the LORD , are the sons of Aaron, and the Levites wait upon their business:"
     },
     {
       "verse": "11",
@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

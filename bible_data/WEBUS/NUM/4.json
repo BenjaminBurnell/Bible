@@ -199,5 +199,11 @@
       "verse": "49",
       "text": "According to the commandment of Yahweh they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as Yahweh commanded Moses."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

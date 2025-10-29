@@ -147,5 +147,11 @@
       "verse": "36",
       "text": "Hezekiah and all the people rejoiced because of that which God had prepared for the people; for the thing was done suddenly."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

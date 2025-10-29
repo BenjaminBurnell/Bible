@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye? "
+      "text": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?"
     },
     {
       "verse": "5",
@@ -33,11 +33,11 @@
     },
     {
       "verse": "8",
-      "text": "Jesus answered, I have told you that I am he : if therefore ye seek me, let these go their way: "
+      "text": "Jesus answered, I have told you that I am he : if therefore ye seek me, let these go their way:"
     },
     {
       "verse": "9",
-      "text": "that the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none. "
+      "text": "that the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none."
     },
     {
       "verse": "10",
@@ -81,11 +81,11 @@
     },
     {
       "verse": "20",
-      "text": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing. "
+      "text": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
     },
     {
       "verse": "21",
-      "text": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said. "
+      "text": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said."
     },
     {
       "verse": "22",
@@ -93,7 +93,7 @@
     },
     {
       "verse": "23",
-      "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me? "
+      "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
     },
     {
       "verse": "24",
@@ -137,7 +137,7 @@
     },
     {
       "verse": "34",
-      "text": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me? "
+      "text": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?"
     },
     {
       "verse": "35",
@@ -145,15 +145,15 @@
     },
     {
       "verse": "36",
-      "text": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence. "
+      "text": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."
     },
     {
       "verse": "37",
-      "text": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice. "
+      "text": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
     },
     {
       "verse": "38",
-      "text": "Pilate saith unto him, What is truth?"
+      "text": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all ."
     },
     {
       "verse": "39",
@@ -163,5 +163,11 @@
       "verse": "40",
       "text": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

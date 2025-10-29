@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "He was buried in his tomb in the garden of Uzza, and Josiah his son reigned in his place."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

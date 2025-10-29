@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "and Aaron shall offer the Levites before the LORD  for an offering of the children of Israel, that they may execute the service of the LORD ."
+      "text": "and Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD ."
     },
     {
       "verse": "12",
@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "but shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

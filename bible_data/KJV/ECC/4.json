@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "Again, if two lie together, then they have heat: but how can one be warm alone? "
+      "text": "Again, if two lie together, then they have heat: but how can one be warm alone?"
     },
     {
       "verse": "12",
@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -155,5 +155,11 @@
       "verse": "38",
       "text": "In the eleventh year, in the month Bul, which is the eighth month, the house was finished throughout all its parts and according to all its specifications. So he spent seven years building it."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

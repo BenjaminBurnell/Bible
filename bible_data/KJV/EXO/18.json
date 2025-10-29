@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "Now I know that the LORD  is greater than all gods: for in the thing wherein they dealt proudly he was above them."
+      "text": "Now I know that the LORD is greater than all gods: for in the thing wherein they dealt proudly he was above them."
     },
     {
       "verse": "12",
@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "And Moses let his father in law depart; and he went his way into his own land."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

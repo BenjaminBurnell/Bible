@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the LORD  is not with Israel, to wit, with all the children of Ephraim."
+      "text": "But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the LORD is not with Israel, to wit, with all the children of Ephraim."
     },
     {
       "verse": "8",
@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "And they brought him upon horses, and buried him with his fathers in the city of Judah."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

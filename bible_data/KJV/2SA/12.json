@@ -61,7 +61,7 @@
     },
     {
       "verse": "15",
-      "text": "And Nathan departed unto his house."
+      "text": "And Nathan departed unto his house. And the LORD struck the child that Uriah's wife bare unto David, and it was very sick."
     },
     {
       "verse": "16",
@@ -89,7 +89,7 @@
     },
     {
       "verse": "22",
-      "text": "And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether  GOD will be gracious to me, that the child may live?"
+      "text": "And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether GOD will be gracious to me, that the child may live?"
     },
     {
       "verse": "23",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

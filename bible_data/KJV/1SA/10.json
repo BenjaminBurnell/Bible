@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "But the children of Belial said, How shall this man save us? And they despised him, and brought him no presents. But he held his peace."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

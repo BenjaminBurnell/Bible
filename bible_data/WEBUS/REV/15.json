@@ -35,5 +35,11 @@
       "verse": "8",
       "text": "The temple was filled with smoke from the glory of God and from his power. No one was able to enter into the temple until the seven plagues of the seven angels would be finished."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. Don’t defile your land which Yahweh your God gives you for an inheritance."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -49,11 +49,11 @@
     },
     {
       "verse": "12",
-      "text": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be. "
+      "text": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
     },
     {
       "verse": "13",
-      "text": "I am Alpha and Omega, the beginning and the end, the first and the last. "
+      "text": "I am Alpha and Omega, the beginning and the end, the first and the last."
     },
     {
       "verse": "14",
@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": " I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star."
+      "text": "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star."
     },
     {
       "verse": "17",
@@ -85,7 +85,13 @@
     },
     {
       "verse": "21",
-      "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+      "text": "The grace of our Lord Jesus Christ be with you all. Amen. THE END"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

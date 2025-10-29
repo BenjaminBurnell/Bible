@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "When Jacob finished charging his sons, he gathered up his feet into the bed, breathed his last breath, and was gathered to his people."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

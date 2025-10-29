@@ -81,7 +81,7 @@
     },
     {
       "verse": "20",
-      "text": "And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD  was with him."
+      "text": "And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD was with him."
     },
     {
       "verse": "21",
@@ -179,5 +179,11 @@
       "verse": "44",
       "text": "And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

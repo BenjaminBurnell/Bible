@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "Now it has pleased you to bless the house of your servant, that it may continue forever before you; for you, Yahweh, have blessed, and it is blessed forever.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

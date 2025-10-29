@@ -97,7 +97,13 @@
     },
     {
       "verse": "24",
-      "text": "My love be with you all in Christ Jesus. Amen."
+      "text": "My love be with you all in Christ Jesus. Amen. The first epistle to the Corinthians was written from Philippi by Stephanas, and Fortunatus, and Achaicus, and Timotheus."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

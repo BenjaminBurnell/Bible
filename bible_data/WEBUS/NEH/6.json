@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "Also they spoke of his good deeds before me, and reported my words to him. Tobiah sent letters to put me in fear."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

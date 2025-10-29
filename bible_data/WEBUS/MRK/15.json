@@ -191,5 +191,11 @@
       "verse": "47",
       "text": "Mary Magdalene and Mary the mother of Joses, saw where he was laid."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

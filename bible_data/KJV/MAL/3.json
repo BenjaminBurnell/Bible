@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

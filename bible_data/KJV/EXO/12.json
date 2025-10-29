@@ -207,5 +207,11 @@
       "verse": "51",
       "text": "And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

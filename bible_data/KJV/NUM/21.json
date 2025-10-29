@@ -57,11 +57,11 @@
     },
     {
       "verse": "14",
-      "text": "Wherefore it is said in the book of the wars of the LORD ,"
+      "text": "Wherefore it is said in the book of the wars of the LORD , What he did in the Red sea, And in the brooks of Arnon,"
     },
     {
       "verse": "15",
-      "text": "And at the stream of the brooks"
+      "text": "And at the stream of the brooks That goeth down to the dwelling of Ar, And lieth upon the border of Moab."
     },
     {
       "verse": "16",
@@ -69,11 +69,11 @@
     },
     {
       "verse": "17",
-      "text": "Then Israel sang this song,"
+      "text": "Then Israel sang this song, Spring up, O well; sing ye unto it:"
     },
     {
       "verse": "18",
-      "text": "The princes digged the well,"
+      "text": "The princes digged the well, The nobles of the people digged it, By the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah:"
     },
     {
       "verse": "19",
@@ -109,19 +109,19 @@
     },
     {
       "verse": "27",
-      "text": "Wherefore they that speak in proverbs say,"
+      "text": "Wherefore they that speak in proverbs say, Come into Heshbon, Let the city of Sihon be built and prepared:"
     },
     {
       "verse": "28",
-      "text": "For there is a fire gone out of Heshbon,"
+      "text": "For there is a fire gone out of Heshbon, A flame from the city of Sihon: It hath consumed Ar of Moab, And the lords of the high places of Arnon."
     },
     {
       "verse": "29",
-      "text": "Woe to thee, Moab!"
+      "text": "Woe to thee, Moab! Thou art undone, O people of Chemosh: He hath given his sons that escaped, And his daughters, into captivity Unto Sihon king of the Amorites."
     },
     {
       "verse": "30",
-      "text": "We have shot at them; Heshbon is perished even unto Dibon,"
+      "text": "We have shot at them; Heshbon is perished even unto Dibon, And we have laid them waste even unto Nophah, Which reacheth unto Medeba."
     },
     {
       "verse": "31",
@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

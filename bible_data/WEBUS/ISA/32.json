@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "Blessed are you who sow beside all waters, who send out the feet of the ox and the donkey."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

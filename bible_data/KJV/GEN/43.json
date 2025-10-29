@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of their's. And they drank, and were merry with him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

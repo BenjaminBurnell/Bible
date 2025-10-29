@@ -1,0 +1,25 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 131,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Lord, I'm not proud or arrogant. I don't worry about things that are beyond me, matters that are far beyond my experience."
+    },
+    {
+      "verse": "2",
+      "text": "On the contrary, I have chosen to be calm and quiet, like a weaned child with its mother. I am like a weaned child with its mother."
+    },
+    {
+      "verse": "3",
+      "text": "Israel, hope in the Lord, now and forever!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

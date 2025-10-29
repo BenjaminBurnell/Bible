@@ -13,35 +13,41 @@
     },
     {
       "verse": "3",
-      "text": "Put not your trust in princes, nor in the son of man,"
+      "text": "Put not your trust in princes, nor in the son of man, In whom there is no help."
     },
     {
       "verse": "4",
-      "text": "His breath goeth forth, he returneth to his earth;"
+      "text": "His breath goeth forth, he returneth to his earth; In that very day his thoughts perish."
     },
     {
       "verse": "5",
-      "text": "Happy is he that hath the God of Jacob for his help,"
+      "text": "Happy is he that hath the God of Jacob for his help, Whose hope is in the LORD his God:"
     },
     {
       "verse": "6",
-      "text": "Which made heaven, and earth, the sea, and all that therein is:"
+      "text": "Which made heaven, and earth, the sea, and all that therein is: Which keepeth truth for ever:"
     },
     {
       "verse": "7",
-      "text": "Which executeth judgment for the oppressed:"
+      "text": "Which executeth judgment for the oppressed: Which giveth food to the hungry. The LORD looseth the prisoners:"
     },
     {
       "verse": "8",
-      "text": "The LORD openeth the eyes of the blind:"
+      "text": "The LORD openeth the eyes of the blind: The LORD raiseth them that are bowed down: The LORD loveth the righteous:"
     },
     {
       "verse": "9",
-      "text": "The LORD preserveth the strangers; He relieveth the fatherless and widow:"
+      "text": "The LORD preserveth the strangers; He relieveth the fatherless and widow: But the way of the wicked he turneth upside down."
     },
     {
       "verse": "10",
-      "text": "The LORD shall reign for ever, even thy God, O Zion,"
+      "text": "The LORD shall reign for ever, even thy God, O Zion, Unto all generations. Praise ye the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

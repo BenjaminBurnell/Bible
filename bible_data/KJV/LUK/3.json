@@ -17,11 +17,11 @@
     },
     {
       "verse": "4",
-      "text": "as it is written in the book of the words of Esaias the prophet, saying,"
+      "text": "as it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, Make his paths straight."
     },
     {
       "verse": "5",
-      "text": "Every valley shall be filled,"
+      "text": "Every valley shall be filled, And every mountain and hill shall be brought low; And the crooked shall be made straight, And the rough ways shall be made smooth;"
     },
     {
       "verse": "6",
@@ -155,5 +155,11 @@
       "verse": "38",
       "text": "which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

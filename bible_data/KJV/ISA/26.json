@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": " LORD , when thy hand is lifted up, they will not see: but they shall see, and be ashamed for their envy at the people; yea, the fire of thine enemies shall devour them."
+      "text": "LORD , when thy hand is lifted up, they will not see: but they shall see, and be ashamed for their envy at the people; yea, the fire of thine enemies shall devour them."
     },
     {
       "verse": "12",
@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": " LORD , in trouble have they visited thee, they poured out a prayer when thy chastening was upon them."
+      "text": "LORD , in trouble have they visited thee, they poured out a prayer when thy chastening was upon them."
     },
     {
       "verse": "17",
@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

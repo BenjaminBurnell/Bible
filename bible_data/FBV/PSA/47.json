@@ -1,0 +1,49 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 47,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Everyone, clap your hands! Shout with joy to the Lord!"
+    },
+    {
+      "verse": "2",
+      "text": "For the Lord Most High is awe-inspiring; he is the great King of all the earth."
+    },
+    {
+      "verse": "3",
+      "text": "He subdues other peoples under us; he puts nations under our feet."
+    },
+    {
+      "verse": "4",
+      "text": "He chose the land for us to own; the proud possession of Jacob's descendants whom he loves. Selah."
+    },
+    {
+      "verse": "5",
+      "text": "God ascends his throne with a great shout, the Lord is accompanied by the sound of the trumpet."
+    },
+    {
+      "verse": "6",
+      "text": "Sing praises to God, sing praises; sing praises to our King, sing praises!"
+    },
+    {
+      "verse": "7",
+      "text": "For God is King of all the earth; sing praises with a psalm!"
+    },
+    {
+      "verse": "8",
+      "text": "God rules over the nations; he sits on his holy throne."
+    },
+    {
+      "verse": "9",
+      "text": "The rulers of the nations gather together with the people of the God of Abraham, for the defenders of the earth belong to God. He is highly honored everywhere."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

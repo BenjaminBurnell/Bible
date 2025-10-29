@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God. "
+      "text": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."
     },
     {
       "verse": "18",
@@ -77,7 +77,7 @@
     },
     {
       "verse": "19",
-      "text": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you. "
+      "text": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you."
     },
     {
       "verse": "20",
@@ -85,11 +85,11 @@
     },
     {
       "verse": "21",
-      "text": "Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you. "
+      "text": "Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you."
     },
     {
       "verse": "22",
-      "text": "And when he had said this, he breathed on them , and saith unto them, Receive ye the Holy Ghost: "
+      "text": "And when he had said this, he breathed on them , and saith unto them, Receive ye the Holy Ghost:"
     },
     {
       "verse": "23",
@@ -105,11 +105,11 @@
     },
     {
       "verse": "26",
-      "text": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you. "
+      "text": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."
     },
     {
       "verse": "27",
-      "text": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing. "
+      "text": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing."
     },
     {
       "verse": "28",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "but these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

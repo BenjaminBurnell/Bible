@@ -9,23 +9,23 @@
     },
     {
       "verse": "2",
-      "text": "I know that thou canst do every thing ,"
+      "text": "I know that thou canst do every thing , And that no thought can be withholden from thee."
     },
     {
       "verse": "3",
-      "text": "Who is he that hideth counsel without knowledge?"
+      "text": "Who is he that hideth counsel without knowledge? Therefore have I uttered that I understood not; Things too wonderful for me, which I knew not."
     },
     {
       "verse": "4",
-      "text": "Hear, I beseech thee, and I will speak:"
+      "text": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me."
     },
     {
       "verse": "5",
-      "text": "I have heard of thee by the hearing of the ear:"
+      "text": "I have heard of thee by the hearing of the ear: But now mine eye seeth thee."
     },
     {
       "verse": "6",
-      "text": "Wherefore I abhor myself , and repent"
+      "text": "Wherefore I abhor myself , and repent In dust and ashes."
     },
     {
       "verse": "7",
@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "So Job died, being old and full of days."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

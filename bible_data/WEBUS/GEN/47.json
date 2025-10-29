@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "Israel said, “Swear to me,” and he swore to him. Then Israel bowed himself on the bed’s head."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

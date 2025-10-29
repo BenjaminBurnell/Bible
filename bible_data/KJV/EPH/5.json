@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "Nevertheless, let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

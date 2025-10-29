@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": " And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands."
+      "text": "And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands."
     },
     {
       "verse": "15",
@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": "And Samson said,"
+      "text": "And Samson said, With the jawbone of an ass, heaps upon heaps, With the jaw of an ass have I slain a thousand men."
     },
     {
       "verse": "17",
@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "And he judged Israel in the days of the Philistines twenty years."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

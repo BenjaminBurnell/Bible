@@ -143,5 +143,11 @@
       "verse": "35",
       "text": "I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod's judgment hall."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

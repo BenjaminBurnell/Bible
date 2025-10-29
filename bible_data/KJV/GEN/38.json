@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": "And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it? "
+      "text": "And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?"
     },
     {
       "verse": "18",
@@ -123,5 +123,11 @@
       "verse": "30",
       "text": "And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

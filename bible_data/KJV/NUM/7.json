@@ -97,7 +97,7 @@
     },
     {
       "verse": "24",
-      "text": "On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer: "
+      "text": "On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer:"
     },
     {
       "verse": "25",
@@ -121,7 +121,7 @@
     },
     {
       "verse": "30",
-      "text": "On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, did offer: "
+      "text": "On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, did offer:"
     },
     {
       "verse": "31",
@@ -145,7 +145,7 @@
     },
     {
       "verse": "36",
-      "text": "On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer: "
+      "text": "On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer:"
     },
     {
       "verse": "37",
@@ -169,7 +169,7 @@
     },
     {
       "verse": "42",
-      "text": "On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered: "
+      "text": "On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered:"
     },
     {
       "verse": "43",
@@ -193,7 +193,7 @@
     },
     {
       "verse": "48",
-      "text": "On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, offered: "
+      "text": "On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, offered:"
     },
     {
       "verse": "49",
@@ -241,7 +241,7 @@
     },
     {
       "verse": "60",
-      "text": "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered: "
+      "text": "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:"
     },
     {
       "verse": "61",
@@ -265,7 +265,7 @@
     },
     {
       "verse": "66",
-      "text": "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered: "
+      "text": "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:"
     },
     {
       "verse": "67",
@@ -289,7 +289,7 @@
     },
     {
       "verse": "72",
-      "text": "On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered: "
+      "text": "On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered:"
     },
     {
       "verse": "73",
@@ -313,7 +313,7 @@
     },
     {
       "verse": "78",
-      "text": "On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered: "
+      "text": "On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered:"
     },
     {
       "verse": "79",
@@ -359,5 +359,11 @@
       "verse": "89",
       "text": "And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

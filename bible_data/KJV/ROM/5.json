@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "that as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

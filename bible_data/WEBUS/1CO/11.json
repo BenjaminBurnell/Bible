@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

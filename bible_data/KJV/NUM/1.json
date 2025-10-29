@@ -219,5 +219,11 @@
       "verse": "54",
       "text": "And the children of Israel did according to all that the LORD commanded Moses, so did they."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

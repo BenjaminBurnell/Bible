@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "For he shall not often reflect on the days of his life, because God occupies him with the joy of his heart."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

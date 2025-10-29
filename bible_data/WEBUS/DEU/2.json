@@ -151,5 +151,11 @@
       "verse": "37",
       "text": "Only to the land of the children of Ammon you didn’t come near: all the banks of the river Jabbok, and the cities of the hill country, and wherever Yahweh our God forbade us."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

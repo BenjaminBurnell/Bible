@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

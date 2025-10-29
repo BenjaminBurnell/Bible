@@ -25,7 +25,7 @@
     },
     {
       "verse": "6",
-      "text": "And thou Bethlehem, in the land of Juda,"
+      "text": "And thou Bethlehem, in the land of Juda, Art not the least among the princes of Juda: For out of thee shall come a Governor, That shall rule my people Israel."
     },
     {
       "verse": "7",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "In Rama was there a voice heard,"
+      "text": "In Rama was there a voice heard, Lamentation, and weeping, and great mourning, Rachel weeping for her children, And would not be comforted, because they are not."
     },
     {
       "verse": "19",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "and he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

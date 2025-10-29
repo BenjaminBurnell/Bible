@@ -135,5 +135,11 @@
       "verse": "33",
       "text": "If not, listen to me. Hold your peace, and I will teach you wisdom.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

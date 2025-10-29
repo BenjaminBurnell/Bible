@@ -37,7 +37,7 @@
     },
     {
       "verse": "9",
-      "text": "But as it is written,"
+      "text": "But as it is written, Eye hath not seen, nor ear heard, Neither have entered into the heart of man, The things which God hath prepared for them that love him."
     },
     {
       "verse": "10",
@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

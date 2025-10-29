@@ -13,7 +13,7 @@
     },
     {
       "verse": "3",
-      "text": "For the day is near, even the day of the LORD  is near, a cloudy day; it shall be the time of the heathen."
+      "text": "For the day is near, even the day of the LORD is near, a cloudy day; it shall be the time of the heathen."
     },
     {
       "verse": "4",
@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "And I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I am the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

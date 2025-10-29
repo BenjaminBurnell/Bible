@@ -5,23 +5,29 @@
   "verses": [
     {
       "verse": "1",
-      "text": " Make haste , O God, to deliver me;"
+      "text": "Make haste , O God, to deliver me; Make haste to help me, O LORD ."
     },
     {
       "verse": "2",
-      "text": "Let them be ashamed and confounded that seek after my soul:"
+      "text": "Let them be ashamed and confounded that seek after my soul: Let them be turned backward, and put to confusion, that desire my hurt."
     },
     {
       "verse": "3",
-      "text": "Let them be turned back for a reward of their shame"
+      "text": "Let them be turned back for a reward of their shame That say, Aha, aha."
     },
     {
       "verse": "4",
-      "text": "Let all those that seek thee rejoice and be glad in thee:"
+      "text": "Let all those that seek thee rejoice and be glad in thee: And let such as love thy salvation say continually, let God be magnified."
     },
     {
       "verse": "5",
-      "text": "But I am poor and needy;"
+      "text": "But I am poor and needy; Make haste unto me, O God: Thou art my help and my deliverer; O LORD , make no tarrying."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

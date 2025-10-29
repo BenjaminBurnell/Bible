@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "preaching God’s Kingdom and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

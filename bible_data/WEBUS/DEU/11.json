@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "You shall observe to do all the statutes and the ordinances which I set before you today."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

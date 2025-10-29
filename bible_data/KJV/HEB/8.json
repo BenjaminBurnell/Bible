@@ -33,27 +33,33 @@
     },
     {
       "verse": "8",
-      "text": "For finding fault with them, he saith,"
+      "text": "For finding fault with them, he saith, Behold, the days come, saith the Lord, When I will make a new covenant with the house of Israel and with the house of Judah:"
     },
     {
       "verse": "9",
-      "text": "Not according to the covenant that I made with their fathers"
+      "text": "Not according to the covenant that I made with their fathers In the day when I took them by the hand to lead them out of the land of Egypt; Because they continued not in my covenant, And I regarded them not, saith the Lord."
     },
     {
       "verse": "10",
-      "text": "For this is the covenant that I will make with the house of Israel"
+      "text": "For this is the covenant that I will make with the house of Israel After those days, saith the Lord; I will put my laws into their mind, And write them in their hearts: And I will be to them a God, And they shall be to me a people:"
     },
     {
       "verse": "11",
-      "text": "And they shall not teach every man his neighbour,"
+      "text": "And they shall not teach every man his neighbour, And every man his brother, saying, Know the Lord: For all shall know me, From the least to the greatest."
     },
     {
       "verse": "12",
-      "text": "For I will be merciful to their unrighteousness,"
+      "text": "For I will be merciful to their unrighteousness, And their sins and their iniquities will I remember no more."
     },
     {
       "verse": "13",
       "text": "In that he saith, A new covenant , he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -21,7 +21,7 @@
     },
     {
       "verse": "5",
-      "text": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD  is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
+      "text": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
     },
     {
       "verse": "6",
@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "The LORD  will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen."
+      "text": "The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen."
     },
     {
       "verse": "12",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "This is the rejoicing city that dwelt carelessly, that said in her heart, I am , and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

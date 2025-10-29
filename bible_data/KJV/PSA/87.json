@@ -13,23 +13,29 @@
     },
     {
       "verse": "3",
-      "text": "Glorious things are spoken of thee,"
+      "text": "Glorious things are spoken of thee, O city of God. Selah."
     },
     {
       "verse": "4",
-      "text": "I will make mention of Rahab and Babylon to them that know me:"
+      "text": "I will make mention of Rahab and Babylon to them that know me: Behold Philistia, and Tyre, with Ethiopia; This man was born there."
     },
     {
       "verse": "5",
-      "text": "And of Zion it shall be said, This and that man was born in her:"
+      "text": "And of Zion it shall be said, This and that man was born in her: And the highest himself shall establish her."
     },
     {
       "verse": "6",
-      "text": "The LORD shall count, when he writeth up the people,"
+      "text": "The LORD shall count, when he writeth up the people, That this man was born there. Selah."
     },
     {
       "verse": "7",
-      "text": "As well the singers as the players on instruments shall be there:"
+      "text": "As well the singers as the players on instruments shall be there: All my springs are in thee."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

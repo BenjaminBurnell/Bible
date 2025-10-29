@@ -9,7 +9,7 @@
     },
     {
       "verse": "2",
-      "text": "Therefore shall they have no inheritance among their brethren: the LORD  is their inheritance, as he hath said unto them."
+      "text": "Therefore shall they have no inheritance among their brethren: the LORD is their inheritance, as he hath said unto them."
     },
     {
       "verse": "3",
@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "When a prophet speaketh in the name of the LORD , if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

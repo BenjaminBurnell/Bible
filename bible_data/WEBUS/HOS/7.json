@@ -67,5 +67,11 @@
       "verse": "16",
       "text": "They return, but not to the Most High. They are like a faulty bow. Their princes will fall by the sword for the rage of their tongue. This will be their derision in the land of Egypt."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

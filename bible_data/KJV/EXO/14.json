@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD , and believed the LORD , and his servant Moses."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

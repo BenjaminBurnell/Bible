@@ -55,5 +55,11 @@
       "verse": "13",
       "text": "Arise and thresh, daughter of Zion, for I will make your horn iron, and I will make your hoofs bronze. You will beat in pieces many peoples. I will devote their gain to Yahweh, and their substance to the Lord of the whole earth."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

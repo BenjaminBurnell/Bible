@@ -203,5 +203,11 @@
       "verse": "50",
       "text": "He gives great deliverance to his king, and shows loving kindness to his anointed, to David and to his offspring, forever more."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

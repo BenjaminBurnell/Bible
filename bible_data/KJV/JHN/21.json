@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": "Jesus saith unto them, Bring of the fish which ye have now caught. "
+      "text": "Jesus saith unto them, Bring of the fish which ye have now caught."
     },
     {
       "verse": "11",
@@ -61,19 +61,19 @@
     },
     {
       "verse": "15",
-      "text": "So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. "
+      "text": "So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs."
     },
     {
       "verse": "16",
-      "text": "He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep. "
+      "text": "He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep."
     },
     {
       "verse": "17",
-      "text": "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep. "
+      "text": "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep."
     },
     {
       "verse": "18",
-      "text": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not. "
+      "text": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not."
     },
     {
       "verse": "19",
@@ -89,7 +89,7 @@
     },
     {
       "verse": "22",
-      "text": "Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me. "
+      "text": "Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me."
     },
     {
       "verse": "23",
@@ -103,5 +103,11 @@
       "verse": "25",
       "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

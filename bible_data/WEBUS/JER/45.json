@@ -23,5 +23,11 @@
       "verse": "5",
       "text": "Do you seek great things for yourself? Don’t seek them; for, behold, I will bring evil on all flesh,’ says Yahweh, ‘but I will let you escape with your life wherever you go.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -1,0 +1,41 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 54,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "God, because of your very nature, please save me! Vindicate me by your power!"
+    },
+    {
+      "verse": "2",
+      "text": "God, please hear my prayer; listen to what I'm saying."
+    },
+    {
+      "verse": "3",
+      "text": "For strangers are coming to attack me—violent men who don't care about God are trying to kill me. Selah."
+    },
+    {
+      "verse": "4",
+      "text": "But God helps me; the Lord saves my life!"
+    },
+    {
+      "verse": "5",
+      "text": "The evil my enemies have done will come back upon them. I depend on you to destroy them."
+    },
+    {
+      "verse": "6",
+      "text": "I will happily offer a sacrifice to you; I will praise the kind of person you are, Lord, for you are good."
+    },
+    {
+      "verse": "7",
+      "text": "For he has saved me from all my troubles; and I have seen those who hated me defeated."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

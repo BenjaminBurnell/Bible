@@ -9,11 +9,11 @@
     },
     {
       "verse": "2",
-      "text": "As it is written in the prophets,"
+      "text": "As it is written in the prophets, Behold, I send my messenger before thy face, Which shall prepare thy way before thee."
     },
     {
       "verse": "3",
-      "text": "The voice of one crying in the wilderness,"
+      "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, Make his paths straight."
     },
     {
       "verse": "4",
@@ -69,7 +69,7 @@
     },
     {
       "verse": "17",
-      "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men. "
+      "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men."
     },
     {
       "verse": "18",
@@ -101,7 +101,7 @@
     },
     {
       "verse": "25",
-      "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him. "
+      "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him."
     },
     {
       "verse": "26",
@@ -153,7 +153,7 @@
     },
     {
       "verse": "38",
-      "text": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth. "
+      "text": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth."
     },
     {
       "verse": "39",
@@ -165,7 +165,7 @@
     },
     {
       "verse": "41",
-      "text": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean. "
+      "text": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
     },
     {
       "verse": "42",
@@ -177,11 +177,17 @@
     },
     {
       "verse": "44",
-      "text": "and saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them. "
+      "text": "and saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
     },
     {
       "verse": "45",
       "text": "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

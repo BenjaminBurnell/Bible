@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "But if they will not obey, I will utterly pluck up and destroy that nation, saith the LORD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

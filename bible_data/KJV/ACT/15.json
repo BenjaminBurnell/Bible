@@ -65,11 +65,11 @@
     },
     {
       "verse": "16",
-      "text": "After this I will return,"
+      "text": "After this I will return, And will build again the tabernacle of David, which is fallen down; And I will build again the ruins thereof, And I will set it up:"
     },
     {
       "verse": "17",
-      "text": "That the residue of men might seek after the Lord,"
+      "text": "That the residue of men might seek after the Lord, And all the Gentiles, upon whom my name is called, Saith the Lord, who doeth all these things."
     },
     {
       "verse": "18",
@@ -167,5 +167,11 @@
       "verse": "41",
       "text": "And he went through Syria and Cilicia, confirming the churches."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

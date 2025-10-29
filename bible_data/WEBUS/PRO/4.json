@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "Don’t turn to the right hand nor to the left. Remove your foot from evil."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

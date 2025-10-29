@@ -109,7 +109,7 @@
     },
     {
       "verse": "27",
-      "text": "For it is written,"
+      "text": "For it is written, Rejoice, thou barren that bearest not; Break forth and cry, thou that travailest not: For the desolate hath many more children than she which hath an husband."
     },
     {
       "verse": "28",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "So then, brethren, we are not children of the bondwoman, but of the free."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

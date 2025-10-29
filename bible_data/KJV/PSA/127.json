@@ -5,23 +5,29 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Except the LORD build the house,"
+      "text": "Except the LORD build the house, They labour in vain that build it: Except the LORD keep the city, The watchman waketh but in vain."
     },
     {
       "verse": "2",
-      "text": " It is vain for you to rise up early, to sit up late, to eat the bread of sorrows:"
+      "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: For so he giveth his beloved sleep."
     },
     {
       "verse": "3",
-      "text": "Lo, children are an heritage of the LORD :"
+      "text": "Lo, children are an heritage of the LORD : And the fruit of the womb is his reward."
     },
     {
       "verse": "4",
-      "text": "As arrows are in the hand of a mighty man;"
+      "text": "As arrows are in the hand of a mighty man; So are children of the youth."
     },
     {
       "verse": "5",
-      "text": "Happy is the man that hath his quiver full of them:"
+      "text": "Happy is the man that hath his quiver full of them: They shall not be ashamed, but they shall speak with the enemies in the gate."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

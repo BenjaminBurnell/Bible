@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "While they were yet talking with him, the king’s eunuchs came, and hurried to bring Haman to the banquet that Esther had prepared."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

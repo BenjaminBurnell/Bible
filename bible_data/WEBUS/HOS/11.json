@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "Ephraim surrounds me with falsehood, and the house of Israel with deceit. Judah still strays from God, and is unfaithful to the Holy One."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

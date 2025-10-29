@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "And he shall take the two goats, and present them before the LORD  at the door of the tabernacle of the congregation."
+      "text": "And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation."
     },
     {
       "verse": "8",
@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

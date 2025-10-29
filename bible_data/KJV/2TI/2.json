@@ -107,5 +107,11 @@
       "verse": "26",
       "text": "and that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

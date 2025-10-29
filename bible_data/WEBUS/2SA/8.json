@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were chief ministers."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

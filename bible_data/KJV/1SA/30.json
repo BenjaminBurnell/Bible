@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "and to them which were in Hebron, and to all the places where David himself and his men were wont to haunt."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

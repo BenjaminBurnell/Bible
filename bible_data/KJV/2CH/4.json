@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "And Huram made the pots, and the shovels, and the basons."
+      "text": "And Huram made the pots, and the shovels, and the basons. And Huram finished the work that he was to make for king Solomon for the house of God;"
     },
     {
       "verse": "12",
@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "and the snuffers, and the basons, and the spoons, and the censers, of pure gold: and the entry of the house, the inner doors thereof for the most holy place , and the doors of the house of the temple, were of gold."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

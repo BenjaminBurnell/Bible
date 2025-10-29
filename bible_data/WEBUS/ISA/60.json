@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "The little one will become a thousand, and the small one a strong nation. I, Yahweh, will do this quickly in its time.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

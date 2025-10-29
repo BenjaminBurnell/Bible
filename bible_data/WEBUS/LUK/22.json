@@ -287,5 +287,11 @@
       "verse": "71",
       "text": "They said, “Why do we need any more witness? For we ourselves have heard from his own mouth!”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

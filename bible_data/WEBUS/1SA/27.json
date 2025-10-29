@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "Achish believed David, saying, “He has made his people Israel utterly to abhor him. Therefore he will be my servant forever.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

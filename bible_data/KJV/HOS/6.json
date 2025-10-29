@@ -47,5 +47,11 @@
       "verse": "11",
       "text": "Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

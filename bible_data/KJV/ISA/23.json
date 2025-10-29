@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse": "1",
-      "text": "The burden of Tyre."
+      "text": "The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them."
     },
     {
       "verse": "2",
@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "And her merchandise and her hire shall be holiness to the LORD : it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the LORD , to eat sufficiently, and for durable clothing."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

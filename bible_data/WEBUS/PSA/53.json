@@ -27,5 +27,11 @@
       "verse": "6",
       "text": "Oh that the salvation of Israel would come out of Zion! When God brings back his people from captivity, then Jacob shall rejoice, and Israel shall be glad."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

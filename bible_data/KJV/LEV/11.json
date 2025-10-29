@@ -191,5 +191,11 @@
       "verse": "47",
       "text": "to make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

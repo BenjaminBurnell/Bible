@@ -37,7 +37,7 @@
     },
     {
       "verse": "9",
-      "text": "Only rebel not ye against the LORD , neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD  is with us: fear them not."
+      "text": "Only rebel not ye against the LORD , neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not."
     },
     {
       "verse": "10",
@@ -57,7 +57,7 @@
     },
     {
       "verse": "14",
-      "text": "and they will tell it to the inhabitants of this land: for they have heard that thou LORD  art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night."
+      "text": "and they will tell it to the inhabitants of this land: for they have heard that thou LORD art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night."
     },
     {
       "verse": "15",
@@ -73,7 +73,7 @@
     },
     {
       "verse": "18",
-      "text": "The LORD  is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty , visiting the iniquity of the fathers upon the children unto the third and fourth generation ."
+      "text": "The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty , visiting the iniquity of the fathers upon the children unto the third and fourth generation ."
     },
     {
       "verse": "19",
@@ -169,7 +169,7 @@
     },
     {
       "verse": "42",
-      "text": "Go not up, for the LORD  is not among you; that ye be not smitten before your enemies."
+      "text": "Go not up, for the LORD is not among you; that ye be not smitten before your enemies."
     },
     {
       "verse": "43",
@@ -183,5 +183,11 @@
       "verse": "45",
       "text": "Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

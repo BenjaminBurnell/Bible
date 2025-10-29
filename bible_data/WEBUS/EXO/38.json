@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "the sockets around the court, the sockets of the gate of the court, all the pins of the tabernacle, and all the pins around the court."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

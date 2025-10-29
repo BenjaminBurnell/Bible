@@ -5,119 +5,125 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O give thanks unto the LORD ; for he is good:"
+      "text": "O give thanks unto the LORD ; for he is good: Because his mercy endureth for ever."
     },
     {
       "verse": "2",
-      "text": "Let Israel now say,"
+      "text": "Let Israel now say, That his mercy endureth for ever."
     },
     {
       "verse": "3",
-      "text": "Let the house of Aaron now say,"
+      "text": "Let the house of Aaron now say, That his mercy endureth for ever."
     },
     {
       "verse": "4",
-      "text": "Let them now that fear the LORD say,"
+      "text": "Let them now that fear the LORD say, That his mercy endureth for ever."
     },
     {
       "verse": "5",
-      "text": "I called upon the LORD in distress:"
+      "text": "I called upon the LORD in distress: The LORD answered me, and set me in a large place."
     },
     {
       "verse": "6",
-      "text": "The LORD  is on my side;"
+      "text": "The LORD is on my side; I will not fear: What can man do unto me?"
     },
     {
       "verse": "7",
-      "text": "The LORD taketh my part with them that help me:"
+      "text": "The LORD taketh my part with them that help me: Therefore shall I see my desire upon them that hate me."
     },
     {
       "verse": "8",
-      "text": " It is better to trust in the LORD"
+      "text": "It is better to trust in the LORD Than to put confidence in man."
     },
     {
       "verse": "9",
-      "text": " It is better to trust in the LORD"
+      "text": "It is better to trust in the LORD Than to put confidence in princes."
     },
     {
       "verse": "10",
-      "text": "All nations compassed me about:"
+      "text": "All nations compassed me about: But in the name of the LORD will I destroy them."
     },
     {
       "verse": "11",
-      "text": "They compassed me about; yea, they compassed me about:"
+      "text": "They compassed me about; yea, they compassed me about: But in the name of the LORD I will destroy them."
     },
     {
       "verse": "12",
-      "text": "They compassed me about like bees; they are quenched as the fire of thorns:"
+      "text": "They compassed me about like bees; they are quenched as the fire of thorns: For in the name of the LORD I will destroy them."
     },
     {
       "verse": "13",
-      "text": "Thou hast thrust sore at me that I might fall:"
+      "text": "Thou hast thrust sore at me that I might fall: But the LORD helped me."
     },
     {
       "verse": "14",
-      "text": "The LORD  is my strength and song,"
+      "text": "The LORD is my strength and song, And is become my salvation."
     },
     {
       "verse": "15",
-      "text": "The voice of rejoicing and salvation is in the tabernacles of the righteous:"
+      "text": "The voice of rejoicing and salvation is in the tabernacles of the righteous: The right hand of the LORD doeth valiantly."
     },
     {
       "verse": "16",
-      "text": "The right hand of the LORD is exalted:"
+      "text": "The right hand of the LORD is exalted: The right hand of the LORD doeth valiantly."
     },
     {
       "verse": "17",
-      "text": "I shall not die, but live,"
+      "text": "I shall not die, but live, And declare the works of the LORD ."
     },
     {
       "verse": "18",
-      "text": "The LORD hath chastened me sore:"
+      "text": "The LORD hath chastened me sore: But he hath not given me over unto death."
     },
     {
       "verse": "19",
-      "text": "Open to me the gates of righteousness:"
+      "text": "Open to me the gates of righteousness: I will go into them, and I will praise the LORD :"
     },
     {
       "verse": "20",
-      "text": "This gate of the LORD ,"
+      "text": "This gate of the LORD , Into which the righteous shall enter."
     },
     {
       "verse": "21",
-      "text": "I will praise thee: for thou hast heard me,"
+      "text": "I will praise thee: for thou hast heard me, And art become my salvation."
     },
     {
       "verse": "22",
-      "text": "The stone which the builders refused"
+      "text": "The stone which the builders refused Is become the head stone of the corner."
     },
     {
       "verse": "23",
-      "text": "This is the LORD 's doing;"
+      "text": "This is the LORD 's doing; It is marvellous in our eyes."
     },
     {
       "verse": "24",
-      "text": "This is the day which the LORD hath made;"
+      "text": "This is the day which the LORD hath made; We will rejoice and be glad in it."
     },
     {
       "verse": "25",
-      "text": "Save now, I beseech thee, O LORD :"
+      "text": "Save now, I beseech thee, O LORD : O LORD , I beseech thee, send now prosperity."
     },
     {
       "verse": "26",
-      "text": "Blessed be he that cometh in the name of the LORD :"
+      "text": "Blessed be he that cometh in the name of the LORD : We have blessed you out of the house of the LORD ."
     },
     {
       "verse": "27",
-      "text": "God is the LORD , which hath shewed us light:"
+      "text": "God is the LORD , which hath shewed us light: Bind the sacrifice with cords, even unto the horns of the altar."
     },
     {
       "verse": "28",
-      "text": "Thou art my God, and I will praise thee:"
+      "text": "Thou art my God, and I will praise thee: Thou art my God, I will exalt thee."
     },
     {
       "verse": "29",
-      "text": "O give thanks unto the LORD ; for he is good:"
+      "text": "O give thanks unto the LORD ; for he is good: For his mercy endureth for ever."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

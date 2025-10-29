@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "Your fathers went down into Egypt with seventy persons; and now Yahweh your God has made you as the stars of the sky for multitude."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

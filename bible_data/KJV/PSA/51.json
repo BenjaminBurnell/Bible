@@ -5,79 +5,85 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Have mercy upon me, O God, according to thy lovingkindness:"
+      "text": "Have mercy upon me, O God, according to thy lovingkindness: According unto the multitude of thy tender mercies blot out my transgressions."
     },
     {
       "verse": "2",
-      "text": "Wash me throughly from mine iniquity,"
+      "text": "Wash me throughly from mine iniquity, And cleanse me from my sin."
     },
     {
       "verse": "3",
-      "text": "For I acknowledge my transgressions:"
+      "text": "For I acknowledge my transgressions: And my sin is ever before me."
     },
     {
       "verse": "4",
-      "text": "Against thee, thee only, have I sinned, and done this evil in thy sight:"
+      "text": "Against thee, thee only, have I sinned, and done this evil in thy sight: That thou mightest be justified when thou speakest, and be clear when thou judgest."
     },
     {
       "verse": "5",
-      "text": "Behold, I was shapen in iniquity;"
+      "text": "Behold, I was shapen in iniquity; And in sin did my mother conceive me."
     },
     {
       "verse": "6",
-      "text": "Behold, thou desirest truth in the inward parts:"
+      "text": "Behold, thou desirest truth in the inward parts: And in the hidden part thou shalt make me to know wisdom."
     },
     {
       "verse": "7",
-      "text": "Purge me with hyssop, and I shall be clean:"
+      "text": "Purge me with hyssop, and I shall be clean: Wash me, and I shall be whiter than snow."
     },
     {
       "verse": "8",
-      "text": "Make me to hear joy and gladness;"
+      "text": "Make me to hear joy and gladness; That the bones which thou hast broken may rejoice."
     },
     {
       "verse": "9",
-      "text": "Hide thy face from my sins,"
+      "text": "Hide thy face from my sins, And blot out all mine iniquities."
     },
     {
       "verse": "10",
-      "text": "Create in me a clean heart, O God;"
+      "text": "Create in me a clean heart, O God; And renew a right spirit within me."
     },
     {
       "verse": "11",
-      "text": "Cast me not away from thy presence;"
+      "text": "Cast me not away from thy presence; And take not thy holy spirit from me."
     },
     {
       "verse": "12",
-      "text": "Restore unto me the joy of thy salvation;"
+      "text": "Restore unto me the joy of thy salvation; And uphold me with thy free spirit."
     },
     {
       "verse": "13",
-      "text": " Then will I teach transgressors thy ways;"
+      "text": "Then will I teach transgressors thy ways; And sinners shall be converted unto thee."
     },
     {
       "verse": "14",
-      "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation:"
+      "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: And my tongue shall sing aloud of thy righteousness."
     },
     {
       "verse": "15",
-      "text": "O Lord, open thou my lips;"
+      "text": "O Lord, open thou my lips; And my mouth shall shew forth thy praise."
     },
     {
       "verse": "16",
-      "text": "For thou desirest not sacrifice; else would I give it:"
+      "text": "For thou desirest not sacrifice; else would I give it: Thou delightest not in burnt offering."
     },
     {
       "verse": "17",
-      "text": "The sacrifices of God are a broken spirit:"
+      "text": "The sacrifices of God are a broken spirit: A broken and a contrite heart, O God, thou wilt not despise."
     },
     {
       "verse": "18",
-      "text": "Do good in thy good pleasure unto Zion:"
+      "text": "Do good in thy good pleasure unto Zion: Build thou the walls of Jerusalem."
     },
     {
       "verse": "19",
-      "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering:"
+      "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: Then shall they offer bullocks upon thine altar."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

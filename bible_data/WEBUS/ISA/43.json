@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "Therefore I will profane the princes of the sanctuary; and I will make Jacob a curse, and Israel an insult.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -1,0 +1,41 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 87,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "The Lord founded the city on his holy mountain."
+    },
+    {
+      "verse": "2",
+      "text": "Jerusalem is the city that the Lord loves more than any other city in Israel."
+    },
+    {
+      "verse": "3",
+      "text": "Many wonderful things are said of you, city of God! Selah."
+    },
+    {
+      "verse": "4",
+      "text": "I mention Egypt and Babylon as those who know me, and in addition Philistia, Tyre, and Ethiopia—“this man was born there.”"
+    },
+    {
+      "verse": "5",
+      "text": "It will be said concerning Jerusalem, “Everyone was born there,” and the Most High will make it secure."
+    },
+    {
+      "verse": "6",
+      "text": "When the Lord registers the nations, he will write, “They were born there.” Selah."
+    },
+    {
+      "verse": "7",
+      "text": "Singers and dancers alike say, “Living here I am at home.”"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

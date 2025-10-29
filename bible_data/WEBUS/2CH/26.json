@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "So Uzziah slept with his fathers; and they buried him with his fathers in the field of burial which belonged to the kings, for they said, “He is a leper.” Jotham his son reigned in his place."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

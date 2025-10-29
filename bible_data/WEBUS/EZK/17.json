@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "All the trees of the field will know that I, Yahweh, have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree flourish. “‘I, Yahweh, have spoken and have done it.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

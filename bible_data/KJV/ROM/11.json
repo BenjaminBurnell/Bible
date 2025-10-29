@@ -37,11 +37,11 @@
     },
     {
       "verse": "9",
-      "text": "And David saith,"
+      "text": "And David saith, Let their table be made a snare, and a trap, And a stumblingblock, and a recompence unto them:"
     },
     {
       "verse": "10",
-      "text": "Let their eyes be darkened, that they may not see,"
+      "text": "Let their eyes be darkened, that they may not see, And bow down their back alway."
     },
     {
       "verse": "11",
@@ -105,11 +105,11 @@
     },
     {
       "verse": "26",
-      "text": "And so all Israel shall be saved: as it is written,"
+      "text": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, And shall turn away ungodliness from Jacob:"
     },
     {
       "verse": "27",
-      "text": "For this is my covenant unto them,"
+      "text": "For this is my covenant unto them, When I shall take away their sins."
     },
     {
       "verse": "28",
@@ -147,5 +147,11 @@
       "verse": "36",
       "text": "For of him, and through him, and to him, are all things: to whom be glory for ever. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

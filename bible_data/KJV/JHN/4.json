@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink. "
+      "text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink."
     },
     {
       "verse": "8",
@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": "Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water. "
+      "text": "Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water."
     },
     {
       "verse": "11",
@@ -53,11 +53,11 @@
     },
     {
       "verse": "13",
-      "text": "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again: "
+      "text": "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:"
     },
     {
       "verse": "14",
-      "text": "but whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life. "
+      "text": "but whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life."
     },
     {
       "verse": "15",
@@ -65,15 +65,15 @@
     },
     {
       "verse": "16",
-      "text": "Jesus saith unto her, Go, call thy husband, and come hither. "
+      "text": "Jesus saith unto her, Go, call thy husband, and come hither."
     },
     {
       "verse": "17",
-      "text": "The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband: "
+      "text": "The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:"
     },
     {
       "verse": "18",
-      "text": "for thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly. "
+      "text": "for thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly."
     },
     {
       "verse": "19",
@@ -85,19 +85,19 @@
     },
     {
       "verse": "21",
-      "text": "Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. "
+      "text": "Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father."
     },
     {
       "verse": "22",
-      "text": "Ye worship ye know not what: we know what we worship: for salvation is of the Jews. "
+      "text": "Ye worship ye know not what: we know what we worship: for salvation is of the Jews."
     },
     {
       "verse": "23",
-      "text": "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him. "
+      "text": "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."
     },
     {
       "verse": "24",
-      "text": "God is a Spirit: and they that worship him must worship him in spirit and in truth. "
+      "text": "God is a Spirit: and they that worship him must worship him in spirit and in truth."
     },
     {
       "verse": "25",
@@ -129,7 +129,7 @@
     },
     {
       "verse": "32",
-      "text": "But he said unto them, I have meat to eat that ye know not of. "
+      "text": "But he said unto them, I have meat to eat that ye know not of."
     },
     {
       "verse": "33",
@@ -137,19 +137,19 @@
     },
     {
       "verse": "34",
-      "text": "Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work. "
+      "text": "Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work."
     },
     {
       "verse": "35",
-      "text": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest. "
+      "text": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest."
     },
     {
       "verse": "36",
-      "text": "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together. "
+      "text": "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together."
     },
     {
       "verse": "37",
-      "text": "And herein is that saying true, One soweth, and another reapeth. "
+      "text": "And herein is that saying true, One soweth, and another reapeth."
     },
     {
       "verse": "38",
@@ -193,7 +193,7 @@
     },
     {
       "verse": "48",
-      "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe. "
+      "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe."
     },
     {
       "verse": "49",
@@ -219,5 +219,11 @@
       "verse": "54",
       "text": "This is again the second miracle that Jesus did, when he was come out of Judæa into Galilee."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

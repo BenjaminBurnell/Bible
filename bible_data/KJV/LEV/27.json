@@ -65,7 +65,7 @@
     },
     {
       "verse": "16",
-      "text": "And if a man shall sanctify unto the LORD  some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
+      "text": "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
     },
     {
       "verse": "17",
@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

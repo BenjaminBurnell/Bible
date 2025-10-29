@@ -1,0 +1,49 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 8,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "LORD , our Lord, how majestic is your name in all the earth! You have set your glory above the heavens!"
+    },
+    {
+      "verse": "2",
+      "text": "From the lips of babes and infants you have established strength, because of your adversaries, that you might silence the enemy and the avenger."
+    },
+    {
+      "verse": "3",
+      "text": "When I consider your heavens, the work of your fingers, the moon and the stars, which you have ordained ,"
+    },
+    {
+      "verse": "4",
+      "text": "what is man , that you think of him ? What is the son of man , that you care for him ?"
+    },
+    {
+      "verse": "5",
+      "text": "For you have made him a little lower than the angels, and crowned him with glory and honour."
+    },
+    {
+      "verse": "6",
+      "text": "You make him ruler over the works of your hands. You have put all things under his feet:"
+    },
+    {
+      "verse": "7",
+      "text": "All sheep and cattle, yes, and the animals of the field,"
+    },
+    {
+      "verse": "8",
+      "text": "the birds of the sky, the fish of the sea, and whatever passes through the paths of the seas."
+    },
+    {
+      "verse": "9",
+      "text": "LORD , our Lord, how majestic is your name in all the earth !"
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

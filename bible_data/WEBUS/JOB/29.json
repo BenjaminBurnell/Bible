@@ -103,5 +103,11 @@
       "verse": "25",
       "text": "I chose out their way, and sat as chief. I lived as a king in the army, as one who comforts the mourners."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

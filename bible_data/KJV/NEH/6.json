@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "Also they reported his good deeds before me, and uttered my words to him. And Tobiah sent letters to put me in fear."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

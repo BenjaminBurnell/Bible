@@ -133,7 +133,7 @@
     },
     {
       "verse": "33",
-      "text": " As I live, saith the Lord GOD , surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:"
+      "text": "As I live, saith the Lord GOD , surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:"
     },
     {
       "verse": "34",
@@ -199,5 +199,11 @@
       "verse": "49",
       "text": "Then said I, Ah Lord GOD ! they say of me, Doth he not speak parables?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

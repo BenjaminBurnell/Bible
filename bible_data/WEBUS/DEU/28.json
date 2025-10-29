@@ -275,5 +275,11 @@
       "verse": "68",
       "text": "Yahweh will bring you into Egypt again with ships, by the way of which I told you that you would never see it again. There you will offer yourselves to your enemies for male and female slaves, and nobody will buy you."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

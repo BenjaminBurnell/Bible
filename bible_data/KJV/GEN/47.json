@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

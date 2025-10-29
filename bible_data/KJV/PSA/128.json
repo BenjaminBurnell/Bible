@@ -5,11 +5,11 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Blessed is every one that feareth the LORD ;"
+      "text": "Blessed is every one that feareth the LORD ; That walketh in his ways."
     },
     {
       "verse": "2",
-      "text": "For thou shalt eat the labour of thine hands:"
+      "text": "For thou shalt eat the labour of thine hands: Happy shalt thou be , and it shall be well with thee."
     },
     {
       "verse": "3",
@@ -21,11 +21,17 @@
     },
     {
       "verse": "5",
-      "text": "The LORD shall bless thee out of Zion:"
+      "text": "The LORD shall bless thee out of Zion: And thou shalt see the good of Jerusalem all the days of thy life."
     },
     {
       "verse": "6",
-      "text": "Yea, thou shalt see thy children's children,"
+      "text": "Yea, thou shalt see thy children's children, And peace upon Israel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -13,7 +13,7 @@
     },
     {
       "verse": "3",
-      "text": "And his master saw that the LORD  was with him, and that the LORD made all that he did to prosper in his hand."
+      "text": "And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand."
     },
     {
       "verse": "4",
@@ -95,5 +95,11 @@
       "verse": "23",
       "text": "The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

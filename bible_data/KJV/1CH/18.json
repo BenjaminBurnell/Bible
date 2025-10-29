@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

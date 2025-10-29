@@ -1,0 +1,37 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 126,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "When the Lord brought his people back from captivity to Zion, it was as if we were dreaming!"
+    },
+    {
+      "verse": "2",
+      "text": "We laughed so much, we sang for joy. The other nations said, “The Lord has done wonderful things for these people.”"
+    },
+    {
+      "verse": "3",
+      "text": "The Lord certainly has done wonderful things for us. How happy we were!"
+    },
+    {
+      "verse": "4",
+      "text": "Please return and help us again, Lord. Renew us like streams of water that renew the Negev desert."
+    },
+    {
+      "verse": "5",
+      "text": "Those who sow in tears will reap with shouts of joy!"
+    },
+    {
+      "verse": "6",
+      "text": "Those who weep as they go out to sow their seed will be singing in celebration when they carry the harvest home."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 150,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Praise the Lord! Praise God in his holy place! Praise him in the great expanse of heaven!"
+    },
+    {
+      "verse": "2",
+      "text": "Praise him for the amazing things he does! Praise him for how wonderfully great he is!"
+    },
+    {
+      "verse": "3",
+      "text": "Praise him with the sound of the trumpet, praise him with harp and lyre!"
+    },
+    {
+      "verse": "4",
+      "text": "Praise him with tambourine and dancing, praise him with strings and flutes!"
+    },
+    {
+      "verse": "5",
+      "text": "Praise him with the clash of cymbals, praise him with really loud cymbals!"
+    },
+    {
+      "verse": "6",
+      "text": "Let everything that breathes praise the Lord! Praise the Lord!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

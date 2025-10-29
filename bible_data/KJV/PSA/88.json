@@ -13,67 +13,73 @@
     },
     {
       "verse": "3",
-      "text": "For my soul is full of troubles:"
+      "text": "For my soul is full of troubles: And my life draweth nigh unto the grave."
     },
     {
       "verse": "4",
-      "text": "I am counted with them that go down into the pit:"
+      "text": "I am counted with them that go down into the pit: I am as a man that hath no strength:"
     },
     {
       "verse": "5",
-      "text": "Free among the dead, like the slain that lie in the grave,"
+      "text": "Free among the dead, like the slain that lie in the grave, Whom thou rememberest no more: And they are cut off from thy hand."
     },
     {
       "verse": "6",
-      "text": "Thou hast laid me in the lowest pit,"
+      "text": "Thou hast laid me in the lowest pit, In darkness, in the deeps."
     },
     {
       "verse": "7",
-      "text": "Thy wrath lieth hard upon me,"
+      "text": "Thy wrath lieth hard upon me, And thou hast afflicted me with all thy waves. Selah."
     },
     {
       "verse": "8",
-      "text": "Thou hast put away mine acquaintance far from me;"
+      "text": "Thou hast put away mine acquaintance far from me; Thou hast made me an abomination unto them: I am shut up, And I cannot come forth."
     },
     {
       "verse": "9",
-      "text": "Mine eye mourneth by reason of affliction:"
+      "text": "Mine eye mourneth by reason of affliction: LORD , I have called daily upon thee, I have stretched out my hands unto thee."
     },
     {
       "verse": "10",
-      "text": "Wilt thou shew wonders to the dead?"
+      "text": "Wilt thou shew wonders to the dead? Shall the dead arise and praise thee? Selah."
     },
     {
       "verse": "11",
-      "text": "Shall thy lovingkindness be declared in the grave?"
+      "text": "Shall thy lovingkindness be declared in the grave? Or thy faithfulness in destruction?"
     },
     {
       "verse": "12",
-      "text": "Shall thy wonders be known in the dark?"
+      "text": "Shall thy wonders be known in the dark? And thy righteousness in the land of forgetfulness?"
     },
     {
       "verse": "13",
-      "text": "But unto thee have I cried, O LORD ;"
+      "text": "But unto thee have I cried, O LORD ; And in the morning shall my prayer prevent thee."
     },
     {
       "verse": "14",
-      "text": " LORD , why castest thou off my soul?"
+      "text": "LORD , why castest thou off my soul? Why hidest thou thy face from me?"
     },
     {
       "verse": "15",
-      "text": "I am afflicted and ready to die"
+      "text": "I am afflicted and ready to die From my youth up: While I suffer thy terrors I am distracted."
     },
     {
       "verse": "16",
-      "text": "Thy fierce wrath goeth over me;"
+      "text": "Thy fierce wrath goeth over me; Thy terrors have cut me off."
     },
     {
       "verse": "17",
-      "text": "They came round about me daily like water;"
+      "text": "They came round about me daily like water; They compassed me about together."
     },
     {
       "verse": "18",
-      "text": "Lover and friend hast thou put far from me,"
+      "text": "Lover and friend hast thou put far from me, And mine acquaintance into darkness."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -25,15 +25,15 @@
     },
     {
       "verse": "6",
-      "text": "Then Jesus said unto them, My time is not yet come: but your time is alway ready. "
+      "text": "Then Jesus said unto them, My time is not yet come: but your time is alway ready."
     },
     {
       "verse": "7",
-      "text": "The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil. "
+      "text": "The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil."
     },
     {
       "verse": "8",
-      "text": "Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come. "
+      "text": "Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come."
     },
     {
       "verse": "9",
@@ -65,19 +65,19 @@
     },
     {
       "verse": "16",
-      "text": "Jesus answered them, and said, My doctrine is not mine, but his that sent me. "
+      "text": "Jesus answered them, and said, My doctrine is not mine, but his that sent me."
     },
     {
       "verse": "17",
-      "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself. "
+      "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
     },
     {
       "verse": "18",
-      "text": "He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him. "
+      "text": "He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him."
     },
     {
       "verse": "19",
-      "text": "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me? "
+      "text": "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?"
     },
     {
       "verse": "20",
@@ -85,15 +85,15 @@
     },
     {
       "verse": "21",
-      "text": "Jesus answered and said unto them, I have done one work, and ye all marvel. "
+      "text": "Jesus answered and said unto them, I have done one work, and ye all marvel."
     },
     {
       "verse": "22",
-      "text": "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man. "
+      "text": "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man."
     },
     {
       "verse": "23",
-      "text": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day? "
+      "text": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?"
     },
     {
       "verse": "24",
@@ -113,11 +113,11 @@
     },
     {
       "verse": "28",
-      "text": "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not. "
+      "text": "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not."
     },
     {
       "verse": "29",
-      "text": "But I know him: for I am from him, and he hath sent me. "
+      "text": "But I know him: for I am from him, and he hath sent me."
     },
     {
       "verse": "30",
@@ -133,11 +133,11 @@
     },
     {
       "verse": "33",
-      "text": "Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me. "
+      "text": "Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me."
     },
     {
       "verse": "34",
-      "text": "Ye shall seek me, and shall not find me : and where I am, thither ye cannot come. "
+      "text": "Ye shall seek me, and shall not find me : and where I am, thither ye cannot come."
     },
     {
       "verse": "35",
@@ -149,11 +149,11 @@
     },
     {
       "verse": "37",
-      "text": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink. "
+      "text": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink."
     },
     {
       "verse": "38",
-      "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water. "
+      "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water."
     },
     {
       "verse": "39",
@@ -215,5 +215,11 @@
       "verse": "53",
       "text": "And every man went unto his own house."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

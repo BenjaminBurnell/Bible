@@ -25,15 +25,15 @@
     },
     {
       "verse": "6",
-      "text": "But one in a certain place testified, saying,"
+      "text": "But one in a certain place testified, saying, What is man, that thou art mindful of him? Or the son of man, that thou visitest him?"
     },
     {
       "verse": "7",
-      "text": "Thou madest him a little lower than the angels;"
+      "text": "Thou madest him a little lower than the angels; Thou crownedst him with glory and honour, And didst set him over the works of thy hands:"
     },
     {
       "verse": "8",
-      "text": "Thou hast put all things in subjection under his feet."
+      "text": "Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him."
     },
     {
       "verse": "9",
@@ -49,7 +49,7 @@
     },
     {
       "verse": "12",
-      "text": "saying,"
+      "text": "saying, I will declare thy name unto my brethren, In the midst of the church will I sing praise unto thee."
     },
     {
       "verse": "13",
@@ -75,5 +75,11 @@
       "verse": "18",
       "text": "For in that he himself hath suffered being tempted, he is able to succour them that are tempted."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

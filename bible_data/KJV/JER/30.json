@@ -99,5 +99,11 @@
       "verse": "24",
       "text": "The fierce anger of the LORD shall not return, until he have done it , and until he have performed the intents of his heart: in the latter days ye shall consider it."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

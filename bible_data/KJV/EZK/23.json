@@ -173,7 +173,7 @@
     },
     {
       "verse": "43",
-      "text": "Then said I unto her that was old in adulteries, Will they now commit whoredoms with her, and she with them? "
+      "text": "Then said I unto her that was old in adulteries, Will they now commit whoredoms with her, and she with them?"
     },
     {
       "verse": "44",
@@ -199,5 +199,11 @@
       "verse": "49",
       "text": "And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I am the Lord GOD ."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

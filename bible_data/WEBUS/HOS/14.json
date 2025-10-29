@@ -39,5 +39,11 @@
       "verse": "9",
       "text": "Who is wise, that he may understand these things? Who is prudent, that he may know them? For the ways of Yahweh are right, and the righteous walk in them, but the rebellious stumble in them."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

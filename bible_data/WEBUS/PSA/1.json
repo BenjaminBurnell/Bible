@@ -27,5 +27,11 @@
       "verse": "6",
       "text": "For Yahweh knows the way of the righteous, but the way of the wicked shall perish."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

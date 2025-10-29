@@ -291,5 +291,11 @@
       "verse": "72",
       "text": "The rooster crowed the second time. Peter remembered the words that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

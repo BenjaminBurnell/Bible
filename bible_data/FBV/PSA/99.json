@@ -1,0 +1,49 @@
+{
+  "version": "FBV",
+  "book": "PSA",
+  "chapter": 99,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "The Lord reigns; let the nations tremble! He sits on his throne above the cherubim; let the earth shake!"
+    },
+    {
+      "verse": "2",
+      "text": "The Lord rules supreme in Zion, he is sovereign over all the nations."
+    },
+    {
+      "verse": "3",
+      "text": "Let them praise his greatness, and respect him for who he is—for he is holy,"
+    },
+    {
+      "verse": "4",
+      "text": "having kingly power. You love justice; you make impartial decisions. You have made sure everything is done in fairness and according to what's right."
+    },
+    {
+      "verse": "5",
+      "text": "Give respect to the Lord our God! Bow down at his feet, for he is holy!"
+    },
+    {
+      "verse": "6",
+      "text": "Moses and Aaron were among his priests; Samuel also prayed to him. They called out to the Lord for help, and he answered them."
+    },
+    {
+      "verse": "7",
+      "text": "He spoke to the people from the pillar of cloud, and they kept the laws and decrees he gave them."
+    },
+    {
+      "verse": "8",
+      "text": "Lord our God, you answered them. You were a forgiving God to them, but you punished them when they did wrong."
+    },
+    {
+      "verse": "9",
+      "text": "Honor the Lord our God, and worship at his holy mountain. For the Lord our God is holy!"
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

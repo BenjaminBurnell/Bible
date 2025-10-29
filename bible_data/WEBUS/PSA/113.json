@@ -39,5 +39,11 @@
       "verse": "9",
       "text": "He settles the barren woman in her home as a joyful mother of children. Praise Yah!"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

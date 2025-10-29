@@ -159,5 +159,11 @@
       "verse": "39",
       "text": "King David longed to go out to Absalom, for he was comforted concerning Amnon, since he was dead."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

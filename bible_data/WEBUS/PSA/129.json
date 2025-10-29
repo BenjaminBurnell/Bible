@@ -35,5 +35,11 @@
       "verse": "8",
       "text": "Neither do those who go by say, “The blessing of Yahweh be on you. We bless you in Yahweh’s name.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying,"
+      "text": "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, And David his ten thousands?"
     },
     {
       "verse": "12",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Have I need of mad men, that ye have brought this fellow to play the mad man in my presence? shall this fellow come into my house?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

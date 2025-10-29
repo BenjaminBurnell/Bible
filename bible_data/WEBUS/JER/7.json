@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "Then I will cause to cease from the cities of Judah and from the streets of Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land will become a waste.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

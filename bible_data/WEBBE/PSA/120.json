@@ -1,0 +1,41 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 120,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "In my distress , I cried to the LORD . He answered me ."
+    },
+    {
+      "verse": "2",
+      "text": "Deliver my soul , LORD , from lying lips , from a deceitful tongue ."
+    },
+    {
+      "verse": "3",
+      "text": "What will be given to you , and what will be done more to you , you deceitful tongue ?"
+    },
+    {
+      "verse": "4",
+      "text": "Sharp arrows of the mighty , with coals of juniper ."
+    },
+    {
+      "verse": "5",
+      "text": "Woe is me , that I live in Meshech , that I dwell amongst the tents of Kedar !"
+    },
+    {
+      "verse": "6",
+      "text": "My soul has had her dwelling too long with him who hates peace ."
+    },
+    {
+      "verse": "7",
+      "text": "I am for peace , but when I speak , they are for war ."
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

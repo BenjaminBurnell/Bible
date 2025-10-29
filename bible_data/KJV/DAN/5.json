@@ -41,7 +41,7 @@
     },
     {
       "verse": "10",
-      "text": " Now the queen by reason of the words of the king and his lords came into the banquet house: and the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:"
+      "text": "Now the queen by reason of the words of the king and his lords came into the banquet house: and the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:"
     },
     {
       "verse": "11",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "And Darius the Median took the kingdom, being about threescore and two years old."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

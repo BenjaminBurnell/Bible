@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "and after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king's army was Joab."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

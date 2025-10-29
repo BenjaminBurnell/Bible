@@ -183,5 +183,11 @@
       "verse": "45",
       "text": "He will plant the tents of his palace between the sea and the glorious holy mountain; yet he will come to his end, and no one will help him."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

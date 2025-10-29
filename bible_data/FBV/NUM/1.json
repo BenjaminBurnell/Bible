@@ -1,0 +1,229 @@
+{
+  "version": "FBV",
+  "book": "NUM",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "The Lord spoke to Moses in the Tent of Meeting while they were in the Sinai desert. This was on the first day of the second month of the second year after the Israelites had left Egypt. He told him,"
+    },
+    {
+      "verse": "2",
+      "text": "“Census all the Israelites according to their tribe and family. Count every man and keep a record of each individual's name."
+    },
+    {
+      "verse": "3",
+      "text": "Those aged twenty or older who can do military service are to be registered by you and Aaron in their Israelite army divisions."
+    },
+    {
+      "verse": "4",
+      "text": "A representative from each tribe, the head of a family, must be there with you."
+    },
+    {
+      "verse": "5",
+      "text": "These are the names of the men who will work with you: From the tribe of Reuben, Elizur, son of Shedeur;"
+    },
+    {
+      "verse": "6",
+      "text": "from the tribe of Simeon, Shelumiel, son of Zurishaddai;"
+    },
+    {
+      "verse": "7",
+      "text": "from the tribe of Judah, Nahshon, son of Amminadab;"
+    },
+    {
+      "verse": "8",
+      "text": "from the tribe of Issachar, Nethanel, son of Zuar;"
+    },
+    {
+      "verse": "9",
+      "text": "from the tribe of Zebulun, Eliab, son of Helon;"
+    },
+    {
+      "verse": "10",
+      "text": "from the sons of Joseph: from the tribe of Ephraim, Elishama, son of Ammihud, and from the tribe of Manasseh, Gamaliel, son of Pedahzur;"
+    },
+    {
+      "verse": "11",
+      "text": "from the tribe of Benjamin, Abidan, son of Gideoni;"
+    },
+    {
+      "verse": "12",
+      "text": "from the tribe of Dan, Ahiezer, son of Ammishaddai;"
+    },
+    {
+      "verse": "13",
+      "text": "from the tribe of Asher, Pagiel, son of Ocran;"
+    },
+    {
+      "verse": "14",
+      "text": "from the tribe of Gad, Eliasaph, son of Deuel;"
+    },
+    {
+      "verse": "15",
+      "text": "and from the tribe of Naphtali, Ahira, son of Enan.”"
+    },
+    {
+      "verse": "16",
+      "text": "These were the men chosen from the Israelite community. They were the leaders of their fathers' tribes; the heads of the families of Israel."
+    },
+    {
+      "verse": "17",
+      "text": "Moses and Aaron summoned these men who had been selected by name."
+    },
+    {
+      "verse": "18",
+      "text": "They had all the Israelites gather together on the first day of the second month, and recorded the people's genealogy according to their tribe and family, and counted up the names of all those aged twenty or older,"
+    },
+    {
+      "verse": "19",
+      "text": "as the Lord had told Moses to do. Moses conducted this census in the Sinai desert."
+    },
+    {
+      "verse": "20",
+      "text": "The descendants of Reuben (he was Israel's firstborn son), men aged twenty or over, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "21",
+      "text": "from the tribe of Reuben totaled 46,500."
+    },
+    {
+      "verse": "22",
+      "text": "The descendants of Simeon, men aged twenty or over, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "23",
+      "text": "from the tribe of Simeon totaled 59,300."
+    },
+    {
+      "verse": "24",
+      "text": "The descendants of Gad, men aged twenty or over, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "25",
+      "text": "from the tribe of Gad totaled 45,650."
+    },
+    {
+      "verse": "26",
+      "text": "The descendants of Judah, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "27",
+      "text": "from the tribe of Judah, totaled 74,600."
+    },
+    {
+      "verse": "28",
+      "text": "The descendants of Issachar, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "29",
+      "text": "from the tribe of Issachar, totaled 54,400."
+    },
+    {
+      "verse": "30",
+      "text": "The descendants of Zebulun, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "31",
+      "text": "from the tribe of Zebulun, totaled 57,400."
+    },
+    {
+      "verse": "32",
+      "text": "The descendants of Joseph: the descendants of Ephraim, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "33",
+      "text": "from the tribe of Ephraim, totaled 40,500."
+    },
+    {
+      "verse": "34",
+      "text": "And the descendants of Manasseh, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "35",
+      "text": "from the tribe of Manasseh, totaled 32,200."
+    },
+    {
+      "verse": "36",
+      "text": "The descendants of Benjamin, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "37",
+      "text": "from the tribe of Benjamin, totaled 35,400."
+    },
+    {
+      "verse": "38",
+      "text": "The descendants of Dan, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "39",
+      "text": "from the tribe of Dan, totaled 62,700."
+    },
+    {
+      "verse": "40",
+      "text": "The descendants of Asher, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "41",
+      "text": "from the tribe of Asher, totaled 41,500."
+    },
+    {
+      "verse": "42",
+      "text": "The descendants of Naphtali, men aged twenty or older, were recorded by name according to the genealogical records of their tribe and families. All those registered who could serve in the army"
+    },
+    {
+      "verse": "43",
+      "text": "from the tribe of Naphtali, totaled 53,400."
+    },
+    {
+      "verse": "44",
+      "text": "These were the totals of the men counted and registered by Moses and Aaron, with the help of the twelve leaders of Israel, who each represented their family."
+    },
+    {
+      "verse": "45",
+      "text": "In this way all the Israelite men aged twenty or older who were able to serve in Israel's army were registered according to their families."
+    },
+    {
+      "verse": "46",
+      "text": "The sum total of those registered was 603,550."
+    },
+    {
+      "verse": "47",
+      "text": "However, the Levites were not registered with the others according to their tribe and families."
+    },
+    {
+      "verse": "48",
+      "text": "This was because the Lord had told Moses,"
+    },
+    {
+      "verse": "49",
+      "text": "“Don't register the tribe of Levi; don't count them in the census with the other Israelites."
+    },
+    {
+      "verse": "50",
+      "text": "Put the Levites in charge of the Tabernacle and of the Testimony, as well as all its furniture and everything it contains. They are the ones responsible for carrying the Tabernacle and all its items. They are to care for it, and to make their camp around it."
+    },
+    {
+      "verse": "51",
+      "text": "When it's time to move the Tabernacle, the Levites shall take it down, and when it's time to make camp, the Levites shall put it up. Any outsider who goes near it must be put to death."
+    },
+    {
+      "verse": "52",
+      "text": "The Israelites are to make camp according to their tribal divisions, each person in their own camp under their own flag."
+    },
+    {
+      "verse": "53",
+      "text": "But the Levites are to set up their camp around the Tabernacle of the Testimony to prevent anyone from making me angry with the Israelites. The Levites are responsible for looking after the Tabernacle of the Testimony.”"
+    },
+    {
+      "verse": "54",
+      "text": "The Israelites did everything that the Lord ordered Moses that they should do."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

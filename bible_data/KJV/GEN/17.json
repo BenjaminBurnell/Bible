@@ -111,5 +111,11 @@
       "verse": "27",
       "text": "And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

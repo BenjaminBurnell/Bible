@@ -79,5 +79,11 @@
       "verse": "19",
       "text": "They will fight against you, but they will not prevail against you; for I am with you”, says Yahweh, “to rescue you.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

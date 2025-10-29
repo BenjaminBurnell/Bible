@@ -151,5 +151,11 @@
       "verse": "37",
       "text": "You will also leave that place with your hands on your head; for Yahweh has rejected those in whom you trust, and you won’t prosper with them."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

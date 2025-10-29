@@ -33,119 +33,119 @@
     },
     {
       "verse": "8",
-      "text": "Give thanks unto the LORD , call upon his name,"
+      "text": "Give thanks unto the LORD , call upon his name, Make known his deeds among the people."
     },
     {
       "verse": "9",
-      "text": "Sing unto him, sing psalms unto him,"
+      "text": "Sing unto him, sing psalms unto him, Talk ye of all his wondrous works."
     },
     {
       "verse": "10",
-      "text": "Glory ye in his holy name:"
+      "text": "Glory ye in his holy name: Let the heart of them rejoice that seek the LORD ."
     },
     {
       "verse": "11",
-      "text": "Seek the LORD and his strength,"
+      "text": "Seek the LORD and his strength, Seek his face continually."
     },
     {
       "verse": "12",
-      "text": "Remember his marvellous works that he hath done,"
+      "text": "Remember his marvellous works that he hath done, His wonders, and the judgments of his mouth;"
     },
     {
       "verse": "13",
-      "text": "O ye seed of Israel his servant,"
+      "text": "O ye seed of Israel his servant, Ye children of Jacob, his chosen ones."
     },
     {
       "verse": "14",
-      "text": "He is the LORD our God;"
+      "text": "He is the LORD our God; His judgments are in all the earth."
     },
     {
       "verse": "15",
-      "text": "Be ye mindful always of his covenant;"
+      "text": "Be ye mindful always of his covenant; The word which he commanded to a thousand generations;"
     },
     {
       "verse": "16",
-      "text": " Even of the covenant which he made with Abraham,"
+      "text": "Even of the covenant which he made with Abraham, And of his oath unto Isaac;"
     },
     {
       "verse": "17",
-      "text": "And hath confirmed the same to Jacob for a law,"
+      "text": "And hath confirmed the same to Jacob for a law, And to Israel for an everlasting covenant,"
     },
     {
       "verse": "18",
-      "text": "Saying, Unto thee will I give the land of Canaan,"
+      "text": "Saying, Unto thee will I give the land of Canaan, The lot of your inheritance;"
     },
     {
       "verse": "19",
-      "text": "When ye were but few,"
+      "text": "When ye were but few, Even a few, and strangers in it."
     },
     {
       "verse": "20",
-      "text": "And when they went from nation to nation,"
+      "text": "And when they went from nation to nation, And from one kingdom to another people;"
     },
     {
       "verse": "21",
-      "text": "He suffered no man to do them wrong:"
+      "text": "He suffered no man to do them wrong: Yea, he reproved kings for their sakes,"
     },
     {
       "verse": "22",
-      "text": " Saying , Touch not mine anointed,"
+      "text": "Saying , Touch not mine anointed, And do my prophets no harm."
     },
     {
       "verse": "23",
-      "text": "Sing unto the LORD , all the earth;"
+      "text": "Sing unto the LORD , all the earth; Shew forth from day to day his salvation."
     },
     {
       "verse": "24",
-      "text": "Declare his glory among the heathen;"
+      "text": "Declare his glory among the heathen; His marvellous works among all nations."
     },
     {
       "verse": "25",
-      "text": "For great is the LORD , and greatly to be praised:"
+      "text": "For great is the LORD , and greatly to be praised: He also is to be feared above all gods."
     },
     {
       "verse": "26",
-      "text": "For all the gods of the people are idols:"
+      "text": "For all the gods of the people are idols: But the LORD made the heavens."
     },
     {
       "verse": "27",
-      "text": "Glory and honour are in his presence;"
+      "text": "Glory and honour are in his presence; Strength and gladness are in his place."
     },
     {
       "verse": "28",
-      "text": "Give unto the LORD , ye kindreds of the people,"
+      "text": "Give unto the LORD , ye kindreds of the people, Give unto the LORD glory and strength."
     },
     {
       "verse": "29",
-      "text": "Give unto the LORD the glory due unto his name:"
+      "text": "Give unto the LORD the glory due unto his name: Bring an offering, and come before him: Worship the LORD in the beauty of holiness."
     },
     {
       "verse": "30",
-      "text": "Fear before him, all the earth:"
+      "text": "Fear before him, all the earth: The world also shall be stable, that it be not moved."
     },
     {
       "verse": "31",
-      "text": "Let the heavens be glad, and let the earth rejoice:"
+      "text": "Let the heavens be glad, and let the earth rejoice: And let men say among the nations, The LORD reigneth."
     },
     {
       "verse": "32",
-      "text": "Let the sea roar, and the fulness thereof:"
+      "text": "Let the sea roar, and the fulness thereof: Let the fields rejoice, and all that is therein."
     },
     {
       "verse": "33",
-      "text": "Then shall the trees of the wood sing out at the presence of the LORD ,"
+      "text": "Then shall the trees of the wood sing out at the presence of the LORD , Because he cometh to judge the earth."
     },
     {
       "verse": "34",
-      "text": "O give thanks unto the LORD ; for he is good;"
+      "text": "O give thanks unto the LORD ; for he is good; For his mercy endureth for ever."
     },
     {
       "verse": "35",
-      "text": "And say ye, Save us, O God of our salvation,"
+      "text": "And say ye, Save us, O God of our salvation, And gather us together, and deliver us from the heathen, That we may give thanks to thy holy name, And glory in thy praise."
     },
     {
       "verse": "36",
-      "text": "Blessed be the LORD God of Israel"
+      "text": "Blessed be the LORD God of Israel For ever and ever. And all the people said, Amen, and praised the LORD ."
     },
     {
       "verse": "37",
@@ -175,5 +175,11 @@
       "verse": "43",
       "text": "And all the people departed every man to his house: and David returned to bless his house."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

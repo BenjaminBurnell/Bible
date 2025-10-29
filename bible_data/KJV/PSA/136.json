@@ -5,107 +5,113 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O give thanks unto the LORD ; for he is good:"
+      "text": "O give thanks unto the LORD ; for he is good: For his mercy endureth for ever."
     },
     {
       "verse": "2",
-      "text": "O give thanks unto the God of gods:"
+      "text": "O give thanks unto the God of gods: For his mercy endureth for ever."
     },
     {
       "verse": "3",
-      "text": "O give thanks to the Lord of lords:"
+      "text": "O give thanks to the Lord of lords: For his mercy endureth for ever."
     },
     {
       "verse": "4",
-      "text": "To him who alone doeth great wonders:"
+      "text": "To him who alone doeth great wonders: For his mercy endureth for ever."
     },
     {
       "verse": "5",
-      "text": "To him that by wisdom made the heavens:"
+      "text": "To him that by wisdom made the heavens: For his mercy endureth for ever."
     },
     {
       "verse": "6",
-      "text": "To him that stretched out the earth above the waters:"
+      "text": "To him that stretched out the earth above the waters: For his mercy endureth for ever."
     },
     {
       "verse": "7",
-      "text": "To him that made great lights:"
+      "text": "To him that made great lights: For his mercy endureth for ever:"
     },
     {
       "verse": "8",
-      "text": "The sun to rule by day:"
+      "text": "The sun to rule by day: For his mercy endureth for ever:"
     },
     {
       "verse": "9",
-      "text": "The moon and stars to rule by night:"
+      "text": "The moon and stars to rule by night: For his mercy endureth for ever."
     },
     {
       "verse": "10",
-      "text": "To him that smote Egypt in their firstborn:"
+      "text": "To him that smote Egypt in their firstborn: For his mercy endureth for ever:"
     },
     {
       "verse": "11",
-      "text": "And brought out Israel from among them:"
+      "text": "And brought out Israel from among them: For his mercy endureth for ever:"
     },
     {
       "verse": "12",
-      "text": "With a strong hand, and with a stretched out arm:"
+      "text": "With a strong hand, and with a stretched out arm: For his mercy endureth for ever."
     },
     {
       "verse": "13",
-      "text": "To him which divided the Red sea into parts:"
+      "text": "To him which divided the Red sea into parts: For his mercy endureth for ever:"
     },
     {
       "verse": "14",
-      "text": "And made Israel to pass through the midst of it:"
+      "text": "And made Israel to pass through the midst of it: For his mercy endureth for ever:"
     },
     {
       "verse": "15",
-      "text": "But overthrew Pharaoh and his host in the Red sea:"
+      "text": "But overthrew Pharaoh and his host in the Red sea: For his mercy endureth for ever."
     },
     {
       "verse": "16",
-      "text": "To him which led his people through the wilderness:"
+      "text": "To him which led his people through the wilderness: For his mercy endureth for ever."
     },
     {
       "verse": "17",
-      "text": "To him which smote great kings:"
+      "text": "To him which smote great kings: For his mercy endureth for ever:"
     },
     {
       "verse": "18",
-      "text": "And slew famous kings:"
+      "text": "And slew famous kings: For his mercy endureth for ever:"
     },
     {
       "verse": "19",
-      "text": "Sihon king of the Amorites:"
+      "text": "Sihon king of the Amorites: For his mercy endureth for ever:"
     },
     {
       "verse": "20",
-      "text": "And Og the king of Bashan:"
+      "text": "And Og the king of Bashan: For his mercy endureth for ever:"
     },
     {
       "verse": "21",
-      "text": "And gave their land for an heritage:"
+      "text": "And gave their land for an heritage: For his mercy endureth for ever:"
     },
     {
       "verse": "22",
-      "text": " Even an heritage unto Israel his servant:"
+      "text": "Even an heritage unto Israel his servant: For his mercy endureth for ever."
     },
     {
       "verse": "23",
-      "text": "Who remembered us in our low estate:"
+      "text": "Who remembered us in our low estate: For his mercy endureth for ever:"
     },
     {
       "verse": "24",
-      "text": "And hath redeemed us from our enemies:"
+      "text": "And hath redeemed us from our enemies: For his mercy endureth for ever."
     },
     {
       "verse": "25",
-      "text": "Who giveth food to all flesh:"
+      "text": "Who giveth food to all flesh: For his mercy endureth for ever."
     },
     {
       "verse": "26",
-      "text": "O give thanks unto the God of heaven:"
+      "text": "O give thanks unto the God of heaven: For his mercy endureth for ever."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

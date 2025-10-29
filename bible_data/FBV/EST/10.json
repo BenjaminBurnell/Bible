@@ -1,0 +1,25 @@
+{
+  "version": "FBV",
+  "book": "EST",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "King Xerxes imposed taxes throughout the empire, even to its most distant shores."
+    },
+    {
+      "verse": "2",
+      "text": "All he accomplished through his power and strength, as well as the complete account of the high position to which the king promoted Mordecai, are written down in the Book of the Records of the kings of Media and Persia."
+    },
+    {
+      "verse": "3",
+      "text": "For Mordecai the Jew was second-in-command to King Xerxes, leader of the Jews and highly-respected in the Jewish community, he worked to help his people and improve the security of all Jews."
+    }
+  ],
+  "license": {
+    "name": "Free Bible Version (FBV)",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Free Bible Version © Dr. Jonathan Gallagher — Released under Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

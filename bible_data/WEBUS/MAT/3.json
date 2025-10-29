@@ -71,5 +71,11 @@
       "verse": "17",
       "text": "Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

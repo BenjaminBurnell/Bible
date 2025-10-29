@@ -51,5 +51,11 @@
       "verse": "12",
       "text": "and in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -231,5 +231,11 @@
       "verse": "57",
       "text": "Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

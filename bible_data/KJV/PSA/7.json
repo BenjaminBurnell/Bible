@@ -5,71 +5,77 @@
   "verses": [
     {
       "verse": "1",
-      "text": "O LORD my God, in thee do I put my trust:"
+      "text": "O LORD my God, in thee do I put my trust: Save me from all them that persecute me, and deliver me:"
     },
     {
       "verse": "2",
-      "text": "Lest he tear my soul like a lion, rending it in pieces,"
+      "text": "Lest he tear my soul like a lion, rending it in pieces, While there is none to deliver."
     },
     {
       "verse": "3",
-      "text": "O LORD my God, if I have done this;"
+      "text": "O LORD my God, if I have done this; If there be iniquity in my hands;"
     },
     {
       "verse": "4",
-      "text": "If I have rewarded evil unto him that was at peace with me;"
+      "text": "If I have rewarded evil unto him that was at peace with me; (Yea, I have delivered him that without cause is mine enemy:)"
     },
     {
       "verse": "5",
-      "text": "Let the enemy persecute my soul, and take it ;"
+      "text": "Let the enemy persecute my soul, and take it ; Yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah."
     },
     {
       "verse": "6",
-      "text": "Arise, O LORD , in thine anger, lift up thyself because of the rage of mine enemies:"
+      "text": "Arise, O LORD , in thine anger, lift up thyself because of the rage of mine enemies: And awake for me to the judgment that thou hast commanded."
     },
     {
       "verse": "7",
-      "text": "So shall the congregation of the people compass thee about:"
+      "text": "So shall the congregation of the people compass thee about: For their sakes therefore return thou on high."
     },
     {
       "verse": "8",
-      "text": "The LORD shall judge the people: Judge me, O LORD ,"
+      "text": "The LORD shall judge the people: Judge me, O LORD , According to my righteousness, and according to mine integrity that is in me."
     },
     {
       "verse": "9",
-      "text": "Oh let the wickedness of the wicked come to an end;"
+      "text": "Oh let the wickedness of the wicked come to an end; but establish the just: For the righteous God Trieth the hearts and reins."
     },
     {
       "verse": "10",
-      "text": "My defence is of God,"
+      "text": "My defence is of God, Which saveth the upright in heart."
     },
     {
       "verse": "11",
-      "text": "God judgeth the righteous,"
+      "text": "God judgeth the righteous, And God is angry with the wicked every day."
     },
     {
       "verse": "12",
-      "text": "If he turn not, he will whet his sword;"
+      "text": "If he turn not, he will whet his sword; He hath bent his bow, and made it ready."
     },
     {
       "verse": "13",
-      "text": "He hath also prepared for him the instruments of death;"
+      "text": "He hath also prepared for him the instruments of death; He ordaineth his arrows against the persecutors."
     },
     {
       "verse": "14",
-      "text": "Behold, he travaileth with iniquity,"
+      "text": "Behold, he travaileth with iniquity, And hath conceived mischief, and brought forth falsehood."
     },
     {
       "verse": "15",
-      "text": "He made a pit, and digged it,"
+      "text": "He made a pit, and digged it, And is fallen into the ditch which he made."
     },
     {
       "verse": "16",
-      "text": "His mischief shall return upon his own head,"
+      "text": "His mischief shall return upon his own head, And his violent dealing shall come down upon his own pate."
     },
     {
       "verse": "17",
-      "text": "I will praise the LORD according to his righteousness:"
+      "text": "I will praise the LORD according to his righteousness: And will sing praise to the name of the LORD most high."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -139,5 +139,11 @@
       "verse": "34",
       "text": "The children of Reuben and the children of Gad named the altar “A Witness Between Us that Yahweh is God.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

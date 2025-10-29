@@ -1,0 +1,37 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 150,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Praise the LORD ! Praise God in his sanctuary ! Praise him in his heavens for his acts of power !"
+    },
+    {
+      "verse": "2",
+      "text": "Praise him for his mighty acts ! Praise him according to his excellent greatness !"
+    },
+    {
+      "verse": "3",
+      "text": "Praise him with the sounding of the trumpet ! Praise him with harp and lyre !"
+    },
+    {
+      "verse": "4",
+      "text": "Praise him with tambourine and dancing ! Praise him with stringed instruments and flute !"
+    },
+    {
+      "verse": "5",
+      "text": "Praise him with loud cymbals ! Praise him with resounding cymbals !"
+    },
+    {
+      "verse": "6",
+      "text": "Let everything that has breath praise the LORD ! Praise the LORD !"
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}

@@ -61,15 +61,15 @@
     },
     {
       "verse": "15",
-      "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature. "
+      "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature."
     },
     {
       "verse": "16",
-      "text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned. "
+      "text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned."
     },
     {
       "verse": "17",
-      "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues; "
+      "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;"
     },
     {
       "verse": "18",
@@ -83,5 +83,11 @@
       "verse": "20",
       "text": "And they went forth, and preached every where, the Lord working with them , and confirming the word with signs following. Amen."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

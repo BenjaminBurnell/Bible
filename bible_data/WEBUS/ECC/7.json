@@ -119,5 +119,11 @@
       "verse": "29",
       "text": "Behold, I have only found this: that God made mankind upright; but they search for many inventions.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

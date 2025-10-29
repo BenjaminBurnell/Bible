@@ -173,7 +173,7 @@
     },
     {
       "verse": "43",
-      "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me. "
+      "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me."
     },
     {
       "verse": "44",
@@ -189,11 +189,11 @@
     },
     {
       "verse": "47",
-      "text": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile! "
+      "text": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!"
     },
     {
       "verse": "48",
-      "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee. "
+      "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee."
     },
     {
       "verse": "49",
@@ -201,11 +201,17 @@
     },
     {
       "verse": "50",
-      "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these. "
+      "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these."
     },
     {
       "verse": "51",
       "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

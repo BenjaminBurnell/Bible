@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

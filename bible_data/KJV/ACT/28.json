@@ -105,11 +105,11 @@
     },
     {
       "verse": "26",
-      "text": "saying,"
+      "text": "saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; And seeing ye shall see, and not perceive:"
     },
     {
       "verse": "27",
-      "text": "For the heart of this people is waxed gross,"
+      "text": "For the heart of this people is waxed gross, And their ears are dull of hearing, And their eyes have they closed; Lest they should see with their eyes, And hear with their ears, And understand with their heart, And should be converted, And I should heal them."
     },
     {
       "verse": "28",
@@ -127,5 +127,11 @@
       "verse": "31",
       "text": "preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

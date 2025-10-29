@@ -13,7 +13,7 @@
     },
     {
       "verse": "3",
-      "text": "The LORD  is slow to anger, and great in power, and will not at all acquit the wicked: the LORD  hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet."
+      "text": "The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet."
     },
     {
       "verse": "4",
@@ -29,7 +29,7 @@
     },
     {
       "verse": "7",
-      "text": "The LORD  is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+      "text": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
     },
     {
       "verse": "8",
@@ -63,5 +63,11 @@
       "verse": "15",
       "text": "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

@@ -109,15 +109,15 @@
     },
     {
       "verse": "27",
-      "text": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said,"
+      "text": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son Is as the smell of a field which the LORD hath blessed:"
     },
     {
       "verse": "28",
-      "text": "Therefore God give thee of the dew of heaven,"
+      "text": "Therefore God give thee of the dew of heaven, And the fatness of the earth, And plenty of corn and wine:"
     },
     {
       "verse": "29",
-      "text": "Let people serve thee,"
+      "text": "Let people serve thee, And nations bow down to thee: Be lord over thy brethren, And let thy mother's sons bow down to thee: Cursed be every one that curseth thee, And blessed be he that blesseth thee."
     },
     {
       "verse": "30",
@@ -157,11 +157,11 @@
     },
     {
       "verse": "39",
-      "text": "And Isaac his father answered and said unto him,"
+      "text": "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, And of the dew of heaven from above;"
     },
     {
       "verse": "40",
-      "text": "And by thy sword shalt thou live, and shalt serve thy brother;"
+      "text": "And by thy sword shalt thou live, and shalt serve thy brother; And it shall come to pass when thou shalt have the dominion, That thou shalt break his yoke from off thy neck."
     },
     {
       "verse": "41",
@@ -187,5 +187,11 @@
       "verse": "46",
       "text": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?"
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

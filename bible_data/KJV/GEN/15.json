@@ -17,7 +17,7 @@
     },
     {
       "verse": "4",
-      "text": "And, behold, the word of the LORD  came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir."
+      "text": "And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir."
     },
     {
       "verse": "5",
@@ -87,5 +87,11 @@
       "verse": "21",
       "text": "and the Amorites, and the Canaanites, and the Girgashites, and the Jebusites."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

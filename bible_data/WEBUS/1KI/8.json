@@ -267,5 +267,11 @@
       "verse": "66",
       "text": "On the eighth day he sent the people away; and they blessed the king, and went to their tents joyful and glad in their hearts for all the goodness that Yahweh had shown to David his servant, and to Israel his people."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

@@ -195,5 +195,11 @@
       "verse": "48",
       "text": "He commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay some days."
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

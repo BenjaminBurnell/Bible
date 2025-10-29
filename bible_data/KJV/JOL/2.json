@@ -45,7 +45,7 @@
     },
     {
       "verse": "11",
-      "text": "and the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD  is great and very terrible; and who can abide it?"
+      "text": "and the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD is great and very terrible; and who can abide it?"
     },
     {
       "verse": "12",
@@ -131,5 +131,11 @@
       "verse": "32",
       "text": "And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

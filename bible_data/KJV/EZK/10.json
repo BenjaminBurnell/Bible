@@ -91,5 +91,11 @@
       "verse": "22",
       "text": "And the likeness of their faces was the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

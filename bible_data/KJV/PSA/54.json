@@ -5,31 +5,37 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Save me, O God, by thy name,"
+      "text": "Save me, O God, by thy name, And judge me by thy strength."
     },
     {
       "verse": "2",
-      "text": "Hear my prayer, O God;"
+      "text": "Hear my prayer, O God; Give ear to the words of my mouth."
     },
     {
       "verse": "3",
-      "text": "For strangers are risen up against me,"
+      "text": "For strangers are risen up against me, And oppressors seek after my soul: They have not set God before them. Selah."
     },
     {
       "verse": "4",
-      "text": "Behold, God is mine helper:"
+      "text": "Behold, God is mine helper: The Lord is with them that uphold my soul."
     },
     {
       "verse": "5",
-      "text": "He shall reward evil unto mine enemies:"
+      "text": "He shall reward evil unto mine enemies: Cut them off in thy truth."
     },
     {
       "verse": "6",
-      "text": "I will freely sacrifice unto thee:"
+      "text": "I will freely sacrifice unto thee: I will praise thy name, O LORD ; for it is good."
     },
     {
       "verse": "7",
-      "text": "For he hath delivered me out of all trouble:"
+      "text": "For he hath delivered me out of all trouble: And mine eye hath seen his desire upon mine enemies."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

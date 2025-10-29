@@ -59,5 +59,11 @@
       "verse": "14",
       "text": "Those who swear by the sin of Samaria, and say, ‘As your god, Dan, lives,’ and, ‘As the way of Beersheba lives,’ they will fall, and never rise up again.”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

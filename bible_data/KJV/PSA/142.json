@@ -5,31 +5,37 @@
   "verses": [
     {
       "verse": "1",
-      "text": "I cried unto the LORD with my voice;"
+      "text": "I cried unto the LORD with my voice; With my voice unto the LORD did I make my supplication."
     },
     {
       "verse": "2",
-      "text": "I poured out my complaint before him;"
+      "text": "I poured out my complaint before him; I shewed before him my trouble."
     },
     {
       "verse": "3",
-      "text": "When my spirit was overwhelmed within me, then thou knewest my path."
+      "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me."
     },
     {
       "verse": "4",
-      "text": "I looked on my right hand,"
+      "text": "I looked on my right hand, And beheld, but there was no man that would know me: Refuge failed me; No man cared for my soul."
     },
     {
       "verse": "5",
-      "text": "I cried unto thee, O LORD :"
+      "text": "I cried unto thee, O LORD : I said, Thou art my refuge and my portion in the land of the living."
     },
     {
       "verse": "6",
-      "text": "Attend unto my cry;"
+      "text": "Attend unto my cry; For I am brought very low: Deliver me from my persecutors; For they are stronger than I."
     },
     {
       "verse": "7",
-      "text": "Bring my soul out of prison,"
+      "text": "Bring my soul out of prison, That I may praise thy name: The righteous shall compass me about; For thou shalt deal bountifully with me."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

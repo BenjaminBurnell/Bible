@@ -5,67 +5,73 @@
   "verses": [
     {
       "verse": "1",
-      "text": "Sing aloud unto God our strength:"
+      "text": "Sing aloud unto God our strength: Make a joyful noise unto the God of Jacob."
     },
     {
       "verse": "2",
-      "text": "Take a psalm, and bring hither the timbrel,"
+      "text": "Take a psalm, and bring hither the timbrel, The pleasant harp with the psaltery."
     },
     {
       "verse": "3",
-      "text": "Blow up the trumpet in the new moon,"
+      "text": "Blow up the trumpet in the new moon, In the time appointed, on our solemn feast day."
     },
     {
       "verse": "4",
-      "text": "For this was a statute for Israel,"
+      "text": "For this was a statute for Israel, And a law of the God of Jacob."
     },
     {
       "verse": "5",
-      "text": "This he ordained in Joseph for a testimony,"
+      "text": "This he ordained in Joseph for a testimony, When he went out through the land of Egypt: Where I heard a language that I understood not."
     },
     {
       "verse": "6",
-      "text": "I removed his shoulder from the burden:"
+      "text": "I removed his shoulder from the burden: His hands were delivered from the pots."
     },
     {
       "verse": "7",
-      "text": "Thou calledst in trouble, and I delivered thee;"
+      "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee At the waters of Meribah. Selah."
     },
     {
       "verse": "8",
-      "text": "Hear, O my people, and I will testify unto thee:"
+      "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;"
     },
     {
       "verse": "9",
-      "text": "There shall no strange god be in thee;"
+      "text": "There shall no strange god be in thee; Neither shalt thou worship any strange god."
     },
     {
       "verse": "10",
-      "text": "I am the LORD thy God, which brought thee out of the land of Egypt:"
+      "text": "I am the LORD thy God, which brought thee out of the land of Egypt: Open thy mouth wide, and I will fill it."
     },
     {
       "verse": "11",
-      "text": "But my people would not hearken to my voice;"
+      "text": "But my people would not hearken to my voice; And Israel would none of me."
     },
     {
       "verse": "12",
-      "text": "So I gave them up unto their own hearts' lust:"
+      "text": "So I gave them up unto their own hearts' lust: And they walked in their own counsels."
     },
     {
       "verse": "13",
-      "text": "Oh that my people had hearkened unto me,"
+      "text": "Oh that my people had hearkened unto me, And Israel had walked in my ways!"
     },
     {
       "verse": "14",
-      "text": "I should soon have subdued their enemies,"
+      "text": "I should soon have subdued their enemies, And turned my hand against their adversaries."
     },
     {
       "verse": "15",
-      "text": "The haters of the LORD should have submitted themselves unto him:"
+      "text": "The haters of the LORD should have submitted themselves unto him: But their time should have endured for ever."
     },
     {
       "verse": "16",
-      "text": "He should have fed them also with the finest of the wheat:"
+      "text": "He should have fed them also with the finest of the wheat: And with honey out of the rock should I have satisfied thee."
     }
-  ]
+  ],
+  "license": {
+    "name": "King James Version (KJV)",
+    "license": "Public Domain",
+    "attribution": "The King James Version (KJV) of the Bible is in the Public Domain. Text sourced from public domain editions.",
+    "url": "https://www.kingjamesbibleonline.org/"
+  }
 }

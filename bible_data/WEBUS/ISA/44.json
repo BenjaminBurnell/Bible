@@ -115,5 +115,11 @@
       "verse": "28",
       "text": "who says of Cyrus, ‘He is my shepherd, and shall perform all my pleasure,’ even saying of Jerusalem, ‘She will be built;’ and of the temple, ‘Your foundation will be laid.’”"
     }
-  ]
+  ],
+  "license": {
+    "name": "World English Bible (WEBUS)",
+    "license": "Public Domain",
+    "attribution": "The World English Bible (U.S. Edition) is in the Public Domain. Source: https://ebible.org/web/",
+    "url": "https://ebible.org/web/"
+  }
 }

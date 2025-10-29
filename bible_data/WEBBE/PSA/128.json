@@ -1,0 +1,37 @@
+{
+  "version": "WEBBE",
+  "book": "PSA",
+  "chapter": 128,
+  "verses": [
+    {
+      "verse": "1",
+      "text": "Blessed is everyone who fears the LORD , who walks in his ways ."
+    },
+    {
+      "verse": "2",
+      "text": "For you will eat the labour of your hands . You will be happy , and it will be well with you ."
+    },
+    {
+      "verse": "3",
+      "text": "Your wife will be as a fruitful vine in the innermost parts of your house , your children like olive shoots around your table ."
+    },
+    {
+      "verse": "4",
+      "text": "Behold , this is how the man who fears the LORD is blessed ."
+    },
+    {
+      "verse": "5",
+      "text": "May the LORD bless you out of Zion , and may you see the good of Jerusalem all the days of your life ."
+    },
+    {
+      "verse": "6",
+      "text": "Yes , may you see your children ’s children . Peace be upon Israel ."
+    }
+  ],
+  "license": {
+    "name": "WEBBE",
+    "license": "Unknown",
+    "attribution": "No license information available.",
+    "url": ""
+  }
+}
